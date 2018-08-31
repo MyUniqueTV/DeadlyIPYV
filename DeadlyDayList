@@ -1,3 +1,21 @@
+group,Streams
+russia-today,Russia Today,https://secure-streams.akamaized.net/rt/index2500.m3u8
+rt-doc,Russia Today Doc,https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+RT-Arabic.mea,Russia Today (Arabic),https://secure-streams.akamaized.net/rt-arab/index2500.m3u8
+rbk,RBK,http://e8.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+brodilo,Brodilo TV,http://brodilo.tv/channel.php
+
+group,Youtube Live
+SkyNews.uk,Sky News,https://www.youtube.com/watch?v=XOacA3RYrXk
+SkyNews.uk,Sky News 720p,https://www.youtube.com/watch?v=XOacA3RYrXk,720
+
+group,Videos
+avi,Youtube,https://www.youtube.com/watch?v=iNJdPyoqt8U
+avi,MKV,http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
+avi,MP4,http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_30mb.mp4
+avi,Music,http://vodcasts.eu/media/malandra.mp3
+
+groups,Sports
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2180.ts
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2202.ts
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2156.ts
