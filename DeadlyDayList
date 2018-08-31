@@ -1,124 +1,114 @@
-#EXTINF:-1,------U.K.------
-#EXTINF:-1,UK-MUtv
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5802.ts
-#EXTINF:-1,UK-Baby-TV
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6261.ts
-#EXTINF:-1,UK-BBC-1
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6258.ts
-#EXTINF:-1,UK-BBC-2
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6259.ts
-#EXTINF:-1,UK-BBC-World-News
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6260.ts
-#EXTINF:-1,UK-Boomerang
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6262.ts
-#EXTINF:-1,UK-BT-Sport-1-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6238.ts
-#EXTINF:-1,UK-BT-Sport-2-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6239.ts
-#EXTINF:-1,UK-BT-Sport-Europe
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6240.ts
-#EXTINF:-1,UK-Animal-Planet
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6252.ts
-#EXTINF:-1,UK-Cartoonito
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6263.ts
-#EXTINF:-1,UK-CBS-Action
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6236.ts
-#EXTINF:-1,UK-Comedy-Central
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6232.ts
-#EXTINF:-1,UK-Crime-and-Investigation
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6233.ts
-#EXTINF:-1,UK-Discovery-Channel
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6253.ts
-#EXTINF:-1,UK-Discovery-History
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6254.ts
-#EXTINF:-1,UK-Discovery-Investigation
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6255.ts
-#EXTINF:-1,UK-Discovery-Science
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6256.ts
-#EXTINF:-1,UK-Discovery-Turbo
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6257.ts
-#EXTINF:-1,UK-Disney-Channel
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6264.ts
-#EXTINF:-1,UK-Disney-Junior
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6266.ts
-#EXTINF:-1,UK-Disney-ovies
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6267.ts
-#EXTINF:-1,UK-Disney-XD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6265.ts
-#EXTINF:-1,UK-Eurosport-1
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6241.ts
-#EXTINF:-1,UK-Eurosport-2
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6242.ts
-#EXTINF:-1,UK-FOX
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6234.ts
-#EXTINF:-1,UK-FOX-Crime
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6235.ts
-#EXTINF:-1,UK-Manchester-United-FC
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6250.ts
-#EXTINF:-1,UK-Motors-TV
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6251.ts
-#EXTINF:-1,UK-Movies-4-Men
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6237.ts
-#EXTINF:-1,UK-MTV-Hits
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6271.ts
-#EXTINF:-1,UK-MTV-Music
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6270.ts
-#EXTINF:-1,UK-Nickelodeon
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6268.ts
-#EXTINF:-1,UK-Nicktoons
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6269.ts
-#EXTINF:-1,UK-Sky-Atlantic
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6231.ts
-#EXTINF:-1,UK-Sky-Movies-Action
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6222.ts
-#EXTINF:-1,UK-Sky-Movies-Comedy
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6223.ts
-#EXTINF:-1,UK-Sky-Movies-Drama
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6224.ts
-#EXTINF:-1,UK-Sky-Movies-Family
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6225.ts
-#EXTINF:-1,UK-Sky-Movies-Premiere
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6226.ts
-#EXTINF:-1,UK-Sky-Movies-Scifi---Horror
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6227.ts
-#EXTINF:-1,UK-Sky-Movies-Select
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6228.ts
-#EXTINF:-1,UK-Sky-Movies-Showcase
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6229.ts
-#EXTINF:-1,UK-Sky-Movies-Thriller
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6230.ts
-#EXTINF:-1,UK-Sky-Sports-1-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6243.ts
-#EXTINF:-1,UK-Sky-Sports-2-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6244.ts
-#EXTINF:-1,UK-Sky-Sports-3-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6245.ts
-#EXTINF:-1,UK-Sky-Sports-4-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6246.ts
-#EXTINF:-1,UK-Sky-Sports-5-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6247.ts
-#EXTINF:-1,UK-Sky-Sports-F1-HD
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6248.ts
-#EXTINF:-1,UK-Sky-Sports-News
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6249.ts
-#EXTINF:-1,UK-Premiere_Sport
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5803.ts
-#EXTINF:-1,UK-Setanta-Sport _Irland1
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5804.ts
-#EXTINF:-1,UK-Movies_Sci-Fi_Horror
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5806.ts
-#EXTINF:-1,UK-ITV2
-http://137.74.93.219:8000/live/fahmi1/fahmi1/6622.ts
-#EXTINF:-1,UK-Movies-Modern
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5805.ts
-#EXTINF:-1,UK-B4U-Movies
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5807.ts
-#EXTINF:-1,UK-Sky-One
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5808.ts
-#EXTINF:-1,UK-ITV1
-http://137.74.93.219:8000/live/fahmi1/fahmi1/5801.ts
-#EXTINF:-1,UK-Sky_Greats
-http://137.74.93.219:8000/live/fahmi1/fahmi1/51.ts
+#EXTM3U
+EXTINF:-1,UK: CATHOLIC TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7781.ts
+EXTINF:-1,UK: FRANCE 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13599.ts
+EXTINF:-1,UK: HEART TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13600.ts
+EXTINF:-1,UK: DW
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/14231.ts
+EXTINF:-1,UK: M. HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/13605.ts
+EXTINF:-1,UK: SKYNEWS UK
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18420.ts
+EXTINF:-1,UK: HD Fashion
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18118.ts
+EXTINF:-1,UK: alazeera  qatar
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18841.ts
+EXTINF:-1,UK: BLOOMBERGH
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18855.ts
+EXTINF:-1,UK: CAPILATL TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18848.ts
+EXTINF:-1,UK: CBSN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18903.ts
+EXTINF:-1,UK: LONDEN LIVE
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/18849.ts
+EXTINF:-1,UK: HIT MUSIC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16934.ts
+EXTINF:-1,UK: Sky News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16976.ts
+EXTINF:-1,UK: Sky One
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19293.ts
+EXTINF:-1,UK: DiscScience
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19290.ts
+EXTINF:-1,UK: MOVIE 4 MEN
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19333.ts
+EXTINF:-1,UK: CBS DRAMA
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19270.ts
+EXTINF:-1,UK: Sky Movies Select HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19291.ts
+EXTINF:-1,UK: ComedyXtra
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19247.ts
+EXTINF:-1,UK: CRIME & INVERSTIGATION
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19238.ts
+EXTINF:-1,UK: MOVIES ACTION HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19327.ts
+EXTINF:-1,UK: TG4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19325.ts
+EXTINF:-1,UK: TLC
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19324.ts
+EXTINF:-1,UK: DISCCOVERY TURBO
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19235.ts
+EXTINF:-1,UK: CHANNEL 5
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19262.ts
+EXTINF:-1,UK: 5 Star
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19357.ts
+EXTINF:-1,UK: Alibi
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19359.ts
+EXTINF:-1,UK: BBC 3
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19356.ts
+EXTINF:-1,UK: BBC News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19354.ts
+EXTINF:-1,UK: MOVIES DISNEY HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19301.ts
+EXTINF:-1,UK: Animal Planet
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19283.ts
+EXTINF:-1,UK: Propeller TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22079.ts
+EXTINF:-1,UK: CHANNEL 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19350.ts
+EXTINF:-1,UK: Revelation TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22077.ts
+EXTINF:-1,UK: RUSSIA DOCUMENT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21070.ts
+EXTINF:-1,UK: RUSSIA TODAY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/21071.ts
+EXTINF:-1,UK: HISTORY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22090.ts
+EXTINF:-1,UK: British Muslim TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22078.ts
+EXTINF:-1,UK: E !
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19345.ts
+EXTINF:-1,UK: ITV4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19338.ts
+EXTINF:-1,UK: More 4
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19332.ts
+EXTINF:-1,UK: Sky Two HD
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19294.ts
+EXTINF:-1,UK: Sky Movies Comedy
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19330.ts
+EXTINF:-1,UK: DAVE
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19236.ts
+EXTINF:-1,UK: Comedy Central
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/19251.ts
+EXTINF:-1,UK: CBS NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/7786.ts
+EXTINF:-1,UK: ABC NEWS 24
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20374.ts
+EXTINF:-1,UK: Arise News
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20371.ts
+EXTINF:-1,UK: RT
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20372.ts
+EXTINF:-1,UK: RT DOCU
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/8434.ts
+EXTINF:-1,UK: RTE NEWS
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20373.ts
+EXTINF:-1,UK: CTV 8
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20375.ts
+EXTINF:-1,UK: Wairarapa TV
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20376.ts
+EXTINF:-1,UK: DISCOVERY
+http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/9206.ts
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2180.ts
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2202.ts
 http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2156.ts
