@@ -1,1632 +1,499 @@
-ext,XXX 1,http://176.67.211.6:15000/udp/239.1.7.1:22701
-ext,XXX 2,http://176.67.211.6:15000/udp/239.1.7.5:22705
-ext,XXX 3,http://176.67.211.6:15000/udp/239.1.7.2:22702
-ext,XXX 4,http://176.67.211.6:15000/udp/239.1.7.6:22706
-ext,XXX 5,http://176.67.211.6:15000/udp/239.1.7.3:22703
-ext,XXX 6,http://176.67.211.6:15000/udp/239.1.7.4:22704
-ext,XXX 7,http://163.172.15.141:9732/live?channelId=260&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 8,http://176.67.211.6:15000/udp/239.1.7.7:22707
-ext,XXX 9,http://163.172.15.141:9732/live?channelId=261&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 10,http://176.67.211.6:15000/udp/239.1.7.8:22708
-ext,XXX 11,http://163.172.15.141:9732/live?channelId=262&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 12,http://p1.iptvprivateserver.tv:80/live/V98016N4947F/V98016N4947F/50.m3u8
-ext,XXX 13,http://163.172.15.141:9732/live?channelId=263&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 14,http://163.172.15.141:9732/live?channelId=264&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 15,http://163.172.15.141:9732/live?channelId=265&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 16,http://163.172.15.141:9732/live?channelId=266&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 17,http://163.172.15.141:9732/live?channelId=267&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 18,http://163.172.15.141:9732/live?channelId=268&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 19,http://163.172.15.141:9732/live?channelId=269&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 20,http://163.172.15.141:9732/live?channelId=270&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 21,http://163.172.15.141:9732/live?channelId=271&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 22,http://163.172.15.141:9732/live?channelId=272&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 23,http://163.172.15.141:9732/live?channelId=273&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 24,http://163.172.15.141:9732/live?channelId=274&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 25,http://163.172.15.141:9732/live?channelId=275&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 26,http://163.172.15.141:9732/live?channelId=276&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 27,http://163.172.15.141:9732/live?channelId=277&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 28,http://163.172.15.141:9732/live?channelId=278&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 29,http://163.172.15.141:9732/live?channelId=279&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 30,http://163.172.15.141:9732/live?channelId=280&uid=2716&deviceMac=00:1A:79:3C:CC:75
-ext,XXX 31,http://iptv-area-51.tv:2095/live/Bobby75/giants11/11021.m3u8
-ext,XXX 32,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12051.m3u8
-ext,XXX 33,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12050.m3u8
-ext,XXX 34,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12048.m3u8
-ext,XXX 35,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12047.m3u8
-ext,XXX 36,http://iptv-area-51.tv:2095/live/Bobby75/giants11/4086.m3u8
-ext,XXX 37,http://iptv-area-51.tv:2095/live/Bobby75/giants11/7700.m3u8
-ext,XXX 38,http://iptv-area-51.tv:2095/live/Bobby75/giants11/7702.m3u8
-ext,XXX 39,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12043.m3u8
-ext,XXX 40,http://iptv-area-51.tv:2095/live/Bobby75/giants11/7699.m3u8
-ext,XXX 41,http://iptv-area-51.tv:2095/live/Bobby75/giants11/7634.m3u8
-ext,XXX 42,http://iptv-area-51.tv:2095/live/Bobby75/giants11/6299.m3u8
-ext,XXX 43,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12038.m3u8
-ext,XXX 44,http://iptv-area-51.tv:2095/live/Bobby75/giants11/7703.m3u8
-ext,XXX 45,http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
-ext,XXX 46,http://cms.bossna-caffe.com:80/live?channelId=424&deviceMac=00:1A:79:04:05:07&uid=32559
-ext,XXX 47,http://cms.bossna-caffe.com:80/live?channelId=425&deviceMac=00:1A:79:04:05:07&uid=32559
-ext,XXX 48,http://cms.bossna-caffe.com:80/live?channelId=304&deviceMac=00:1A:79:04:05:07&uid=32559
-ext,XXX 49,http://86.57.182.131:8905/play/a00n
-ext,XXX 50,http://193.233.182.71:81/udp/239.191.254.13:15285
-ext,XXX 51,http://86.57.182.131:8905/play/a00m
-ext,XXX 52,http://37.9.0.196:9000/play/a03y
-ext,XXX 53,http://195.230.115.18:65080/play/a239/tracks-v1a1/index.m3u8
-ext,XXX 54,http://193.233.182.71:81/udp/239.191.254.114:15285
-ext,XXX 55,http://193.233.182.71:81/udp/239.191.254.161:15285
-ext,XXX 56,http://193.233.182.71:81/udp/239.191.254.251:15285
-ext,XXX 57,http://193.233.182.71:81/udp/239.191.255.6:15285
-ext,XXX 58,http://37.9.0.196:9000/play/a044
-ext,XXX 59,http://37.9.0.196:9000/play/a04a
-ext,XXX 60,http://x-bosna.no-ip.biz:80/live?channelId=312&deviceMac=00:1a:79:40:03:35&uid=272
-ext,XXX 61,http://x-bosna.no-ip.biz:80/live?channelId=147&deviceMac=00:1a:79:40:07:57
-ext,XXX 62,http://x-bosna.no-ip.biz:80/live?channelId=148&deviceMac=00:1a:79:40:07:57
-ext,XXX 63,http://x-bosna.no-ip.biz:80/live?channelId=152&deviceMac=00:1a:79:40:07:57
-ext,XXX 64,http://x-bosna.no-ip.biz:80/live?channelId=151&deviceMac=00:1a:79:40:07:57
-ext,XXX 65,http://x-bosna.no-ip.biz:80/live?channelId=149&deviceMac=00:1a:79:40:07:57
-ext,XXX 66,http://185.59.220.134:8080/x1/mpegts
-ext,XXX 67,http://185.59.220.134:8080/x2/mpegts
-ext,XXX 68,http://185.59.220.134:8080/x3/mpegts
-ext,XXX 69,http://185.59.220.134:8080/x4/mpegts
-ext,XXX 70,http://185.59.220.134:8080/x5/mpegts
-ext,XXX 71,http://89.216.78.177:7051
-ext,XXX 72,http://89.216.78.177:7052
+group,-*-* UK *-*-
+ext,*-*-* UK *-*-*,http://zappingiptv.info:8080/live/sana/sana/14560.ts
+3e.ie,UK: 3E,http://zappingiptv.info:8080/live/sana/sana/16421.ts
+5star.uk,UK: 5 STAR,http://zappingiptv.info:8080/live/sana/sana/16420.ts
+AlJazeera.nws,UK: AL JAZEERA ENG HD,http://zappingiptv.info:8080/live/sana/sana/16419.ts
+Alibi.uk,UK: ALIBI,http://zappingiptv.info:8080/live/sana/sana/16418.ts
+AnimalPlanet.uk,UK: ANIMAL PLANET HD,http://zappingiptv.info:8080/live/sana/sana/16417.ts
+AtTheRaces.uk,UK: AT THE RACES,http://zappingiptv.info:8080/live/sana/sana/16416.ts
+BabyTV.uk,UK: BABY TV,http://zappingiptv.info:8080/live/sana/sana/16415.ts
+BBCOneHD.uk,UK: BBC 1 FHD,http://zappingiptv.info:8080/live/sana/sana/16411.ts
+BBC2.uk,UK: BBC 2 HD,http://zappingiptv.info:8080/live/sana/sana/16414.ts
+ext,UK: BBC 3 HD,http://zappingiptv.info:8080/live/sana/sana/16413.ts
+BBC4.uk,UK: BBC 4 HD,http://zappingiptv.info:8080/live/sana/sana/16412.ts
+Boomerang.uk,UK: BOOMERANG HD,http://zappingiptv.info:8080/live/sana/sana/16410.ts
+BoxNation.uk,UK: BOXNATION,http://zappingiptv.info:8080/live/sana/sana/16409.ts
+BTSport1.uk,UK: BT SPORT 1 HD,http://zappingiptv.info:8080/live/sana/sana/16408.ts
+BTSport2.uk,UK: BT SPORT 2 HD,http://zappingiptv.info:8080/live/sana/sana/16407.ts
+BTSport3.uk,UK: BT SPORT 3 HD,http://zappingiptv.info:8080/live/sana/sana/16406.ts
+BTSportEur.uk,UK: BT SPORT EUROPE,http://zappingiptv.info:8080/live/sana/sana/16405.ts
+ext,UK: BT SPORT EXTRA 1,http://zappingiptv.info:8080/live/sana/sana/16404.ts
+ext,UK: BT SPORT EXTRA 2,http://zappingiptv.info:8080/live/sana/sana/16403.ts
+ext,UK: BT SPORT EXTRA 3,http://zappingiptv.info:8080/live/sana/sana/16402.ts
+ext,UK: BT SPORT EXTRA 4,http://zappingiptv.info:8080/live/sana/sana/16401.ts
+ext,UK: BT SPORT EXTRA 5,http://zappingiptv.info:8080/live/sana/sana/16400.ts
+ext,UK: BT SPORT EXTRA 6,http://zappingiptv.info:8080/live/sana/sana/16399.ts
+BTSportESPN.uk,UK: BT SPORTS ESPN,http://zappingiptv.info:8080/live/sana/sana/16398.ts
+CartoonNetwork.uk,UK: CARTOON NETWORK HD,http://zappingiptv.info:8080/live/sana/sana/16397.ts
+ext,UK: CBBC THREE,http://zappingiptv.info:8080/live/sana/sana/16396.ts
+CBSAction.uk,UK: CBS ACTION,http://zappingiptv.info:8080/live/sana/sana/16395.ts
+CBSDrama.uk,UK: CBS DRAMA,http://zappingiptv.info:8080/live/sana/sana/16394.ts
+CBSReality.uk,UK: CBS REALITY,http://zappingiptv.info:8080/live/sana/sana/16393.ts
+Challenge.uk,UK: CHALLENGE,http://zappingiptv.info:8080/live/sana/sana/16392.ts
+ext,UK: CHANNEL 2,http://zappingiptv.info:8080/live/sana/sana/16391.ts
+Channel4.uk,UK: CHANNEL 4 HD,http://zappingiptv.info:8080/live/sana/sana/16390.ts
+Channel5.uk,UK: CHANNEL 5 HD,http://zappingiptv.info:8080/live/sana/sana/16389.ts
+ChelseaTV.uk,UK: CHELSEA TV,http://zappingiptv.info:8080/live/sana/sana/16388.ts
+ComedyCentral.uk,UK: COMEDY CENTRAL,http://zappingiptv.info:8080/live/sana/sana/16387.ts
+ext,UK: CRIME INVESTIGATION HD,http://zappingiptv.info:8080/live/sana/sana/16386.ts
+Dave.uk,UK: DAVE,http://zappingiptv.info:8080/live/sana/sana/16385.ts
+Discovery.uk,UK: DISCOVERY CHANNEL HD,http://zappingiptv.info:8080/live/sana/sana/16384.ts
+ext,UK: DISCOVERY HISTORY 1 HD,http://zappingiptv.info:8080/live/sana/sana/16383.ts
+ext,UK: DISCOVERY HISTORY HD,http://zappingiptv.info:8080/live/sana/sana/16382.ts
+ext,UK: DISCOVERY HOME HEALTH HD,http://zappingiptv.info:8080/live/sana/sana/16381.ts
+Investigation.uk,UK: DISCOVERY ID,http://zappingiptv.info:8080/live/sana/sana/16380.ts
+DiscoveryScience.uk,UK: DISCOVERY SCIENCE HD,http://zappingiptv.info:8080/live/sana/sana/16379.ts
+ext,UK: DISCOVERY TURBO HD,http://zappingiptv.info:8080/live/sana/sana/16378.ts
+Disney.uk,UK: DISNEY CHANNEL,http://zappingiptv.info:8080/live/sana/sana/16377.ts
+DisneyJunior.uk,UK: DISNEY JUNIOR,http://zappingiptv.info:8080/live/sana/sana/16376.ts
+ext,UK: DMAX HD,http://zappingiptv.info:8080/live/sana/sana/16375.ts
+E.uk,UK: E! HD,http://zappingiptv.info:8080/live/sana/sana/16374.ts
+E4.uk,UK: E4,http://zappingiptv.info:8080/live/sana/sana/16373.ts
+EdenPlus1.uk,UK: EDEN  1,http://zappingiptv.info:8080/live/sana/sana/16372.ts
+eirSport1.ie,UK: EIR SPORT 1,http://zappingiptv.info:8080/live/sana/sana/16371.ts
+eirSport2.ie,UK: EIR SPORT 2,http://zappingiptv.info:8080/live/sana/sana/16370.ts
+Eurosport1.uk,UK: EUROSPORT 1 HD,http://zappingiptv.info:8080/live/sana/sana/16369.ts
+Eurosport2.uk,UK: EUROSPORT 2 HD,http://zappingiptv.info:8080/live/sana/sana/16368.ts
+Film4.uk,UK: FILM 4 HD,http://zappingiptv.info:8080/live/sana/sana/16367.ts
+FoodNetwork.uk,UK: FOOD NETWORK HD,http://zappingiptv.info:8080/live/sana/sana/16366.ts
+FX.uk,UK: FOX,http://zappingiptv.info:8080/live/sana/sana/16365.ts
+France24.fr,UK: FRANCE 24,http://zappingiptv.info:8080/live/sana/sana/16364.ts
+GOLD.uk,UK: GOLD TV,http://zappingiptv.info:8080/live/sana/sana/16363.ts
+GoodFood.uk,UK: GOOD FOOD,http://zappingiptv.info:8080/live/sana/sana/16362.ts
+ext,UK: HBO COMEDY HD,http://zappingiptv.info:8080/live/sana/sana/16361.ts
+ext,UK: HBO HD,http://zappingiptv.info:8080/live/sana/sana/16360.ts
+H2.uk,UK: HISTORY 2 HD,http://zappingiptv.info:8080/live/sana/sana/16359.ts
+History.uk,UK: HISTORY HD,http://zappingiptv.info:8080/live/sana/sana/16358.ts
+ITV1London.uk,UK: ITV 1 HD,http://zappingiptv.info:8080/live/sana/sana/16357.ts
+ITV2.uk,UK: ITV 2 HD,http://zappingiptv.info:8080/live/sana/sana/16356.ts
+ITV3.uk,UK: ITV 3 HD,http://zappingiptv.info:8080/live/sana/sana/16355.ts
+ITV4.uk,UK: ITV 4 HD,http://zappingiptv.info:8080/live/sana/sana/16354.ts
+ITVBe.uk,UK: ITV BE,http://zappingiptv.info:8080/live/sana/sana/16352.ts
+ITVEncore.uk,UK: ITV ENCORE HD,http://zappingiptv.info:8080/live/sana/sana/16353.ts
+Lifetime.uk,UK: LIFETIME,http://zappingiptv.info:8080/live/sana/sana/16351.ts
+LiverpoolFCTV.uk,UK: LIVERPOOL TV,http://zappingiptv.info:8080/live/sana/sana/16350.ts
+More4.uk,UK: MORE 4,http://zappingiptv.info:8080/live/sana/sana/16349.ts
+More4.uk,UK: MORE 4 HD,http://zappingiptv.info:8080/live/sana/sana/16348.ts
+ext,UK: MOTORSPORT TV,http://zappingiptv.info:8080/live/sana/sana/16347.ts
+ext,UK: MOVIES 4 MAN,http://zappingiptv.info:8080/live/sana/sana/16346.ts
+Movies4Men.uk,UK: MOVIES 4 MEN,http://zappingiptv.info:8080/live/sana/sana/16345.ts
+MTVBase.uk,UK: MTV BASE,http://zappingiptv.info:8080/live/sana/sana/16344.ts
+MTVClassic.uk,UK: MTV CLASSIC,http://zappingiptv.info:8080/live/sana/sana/16343.ts
+MTVDance.uk,UK: MTV DANCE,http://zappingiptv.info:8080/live/sana/sana/16342.ts
+ext,UK: MTV EUROPE HD,http://zappingiptv.info:8080/live/sana/sana/16341.ts
+MTVHits.uk,UK: MTV HITS,http://zappingiptv.info:8080/live/sana/sana/16340.ts
+MTVLiveHD.uk,UK: MTV LIVE HD,http://zappingiptv.info:8080/live/sana/sana/16339.ts
+MTVRocks.uk,UK: MTV ROCKS,http://zappingiptv.info:8080/live/sana/sana/16338.ts
+ext,UK: MTV UK,http://zappingiptv.info:8080/live/sana/sana/16337.ts
+MUTV.uk,UK: MUTV HD,http://zappingiptv.info:8080/live/sana/sana/16336.ts
+ext,UK: NATGEO WILD HD,http://zappingiptv.info:8080/live/sana/sana/16335.ts
+ext,UK: NATIONEL GEOGRAPHIC HD,http://zappingiptv.info:8080/live/sana/sana/16334.ts
+NickJunior.uk,UK: NICK JR,http://zappingiptv.info:8080/live/sana/sana/16333.ts
+NickJrPlus1.uk,UK: NICK JR 1,http://zappingiptv.info:8080/live/sana/sana/16332.ts
+NickJrPeppa.uk,UK: NICK JR TOO,http://zappingiptv.info:8080/live/sana/sana/16331.ts
+Nickelodeon.uk,UK: NICKELODEON HD,http://zappingiptv.info:8080/live/sana/sana/16330.ts
+Nicktoons.uk,UK: NICKTOONS,http://zappingiptv.info:8080/live/sana/sana/16329.ts
+ext,UK: OUTDOR CHANNEL,http://zappingiptv.info:8080/live/sana/sana/16328.ts
+PickTV.uk,UK: PICK,http://zappingiptv.info:8080/live/sana/sana/16327.ts
+ext,UK: PREMIER SPORT HD,http://zappingiptv.info:8080/live/sana/sana/16326.ts
+Quest.uk,UK: QUEST,http://zappingiptv.info:8080/live/sana/sana/16325.ts
+RacingUK.uk,UK: RACING UK,http://zappingiptv.info:8080/live/sana/sana/16324.ts
+ext,UK: RTE 3 J.R,http://zappingiptv.info:8080/live/sana/sana/16323.ts
+RTE1.ie,UK: RTE ONE,http://zappingiptv.info:8080/live/sana/sana/16322.ts
+RTE2.ie,UK: RTE TWO,http://zappingiptv.info:8080/live/sana/sana/16321.ts
+ext,UK: SETANTA SPOR,http://zappingiptv.info:8080/live/sana/sana/16320.ts
+SkyArts1.uk,UK: SKY ARTS HD,http://zappingiptv.info:8080/live/sana/sana/16317.ts
+SkyAtlantic.uk,UK: SKY ATLANTIC HD,http://zappingiptv.info:8080/live/sana/sana/16312.ts
+SkyMoviesActionThriller.uk,UK: SKY CINEMA ACTION FHD,http://zappingiptv.info:8080/live/sana/sana/16313.ts
+SkyMoviesComedy.uk,UK: SKY CINEMA COMEDY FHD,http://zappingiptv.info:8080/live/sana/sana/16311.ts
+SkyMoviesDisney.uk,UK: SKY CINEMA DISNEY FHD,http://zappingiptv.info:8080/live/sana/sana/16316.ts
+SkyMoviesDrama.uk,UK: SKY CINEMA DRAMA FHD,http://zappingiptv.info:8080/live/sana/sana/16315.ts
+SkyMoviesFamily.uk,UK: SKY CINEMA FAMILY FHD,http://zappingiptv.info:8080/live/sana/sana/16310.ts
+SkyBrits.uk,UK: SKY CINEMA GREATS FHD,http://zappingiptv.info:8080/live/sana/sana/16309.ts
+SkyCinemaHits.uk,UK: SKY CINEMA HITS FHD,http://zappingiptv.info:8080/live/sana/sana/16308.ts
+SkyMoviesPremiere.uk,UK: SKY CINEMA PREMIERE FHD,http://zappingiptv.info:8080/live/sana/sana/16307.ts
+SkySciFiHorror.uk,UK: SKY CINEMA SCI FI & HORROR FHD,http://zappingiptv.info:8080/live/sana/sana/16306.ts
+ext,UK: SKY CINEMA THRILLER FHD,http://zappingiptv.info:8080/live/sana/sana/16305.ts
+ext,UK: SKY GOLF HD,http://zappingiptv.info:8080/live/sana/sana/16299.ts
+SkyLiving.uk,UK: SKY LIVING,http://zappingiptv.info:8080/live/sana/sana/16314.ts
+SkyNews.uk,UK: SKY NEWS HD,http://zappingiptv.info:8080/live/sana/sana/16304.ts
+Sky1.uk,UK: SKY ONE HD,http://zappingiptv.info:8080/live/sana/sana/16319.ts
+SkyMoviesIndie.uk,UK: SKY SELECT,http://zappingiptv.info:8080/live/sana/sana/16303.ts
+SkySpF1.uk,UK: SKY SPORT F1 FHD,http://zappingiptv.info:8080/live/sana/sana/16297.ts
+ext,UK: SKY SPORT MAIN EVENT HD,http://zappingiptv.info:8080/live/sana/sana/16300.ts
+ext,UK: SKY SPORT NEWS HD,http://zappingiptv.info:8080/live/sana/sana/16296.ts
+SkySpPL.uk,UK: SKY SPORT PREMIER LEAGUE FHD,http://zappingiptv.info:8080/live/sana/sana/16298.ts
+SkySpTheOpen.uk,UK: SKY SPORTS GOLF FHD,http://zappingiptv.info:8080/live/sana/sana/16302.ts
+SkySpMix.uk,UK: SKY SPORTS MIX HD,http://zappingiptv.info:8080/live/sana/sana/16295.ts
+Sky2.uk,UK: SKY TWO HD,http://zappingiptv.info:8080/live/sana/sana/16318.ts
+SkySpCricket.uk,UK: SPORTS CRICKET HD,http://zappingiptv.info:8080/live/sana/sana/16301.ts
+SCIFI.uk,UK: SYFY HD,http://zappingiptv.info:8080/live/sana/sana/16294.ts
+TCMplus1.uk,UK: TCM 1,http://zappingiptv.info:8080/live/sana/sana/16293.ts
+TCM.uk,UK: TCM HD,http://zappingiptv.info:8080/live/sana/sana/16292.ts
+TG4.ie,UK: TG 4,http://zappingiptv.info:8080/live/sana/sana/16291.ts
+TLC.uk,UK: TLC,http://zappingiptv.info:8080/live/sana/sana/16290.ts
+TravelChannel.uk,UK: TRAVEL,http://zappingiptv.info:8080/live/sana/sana/16289.ts
+SonyCrimeChannel2.uk,UK: TRUE CRIME,http://zappingiptv.info:8080/live/sana/sana/16288.ts
+TrueEntertainment.uk,UK: TRUE ENTERTAINMENT,http://zappingiptv.info:8080/live/sana/sana/16287.ts
+ext,UK: TRUE MOVIES 1 HD,http://zappingiptv.info:8080/live/sana/sana/16286.ts
+ext,UK: TRUE MOVIES 2 HD,http://zappingiptv.info:8080/live/sana/sana/16285.ts
+UTV.uk,UK: UTV,http://zappingiptv.info:8080/live/sana/sana/16284.ts
+VH1Classic.eu,UK: VH1 CLASSIC,http://zappingiptv.info:8080/live/sana/sana/16283.ts
+W.uk,UK: WATCH,http://zappingiptv.info:8080/live/sana/sana/16282.ts
+Yesterday.uk,UK: YESTERDAY,http://zappingiptv.info:8080/live/sana/sana/16281.ts
 
-group,Adult IPTV
-ext,Babestation 1,http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-ext,Babestation 2,https://ss3.firestormmedia.tv/cellcast2/smil:encoder3.smil/manifest.m3u8?channelID=3125
-ext,Babestation 3,https://ss1.firestormmedia.tv/cellcast2/smil:encoder2.smil/manifest.m3u8?channelID=207
-ext,Babestation Germany,https://ss1.firestormmedia.tv/cellcast2/bsgermany/manifest.m3u8?channelID=262
-ext,Babestation Xtra,https://ss4.firestormmedia.tv/cellcast2/smil:encoder7.smil/manifest.m3u8?channelID=247
-ext,Babestation Xtreme,http://sdn-global-live-http-cache.3qsdn.com/2346/_definst_/smil:2346-mbr.smil/playlist.m3u8
-ext,Miami TV (Latin America),https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
-ext,Miami TV (USA),http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-ext,Miami TV (Mexico),http://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
-ext,Miami TV (Spain),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvspain/chunklist_b1896000.m3u8
-ext,Miami TV (International),http://hlsdpi-cdn-as3.totalstream.net/dpilive/miamitv/mia/miamitv1/playlist.m3u8?auth=&uid=fp_caa877e246379b8d26f7382dbd32d326&appid=miamitv
-ext,Jasmin TV HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-ext,Jasmin TV SD,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-Hustler.br,Hustler,http://213.59.128.162:9996/play/Hustler_HD/index.m3u8
-ext,Hustler 2,http://85.132.71.6/ru/hust/index.m3u8
-ext,Hustler HD 1,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/502/index.m3u8
-ext,Hustler HD 2,http://37.9.0.196:9002/play/a005v17/index.m3u8
-ext,Hustler HD 3,http://serviceonline.live/LIVE_EXE/H03/hustler/playlist.m3u8
-playboy,Playboy TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/142/index.m3u8
-ext,Playboy TV 2,http://P1.iptvprivateserver.tv/live/V98016N4947F/V98016N4947F/50.ts
-ext,Playboy TV 3,http://213.59.128.162:9996/play/Playboy/index.m3u8
-ext,Playboy TV 4,http://p25.quest123.top:8088/live/YTVPPB/playlist.m3u8?wowzasessionid=3648574166&pk=9acdf98aa5ba416cb0517eb4ce76ab757eede95d793a0462abc1622a01551d74
-ext,Playboy TV 5,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/527/index.m3u8
-ext,Playboy TV 6,http://serviceonline.live:80/LIVE_EXE/H03/playboy/playlist.m3u8
-ext,Playboy TV 7,http://37.9.0.196:9000/play/a044/index.m3u8
-nickelodeon-rus,Fundorado TV,http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
-RedlightHD.ero,Redlight,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/501/index.m3u8
-ext,Redlight 2,http://85.132.71.6/ru/red/index.m3u8
-ext,Redlight 3,http://37.9.0.196:9002/play/a03zv16/index.m3u8
-ext,Redlight 4,http://213.59.136.48:8899/play/Redlight_HD/index.m3u8
-ext,Redlight 5,http://213.59.128.162:9996/play/Redlight_HD/index.m3u8
-ext,Redlight Central TV,http://server8.demonstream.tv/live/Studio1.m3u8
-xxl,XXL,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/500/index.m3u8
-hustler-blue,Blue Hustler,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/268/index.m3u8
-ext,Blue Hustler 2,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/1064/index.m3u8
-Brazzers.ero,Brazzers TV,http://iptv-area-51.tv:2095/live/Bobby75/giants11/12034.m3u8
-ext,Brazzers TV 2,http://cms.bossna-caffe.com:80/live?channelId=68&deviceMac=00:1A:79:04:05:07&uid=32559
-Brazzers.ero,Brazzers TV Europe,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/346/index.m3u8
-ext,Brazzers TV Europe 2,http://81.200.50.4/hls/Brazzers_nejtv_portable_low.m3u8
-ext,Brazzers TV Europe 3,http://85.132.71.6/ru/braz/index.m3u8
-ext,Brazzers TV Europe 4,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/910/index.m3u8
-ext,Brazzers TV Europe 5,http://37.9.0.196:9002/play/a002rg/index.m3u8
-ext,Brazzers TV Europe 6,http://213.59.128.162:9996/play/Brazzers_TV/index.m3u8
-ext,Centoxcento TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/361/index.m3u8
-ext,Centoxcento TV 2,http://195.230.115.18:65080/play/a8104/index.m3u8
-DuskTV.ero,Dusk,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/359/index.m3u8
-ext,Dusk 2,http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7622.mpegts
-ext,Dusk 3,http://195.230.115.18:65080/play/a8101/index.m3u8
-HustlerTV.us,Hustler TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/755/index.m3u8
-ext,Hustler TV 2,http://81.200.50.4/hls/Hustler_nejtv_portable_low.m3u8
-ext,Hustler TV 3,http://85.132.71.6/ru/blue/index.m3u8
-ext,Hustler TV 4,http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7636.mpegts
-ext,Hustler TV 5,http://37.9.0.196:9000/play/a03x/index.m3u8
-egoist,Egoist TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/267/index.m3u8
-ext,Egoist TV 2,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/526/index.m3u8
-ext,Egoist TV 3,http://91.149.172.100:80/channel?id=55&u=demo&p=demo
-o-la-la,O-La-La,http://213.59.136.48:8899/play/O-la-la/index.m3u8
-ext,O-La-La 2,http://213.59.128.162:9996/play/O-la-la/index.m3u8
-ext,Sexto 6 Senso TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/358/index.m3u8
-ext,Sexto 6 Senso TV 2,http://195.230.115.18:65080/play/a8100/index.m3u8
-ext,Xmuvi,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/363/index.m3u8
-ext,Xmuvi 2,http://213.59.128.162:9996/play/Passion_XXX/index.m3u8
-PassionXXX.ero,Passion XXX,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/362/index.m3u8
-ext,Passion XXX 2,http://serv24.vintera.tv:8081/cdn1/passion11a/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMTggMjowNDo0OSBQTSZoYXNoX3ZhbHVlPUQxeGY1bURWNTUxaGNYMUhldnFoTUE9PSZ2YWxpZG1pbnV0ZXM9NDgw
-ext,Passion XXX 3,http://195.230.115.18:65080/play/a8105/index.m3u8
-ext,SCT,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/360/index.m3u8
-ext,SCT 2,http://195.230.115.18:65080/play/a8102/index.m3u8
-PINKoTV.ero,Pink O TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/365/index.m3u8
-Hot.pt,Hot,http://37.9.0.196:9002/play/a003hui/index.m3u8
-ext,Hot 2,http://serviceonline.live:80/LIVE_EXE/H03/Brazzers/playlist.m3u8
-russkaya-noch,Russian Night,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/266/index.m3u8
-ext,Russian Night 2,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/147/index.m3u8
-ext,Russian Night 3,http://213.59.128.162:9996/play/Russkaya_noch/index.m3u8
-ext,Russian Night 4,http://37.9.0.196:9000/play/a03y/index.m3u8
-ext,Sirina TV 1,http://live.eternaltv.net:25461/live/Elballon/s7Ryp4p64G/34487.m3u8
-ext,Sirina TV 2,http://live.eternaltv.net:25461/live/Elballon/s7Ryp4p64G/34486.m3u8
-PrivateTV.ero,Private TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/354/index.m3u8
-PrivateTV.ero,Private TV 2,http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7642.mpegts
-ext,Private TV 3,http://37.9.0.196:9002/play/a047/index.m3u8
-ext,Private TV 4,http://213.59.136.48:8899/play/Private/index.m3u8
-ext,Private TV 5,http://213.59.128.162:9996/play/Private/index.m3u8
-nu-art,Nuart TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/264/index.m3u8
-ext,Nuart TV 2,http://86.57.182.131:8905/play/a00l/index.m3u8
-ext,Nuart TV 3,http://37.9.0.196:9000/play/a04a/index.m3u8
-Eroxxx.ero,Erox HD,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/866/index.m3u8
-ext,Erox HD 2,http://81.200.50.4/hls/Erox_nejtv_portable_low.m3u8
-ext,Erox HD 3,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/813/index.m3u8
-Eroxxx.ero,Eroxxx HD,http://81.200.50.4/hls/Eroxx_nejtv_portable_low.m3u8
-ext,Eroxxx 2 HD,http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7620.mpegts
-ZestTV.pl,Zest TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/855/index.m3u8
-FrenchLover.ero,Frenchlover TV,http://213.59.136.48:8899/play/FRENCHLOVER/index.m3u8
-ext,Frenchlover TV 2,http://213.59.128.162:9996/play/FRENCHLOVER/index.m3u8
-ext,Osem TV,http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-ext,25 Televisio,http://cdns724ste1010.shooowit.net/25televisiolive/amlst:25tv/playlist.m3u8
-ext,Studio 66 TV 1,http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel11/playlist.m3u8
-ext,Studio 66 TV 2,http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel12/playlist.m3u8
-ext,Studio 66 TV 3,http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel21/playlist.m3u8
-ext,Studio 66 TV 4,http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel31/playlist.m3u8
-ext,Studio 66 TV 5,http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel33/playlist.m3u8
-ext,Studio 66 TV 6,http://publish.thewebstream.co:1935/studio66tv/_definst_/studio66tv_channel41/playlist.m3u8
-ext,Xpanded TV,https://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
-ext,Xpanded TV 2,https://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
-ext,Livechannel,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/364/index.m3u8
-ext,Livechannel 2,http://195.230.115.18:65080/play/a8106/index.m3u8
-PenthouseTV.us,Penthouse TV,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/1073/index.m3u8
-ext,Penthouse TV HD,http://37.9.0.196:9002/play/a006v18/index.m3u8
-ext,Penthouse TV 2,http://37.9.0.196:9002/play/a007v19/index.m3u8
-ext,AST TV 1,https://www.ast.tv/stream/1/master.m3u8
-ext,AST TV 2,https://www.ast.tv/stream/2/master.m3u8
-ext,Vivid TV Europe,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/754/index.m3u8
-ext,Vivid Red HD 1,http://37.9.0.196:9002/play/a002tehu/index.m3u8
-ext,Vivid Red HD 2,http://37.9.0.196:9002/play/a046/index.m3u8
-ext,Varmint TV,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/922/index.m3u8
-ext,Tring Bunga Bunga,http://5.135.92.130:58143/out/u/109_1.m3u8
-ext,Tring Desire,http://95.107.132.106/out/u/294_1.m3u8
-Dorcel.ero,Dorcel TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/851/index.m3u8
-Dorcel.ero,Dorcel TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/852/index.m3u8
-Dorcel.ero,Dorcel TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/853/index.m3u8
-Dorcel.ero,Dorcel TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/854/index.m3u8
-Dorcel.ero,Dorcel TV,http://37.9.0.196:9002/play/a008v19/index.m3u8
-Dorcel.ero,Dorcel TV,http://video.bossna-caffe.com:80/live?channelId=303&deviceMac=00:1A:79:04:05:07&uid=32559
-PinkErotic.rs,Pink Erotic 1,http://s4.bossna-caffe.com:80/live?channelId=119&deviceMac=00:1A:79:04:05:07&uid=32559
-PinkErotic2.rs,Pink Erotic 2,http://213.59.128.162:9996/play/Pink_O_TV/index.m3u8
-PinkErotic3.rs,Pink Erotic 3,http://s4.bossna-caffe.com:80/live?channelId=305&deviceMac=00:1A:79:04:05:07&uid=32559
-PinkErotic4.rs,Pink Erotic 4,http://s4.bossna-caffe.com:80/live?channelId=216&deviceMac=00:1A:79:04:05:07&uid=32559
-avi,JAV 1 HD,http://172.104.114.178/vod/live/1/live.m3u8?key=fgej6531h9cu7oqvnov31934r6
-avi,JAV 2 HD,http://172.104.114.178/vod/live/2/live.m3u8?key=fgej6531h9cu7oqvnov31934r6
-avi,JAV 3 HD,http://172.104.114.178/vod/live/3/live.m3u8?key=fgej6531h9cu7oqvnov31934r6
-avi,JAV 4 HD,http://172.104.114.178/vod/live/4/live.m3u8?key=fgej6531h9cu7oqvnov31934r6
-ext,Candy TV,http://ed68815c.iptvspy.ru/iptv/UZL5EK8C53FQTB/923/index.m3u8
-ext,Juicy,http://pextrem.budtv.club:25461/live/canalesgral/hdgdgdhd/856.m3u8
-ext,Barely Legal TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/862/index.m3u8
-ext,Barely Legal TV 2,http://37.9.0.196:9000/play/a040/index.m3u8
-Sextreme.ar,Sextreme,http://shacktv.com:8080/live/2685812908/3730491015/2.m3u8
-ext,VISIT-X TV,http://playlist.onlybest.tv/en/channel/81717eef9d81ab9abf386f2c11c58e59/929/index.m3u8
-ext,VISIT-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-VenusTV.uk,Venus,http://P1.iptvprivateserver.tv/live/V98016N4947F/V98016N4947F/48.ts
-ext,Venus 2,http://p09.quest123.top:8088/live/YTVPVNS/playlist.m3u8?wowzasessionid=501459171&pk=9acdf98aa5ba416cb0517eb4ce76ab757eede95d793a0462abc1622a01551d74
-ext,Venus 3,http://serviceonline.live:80/LIVE_EXE/H01/Venus/PROFILE03.m3u8
-ext,Eye Candy,http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-ext,Midnite Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-RealityKings.us,Reality Kings,http://usaiptv.ddns.net:9090/load/a6e4ca00bdc7/7627.mpegts
-PinkTV.fr,Pink TV,http://85.132.71.6/ru/pink/index.m3u8
-ext,Live Strip Club Dressing Room,https://5652cb24c16ee.streamlock.net/2001edge/smil:2001DR_premium.smil/playlist.m3u8
-ext,Live Strip Club Main Stage,https://5652cb24c16ee.streamlock.net/2001edge/smil:2001MS_premium.smil/playlist.m3u8
+group,-*-* DESPORTO *-*-
+ext,*-*-* DESPORTO *-*-*,http://zappingiptv.info:8080/live/sana/sana/7886.ts
+SportTVplus.pt,Sport TV +,http://zappingiptv.info:8080/live/sana/sana/668.ts
+sport1-lt,Sport TV 4K,http://zappingiptv.info:8080/live/sana/sana/12074.ts
+ext,Sport TV 1 LB,http://zappingiptv.info:8080/live/sana/sana/3434.ts
+sporttv1.pt,Sport TV 1,http://zappingiptv.info:8080/live/sana/sana/667.ts
+sporttv1.pt,Sport TV 1 HD,http://zappingiptv.info:8080/live/sana/sana/666.ts
+sporttv1.pt,Sport TV 1 Full HD,http://zappingiptv.info:8080/live/sana/sana/15243.ts
+ext,Sport TV 1 Full HD Extra,http://zappingiptv.info:8080/live/sana/sana/279.ts
+ext,Sport TV 2 LB,http://zappingiptv.info:8080/live/sana/sana/16151.ts
+sporttv2.pt,Sport TV 2,http://zappingiptv.info:8080/live/sana/sana/665.ts
+sporttv2.pt,Sport TV 2 HD,http://zappingiptv.info:8080/live/sana/sana/664.ts
+sporttv2.pt,Sport TV 2 Full HD,http://zappingiptv.info:8080/live/sana/sana/280.ts
+ext,Sport TV 3 LB,http://zappingiptv.info:8080/live/sana/sana/16149.ts
+sporttv3.pt,Sport TV 3,http://zappingiptv.info:8080/live/sana/sana/663.ts
+sporttv3.pt,Sport TV 3 HD,http://zappingiptv.info:8080/live/sana/sana/662.ts
+sporttv3.pt,Sport TV 3 Full HD,http://zappingiptv.info:8080/live/sana/sana/281.ts
+ext,Sport TV 4 LB,http://zappingiptv.info:8080/live/sana/sana/16147.ts
+sporttv4.pt,Sport TV 4,http://zappingiptv.info:8080/live/sana/sana/661.ts
+sporttv4.pt,Sport TV 4 HD,http://zappingiptv.info:8080/live/sana/sana/660.ts
+ext,Sport TV 5 LB,http://zappingiptv.info:8080/live/sana/sana/16145.ts
+sporttv5.pt,Sport TV 5,http://zappingiptv.info:8080/live/sana/sana/659.ts
+sporttv5.pt,Sport TV 5 HD,http://zappingiptv.info:8080/live/sana/sana/658.ts
+ext,BTV LB,http://zappingiptv.info:8080/live/sana/sana/3433.ts
+baltijos-lt,BTV,http://zappingiptv.info:8080/live/sana/sana/202.ts
+bTV.bg,BTV HD,http://zappingiptv.info:8080/live/sana/sana/716.ts
+bTV.bg,BTV Full HD,http://zappingiptv.info:8080/live/sana/sana/436.ts
+ext,ElevenSports 1,http://zappingiptv.info:8080/live/sana/sana/15244.ts
+ext,ElevenSports 1 HD,http://zappingiptv.info:8080/live/sana/sana/16422.ts
+ext,ElevenSports 1 LB,http://zappingiptv.info:8080/live/sana/sana/16659.ts
+ext,ElevenSports 2 HD,http://zappingiptv.info:8080/live/sana/sana/15245.ts
+ext,ElevenSports 3 HD,http://zappingiptv.info:8080/live/sana/sana/15246.ts
+ext,ElevenSports 4 HD,http://zappingiptv.info:8080/live/sana/sana/15247.ts
+ext,ElevenSports 5 HD,http://zappingiptv.info:8080/live/sana/sana/15248.ts
+ext,ElevenSports 6 HD,http://zappingiptv.info:8080/live/sana/sana/15249.ts
+Barca.pt,Barca TV,http://zappingiptv.info:8080/live/sana/sana/889.ts
+NBA.blt,NBA HD,http://zappingiptv.info:8080/live/sana/sana/1096.ts
+ext,Eurosport 1 HD LB,http://zappingiptv.info:8080/live/sana/sana/16144.ts
+Eurosport1.uk,Eurosport 1 HD,http://zappingiptv.info:8080/live/sana/sana/404.ts
+Eurosport2.uk,Eurosport 2,http://zappingiptv.info:8080/live/sana/sana/651.ts
+FuelTV.pt,Fuel TV,http://zappingiptv.info:8080/live/sana/sana/649.ts
+ext,Kombat SportS,http://zappingiptv.info:8080/live/sana/sana/648.ts
+FightNetwork.ca,Fight Network HD,http://zappingiptv.info:8080/live/sana/sana/800.ts
+ABolaTV.pt,A Bola TV,http://zappingiptv.info:8080/live/sana/sana/645.ts
+MotorsTV.eu,Motors TV,http://zappingiptv.info:8080/live/sana/sana/655.ts
+Motorvision.svn,Motorvision HD,http://zappingiptv.info:8080/live/sana/sana/644.ts
+cazaepesca.pt,Caça e Pesca,http://zappingiptv.info:8080/live/sana/sana/643.ts
+SPORTINGTV.pt,Sporting TV HD,http://zappingiptv.info:8080/live/sana/sana/642.ts
+RealMadridTV.sp,Real Madrid TV,http://zappingiptv.info:8080/live/sana/sana/309.ts
+CanalPlusToros.es,Toros TV,http://zappingiptv.info:8080/live/sana/sana/641.ts
+Premierefchd.br,PFC HD,http://zappingiptv.info:8080/live/sana/sana/640.ts
 
-group,Adult Movies
-ext,Brazzers 1,http://static.brazzers.com/scenes/7119/180sec.flv
-Brazzers.ero,Brazzers 2,http://static.brazzers.com/scenes/5457/180sec.flv
-Brazzers.ero,Brazzers 3,http://static.brazzers.com/scenes/3327/180sec.flv
-Brazzers.ero,Brazzers 4,http://static.brazzers.com/scenes/3328/180sec.flv
-ext,Brazzers 5,http://static.brazzers.com/scenes/4517/180sec.flv
-ext,Brazzers 6,http://static.brazzers.com/scenes/4521/180sec.flv
-ext,Brazzers 7,http://static.brazzers.com/scenes/4523/180sec.flv
-ext,Brazzers 8,http://static.brazzers.com/scenes/4524/180sec.flv
-ext,Brazzers 9,http://static.brazzers.com/scenes/4525/180sec.flv
-ext,Brazzers 10,http://static.brazzers.com/scenes/4526/180sec.flv
-ext,Brazzers 11,http://static.brazzers.com/scenes/4527/180sec.flv
-ext,Brazzers 12,http://static.brazzers.com/scenes/4528/180sec.flv
-ext,Brazzers 13,http://static.brazzers.com/scenes/4529/180sec.flv
-ext,Brazzers 14,http://static.brazzers.com/scenes/4530/180sec.flv
-ext,Brazzers 15,http://static.brazzers.com/scenes/4531/180sec.flv
-ext,Brazzers 16,http://static.brazzers.com/scenes/4533/180sec.flv
-ext,Brazzers 17,http://static.brazzers.com/scenes/4534/180sec.flv
-ext,Brazzers 18,http://static.brazzers.com/scenes/4536/180sec.flv
-ext,XXX AdultsVOD3D-1 + 18 3D,http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-ext,XXX AdultsVOD3D-10 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-ext,XXX AdultsVOD3D-11 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-ext,XXX AdultsVOD3D-13 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-ext,XXX AdultsVOD3D-15 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-ext,XXX AdultsVOD3D-16 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-ext,XXX AdultsVOD3D-20 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-ext,XXX AdultsVOD3D-21 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-ext,XXX AdultsVOD3D-25 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-ext,XXX AdultsVOD3D-26 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-ext,XXX AdultsVOD3D-3 + 18 3D,http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-ext,XXX AdultsVOD3D-4 + 18 3D,http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-ext,XXX AdultsVOD3D-5 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-ext,XXX AdultsVOD3D-6 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-ext,XXX AdultsVOD3D-7 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-ext,XXX AdultsVOD3D-8 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-ext,XXX AdultsVOD3D-9 + 18 3D,http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-avi,XXX-Babes 1,http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
-avi,XXX-Babes 10,http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
-avi,XXX-Babes 11,http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
-avi,XXX-Babes 12,http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
-avi,XXX-Babes 16,http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
-avi,XXX-Babes 19,http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
-avi,XXX-Babes 2,http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
-avi,XXX-Babes 3,http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
-avi,XXX-Babes 4,http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
-avi,XXX-Babes 5,http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
-avi,XXX-Babes 6,http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
-avi,XXX-Babes 7,http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
-avi,XXX-Babes 8,http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
-avi,Chichi Medina,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-avi,Chloe Foster,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
-avi,Dakota Skye,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-avi,Demida,http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
-avi,Dusya,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
-ext,Movie xxx,http://5.196.77.185/abs.uk/
-ext,Movie xxx,http://5.196.79.19/abs.uk/
-ext,Movie xxx,http://5.196.79.19/abs.uk/
-avi,MOVIE XXX,http://cdn.momxxx.org/momxxx_mp4/mom_angel_wicky_RU110216_720p_2600.mp4
-avi,MOVIE XXX,http://cdn.momxxx.org/momxxx_mp4/mom_yasmin_scott_RU061416_720p_2600.mp4
-avi,Nubile1,http://images.nubilefilms.com/films/passionate_awakening_with_emily_grey/videos/nubilefilms_passionate_awakening_long_640.mp4
-avi,Nubile2,http://images.nubiles-porn.com/videos/fucking_her_right/videos/nubilesporn_fucking_her_right_long_640.mp4
-avi,Nubile3,http://images.nubiles-porn.com/videos/deep_in_her_pussy/videos/nubilesporn_deep_in_her_pussy_long_640.mp4
-avi,Nubile4,http://images.nubiles-casting.com/videos/maryjane_johnson_cast_kacy_lane_ep1/videos/nubilescasting_maryjane_johnson_cast_kacy_lane_ep1_long_640.mp4
-avi,Nubile5,http://images.nubilefilms.com/films/sexual_tension_with_kacy_lane/videos/nubilefilms_sexual_tension_long_640.mp4
-avi,FILM / VIDEO VINTAGE ITALIA,http://tuboitaliano.xxx/media/videos/5/8/8/d/c/588dc4e1d8598.mp4
-avi,FILM / VIDEO VINTAGE ITALIA 1,http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290f6edbfc6.mp4
-avi,SELEN,http://videopornoitaliano.net/media/videos/5/4/8/e/b/548eb57b50a2b.mp4
-avi,SIGNORE SC @ ND @ LOSE DI PROVINCI @,http://videopornoitaliano.net/media/videos/5/4/a/f/7/54af7b7a48578.mp4
-avi,R @ tte and Sf @ ndate,http://cdn.videos.pornopizza.it/media/videos/5/7/a/8/b/57a8b58243474.mp4
-avi,Le P @ rcone Volanti,http://cdn.videos.pornopizza.it/media/videos/5/7/3/a/f/573af2c3cc340.mp4
-avi,Filomena M @ rtusano,http://cdn.videos.pornopizza.it/media/videos/5/7/8/a/5/578a53d649c3f.mp4
-avi,The M @ glie of the Dentist,http://cdn.videos.pornopizza.it/media/videos/5/6/2/1/6/56216132ec850.mp4
-avi,Il Di @ volo in C @ nvento,http://cdn.videos.pornopizza.it/media/videos/5/6/f/1/6/56f16772da365.mp4
-avi,C @,http://cdn.videos.pornopizza.it/media/videos/5/6/2/5/3/56253088b7670.mp4
-avi,Le avventure Erotix di C @ ppuccetto Ross @,http://cdn.videos.pornopizza.it/media/videos/5/6/2/4/f/5624fb505edd6.mp4
-avi,Pr @ messi Sp @ si,http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/e/5623e53b5500a.mp4
-avi,P @ rno Classico Angelic @ Bell @,http://cdn.videos.pornopizza.it/media/videos/5/6/2/3/8/56238a00f2fdd.mp4
-avi,Eternal P @ ssione,http://cdn.videos.pornopizza.it/media/videos/5/6/6/6/9/566693ce97327.mp4
-avi,L @ sicili @ n @,http://media.tuboitaliano.xxx:81/videos/5/6/5/5/7/56557bb4a3b02.mp4
-avi,L @ mico di famigli @,http://media.tuboitaliano.xxx:81/videos/5/6/3/1/2/5631279b0e557.mp4
-avi,L'elettricist @ ti ric @ ric @ il,http://media.tuboitaliano.xxx:81/videos/5/6/2/a/3/562a37f5d9fdc.mp4
-avi,Il fuoco dell @ tr @ sgressione,http://media.tuboitaliano.xxx:81/videos/5/6/2/7/7/562777081b8e7.mp4
-avi,B @ gno c @ ldo,http://media.tuboitaliano.xxx:81/videos/5/6/2/5/0/562503f05c990.mp4
-avi,Venere in pellicci @,http://media.tuboitaliano.xxx:81/videos/5/6/5/5/8/565582e84e062.mp4
-avi,Cocco di p @ p @ ',http://cdn.videos.pornopizza.it/media/videos/5/6/6/7/1/5667180f10c06.mp4
-avi,Italian Beauty,http://streaming.videopornoitalia.com:81/5/8/a/5/2/58a52f2b7933f.mp4
-ext,Sposa,http://streaming.videopornoitalia.com:81/5/8/a/5/1/58a5189
-avi,Calde sabbie d'amore,http://media.tuboitaliano.it:81/videos/5/9/b/b/b/59bbb36483119.mp4
-avi,Vere e sexy fichette che si fan leccare ed inculare forte,http://media.tuboitaliano.it:81/videos/5/7/e/0/0/57e000c813990.mp4
-avi,L'uomo di casa sottomesso a sua volta castiga,http://media.tuboitaliano.it:81/videos/5/7/b/d/d/57bdd9ad873d2.mp4
-avi,La sexy dottoressa cura con la bocca il culo e la figa,http://media.tuboitaliano.it:81/videos/5/7/8/6/f/5786fabe0084c.mp4
-avi,Anche le suore vogliono il cazzo,http://media.tuboitaliano.it:81/videos/5/8/0/f/9/580f93a22dd90.mp4
-avi,Mario Salieri presenta scopate selvagge,http://media.tuboitaliano.it:81/videos/5/8/5/7/0/5857011522b4d.mp4
-avi,Alle signore italiane piace il cazzo giovane,http://media.tuboitaliano.it:81/videos/5/9/2/3/2/59232ea4c21d8.mp4
-avi,Simona Valli e la sua passione per il cazzo,http://media.tuboitaliano.it:81/videos/5/9/2/3/1/592312bab5803.mp4
-avi,Le passioni di una sposa maiala,http://media.tuboitaliano.it:81/videos/5/9/1/a/9/591a97ec61417.mp4
-avi,Jessica Rizzo castigata da bbc e non solo in calde orge,http://media.tuboitaliano.it:81/videos/5/7/8/7/2/5787205acfe25.mp4
-avi,Duri e possenti cazzoni sfondano fiche e culetti,http://media.tuboitaliano.it:81/videos/5/7/5/c/5/575c53b52c3d3.mp4
-avi,Vi Presento Mia Figlia film porno integrale,http://media.tuboitaliano.it:81/videos/5/7/8/6/f/5786f11ac0d6a.mp4
-avi,Capodanno a Casa Curiello film porno intero,http://media.tuboitaliano.it:81/videos/5/7/8/6/e/5786e11b2acda.mp4
-avi,Sogni Bagnati D Amore pornazzo vintage,http://media.tuboitaliano.it:81/videos/5/7/8/6/c/5786cdeb1abbf.mp4
-avi,Betty Blue porno italiano intero,http://media.tuboitaliano.it:81/videos/5/7/7/8/0/577804dbc65cd.mp4
-ext,Immagini Di Un Convento film integrale vintage,http://media.tuboitaliano.it:81/videos/5/7/5/d/c/575dcda4732dd.flv
-avi,Affari Di Sorelle film porno completo,http://media.tuboitaliano.it:81/videos/5/7/7/7/f/5777f2ac9842e.mp4
-avi,Una Vita In Gioco film completo,http://media.tuboitaliano.it:81/videos/5/7/5/a/f/575af2d0df422.mp4
-ext,Voyeur film intero,http://media.tuboitaliano.it:81/videos/5/7/5/a/f/575af45f819f8.flv
-avi,Milly La Ninfomane film porno vintage italiano,http://media.tuboitaliano.it:81/videos/5/7/5/c/3/575c344b168cc.mp4
-ext,Amore e Psiche pornazzo completo,http://media.tuboitaliano.it:81/videos/5/7/5/d/4/575d4ee21a02e.flv
-avi,Ролик 18+  1,http://195.154.207.95/videos/2015/07-10/174110.mp4
-avi,Ролик 18+  2,http://195.154.207.95/videos/2015/07-10/174111.mp4
-avi,Ролик 18+  3,http://195.154.207.95/videos/2015/07-10/174112.mp4
-avi,Ролик 18+  4,http://195.154.207.95/videos/2015/07-10/174115.mp4
-avi,Ролик 18+  5,http://195.154.207.95/videos/2015/07-10/174116.mp4
-avi,Ролик 18+  6,http://195.154.207.95/videos/2015/07-10/174113.mp4
-avi,Ролик 18+  7,http://195.154.207.95/videos/2015/07-10/174117.mp4
-avi,Ролик 18+  8,http://195.154.207.95/videos/2015/07-10/174118.mp4
-avi,Ролик 18+  9,http://195.154.207.95/videos/2015/07-10/174119.mp4
-avi,Ролик 18+  10,http://195.154.207.95/videos/2015/07-10/174120.mp4
-avi,Ролик 18+  11,http://195.154.207.95/videos/2015/07-10/174121.mp4
-avi,Ролик 18+  12,http://195.154.207.95/videos/2015/07-10/174122.mp4
-avi,Ролик 18+  13,http://195.154.207.95/videos/2015/07-10/174123.mp4
-avi,Ролик 18+  14,http://195.154.207.95/videos/2015/07-11/174124.mp4
-avi,Ролик 18+  15,http://195.154.207.95/videos/2015/07-11/174125.mp4
-avi,Ролик 18+  16,http://195.154.207.95/videos/2015/07-11/174126.mp4
-avi,Ролик 18+  17,http://195.154.207.95/videos/2015/07-11/174127.mp4
-avi,Ролик 18+  18,http://195.154.207.95/videos/2015/07-11/174128.mp4
-avi,Ролик 18+  19,http://195.154.207.95/videos/2015/07-11/174129.mp4
-avi,Ролик 18+  20,http://195.154.207.95/videos/2015/07-11/174130.mp4
-avi,Ролик 18+  21,http://195.154.207.95/videos/2015/07-11/174132.mp4
-avi,Ролик 18+  22,http://195.154.207.95/videos/2015/07-11/174133.mp4
-avi,Ролик 18+  23,http://195.154.207.95/videos/2015/07-11/174131.mp4
-avi,Ролик 18+  24,http://195.154.207.95/videos/2015/07-11/174134.mp4
-avi,Ролик 18+  25,http://195.154.207.95/videos/2015/07-11/174136.mp4
-avi,Ролик 18+  26,http://195.154.207.95/videos/2015/07-11/174137.mp4
-avi,Ролик 18+  27,http://195.154.207.95/videos/2015/07-11/174135.mp4
-avi,Ролик 18+  28,http://195.154.207.95/videos/2015/07-11/174138.mp4
-avi,Ролик 18+  29,http://195.154.207.95/videos/2015/07-11/174140.mp4
-avi,Ролик 18+  30,http://195.154.207.95/videos/2015/07-11/174143.mp4
-avi,Ролик 18+  31,http://195.154.207.95/videos/2015/07-11/174141.mp4
-avi,Ролик 18+  32,http://195.154.207.95/videos/2015/07-11/174142.mp4
-avi,Ролик 18+  33,http://195.154.207.95/videos/2015/07-13/174144.mp4
-avi,Ролик 18+  34,http://195.154.207.95/videos/2015/07-13/174145.mp4
-avi,Ролик 18+  35,http://195.154.207.95/videos/2015/07-13/174146.mp4
-avi,Ролик 18+  36,http://195.154.207.95/videos/2015/07-13/174147.mp4
-avi,Ролик 18+  37,http://195.154.207.95/videos/2015/07-13/174148.mp4
-avi,Ролик 18+  38,http://195.154.207.95/videos/2015/07-13/174149.mp4
-avi,Ролик 18+  39,http://195.154.207.95/videos/2015/07-13/174150.mp4
-avi,Ролик 18+  40,http://195.154.207.95/videos/2015/07-13/174152.mp4
-avi,Ролик 18+  41,http://195.154.207.95/videos/2015/07-13/174151.mp4
-avi,Ролик 18+  42,http://195.154.207.95/videos/2015/07-13/174153.mp4
-avi,Ролик 18+  43,http://195.154.207.95/videos/2015/07-13/174154.mp4
-avi,Ролик 18+  44,http://195.154.207.95/videos/2015/07-13/174155.mp4
-avi,Ролик 18+  45,http://195.154.207.95/videos/2015/07-13/174157.mp4
-avi,Ролик 18+  46,http://195.154.207.95/videos/2015/07-13/174158.mp4
-avi,Ролик 18+  47,http://195.154.207.95/videos/2015/07-13/174160.mp4
-avi,Ролик 18+  48,http://195.154.207.95/videos/2015/07-13/174156.mp4
-avi,Ролик 18+  49,http://195.154.207.95/videos/2015/07-13/174161.mp4
-avi,Ролик 18+  50,http://195.154.207.95/videos/2015/07-13/174159.mp4
-ext,Юные наездницы,http://pl.vbfcdn.net/videos/190817_16/190817_16_720p.m3u8
-ext,Белоснежка и Семь Гномов,http://pl.vbfcdn.net/videos/150917_06/150917_06_720p.m3u8
-ext,Секс терминаторы,http://pl.vbfcdn.net/videos/100917_06/100917_06_720p.m3u8
-ext,Частный Покер,http://pl.vbfcdn.net/videos/050917_07/050917_07_720p.m3u8
-ext,Русский Институт - Урок 2,http://pl.vbfcdn.net/videos/050917_05/050917_05_720p.m3u8
-ext,Шухер в интернате,http://pl.vbfcdn.net/videos/260817_22/260817_22_720p.m3u8
-ext,Шлюхи Карибов,http://pl.vbfcdn.net/videos/130917_19/130917_19_720p.m3u8
-ext,Порно Войны: Эпизод 1,http://pl.vbfcdn.net/videos/280817_14/280817_14_720p.m3u8
-ext,9 1/2 Недель,http://pl.vbfcdn.net/videos/260817_21/260817_21_720p.m3u8
-ext,Молодые любят погорячее,http://pl.vbfcdn.net/videos/190817_02/190817_02_720p.m3u8
-ext,Кульминационный Момент Апокалипсиса 1,http://pl.vbfcdn.net/videos/100917_05/100917_05_720p.m3u8
-ext,Брызгающие кольты,http://pl.vbfcdn.net/videos/270817_15/270817_15_720p.m3u8
-avi,In*esti ...........,http://streaming.videopornoitalia.com:81/5/8/7/0/a/5870aaf8b93cb.mp4
-avi,Il parco in periferia ......,http://streaming.videopornoitalia.com:81/5/6/2/5/5/5625548a5e267.mp4
-avi,IL SEGRETO DI .....,http://media.videopornoitaliano.com:81/videos/5/8/6/d/0/586d0f3c1b4ee.mp4
-avi,ROSSANA....,http://media.videopornoitaliano.com:81/videos/5/8/4/c/8/584c80c537f54.mp4
-avi,TURISTE......,http://media.videopornoitaliano.com:81/videos/5/8/1/9/c/5819c03bc8715.mp4
-avi,LA CLONAZIONE,http://media.videopornoitaliano.com:81/videos/5/8/3/7/e/5837efc8c3834.mp4
-avi,Malena Trailer,http://hw01.trailers.famehosted.com/2/1/5/0/c50512/trailers/tr_50512_hd.mp4
-avi,Malena and Trixi Trailer,http://hw01.trailers.famehosted.com/2/1/5/0/c50512/trailers/50512_02/tr_50512_02_hd.mp4
-avi,Rocco's perfect slaves Trailer,http://hw01.trailers.famehosted.com/5/2/9/0/c50925/trailers/50925_01/tr_50925_01_hd.mp4
-avi,Porneq 06,http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4
-avi,Porneq 08,http://porneq.com/media/porn7/videos/1929/Dirty-Western-2-Smokin-Guns-1995-Full-Movie-360p-7vnRLFOTPE2.mp4
-avi,LARA CROFT VIDEOGAMES XXX,http://www.phicatube.net/media/videos/iphone/40054.mp4
-avi,POKEMON XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/35756.mp4
-avi,BASIC INSTINCT XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/33174.mp4
-avi,SUPERMAN Vs SPIDERMAN XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/28208.mp4
-avi,BATMAN XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/19633.mp4
-avi,MAN IN BLACK XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/20376.mp4
-avi,KILL BILL XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/21692.mp4
-avi,X-Men XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/4438.mp4
-avi,TERMINATOR XXX Parody-super porn,http://www.phicatube.net/media/videos/iphone/4437.mp4
-avi,STAR TREK XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4435.mp4
-avi,SCOOBY DOO XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4434.mp4
-avi,ET XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4433.mp4
-avi,South Park XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4428.mp4
-avi,PINOCCHIO XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4425.mp4
-avi,THE FLINSTONES -PT.1- XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4420.mp4
-avi,THE FLINSTONES -PT.2- XXX Parody-SUPER PORN,http://www.phicatube.net/media/videos/iphone/4421.mp4
-avi,Aburrida,http://cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4
-avi,Adorable teen con maduro,http://cdn.servitubes.com/videos/2/3/e/6/b/23e6bdb1f1136158df6a20b60af4e40b0544c924.mp4
-avi,La France а Poil 1,http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4
-avi,La France а Poil 10,http://dlfr2.cdntlsv.com/092985895324a46a93045f4333e1e753.mp4
-avi,La France а Poil 11,http://dlfr3.cdntlsv.com/6a58c568af66c2220b63d67e94398483.mp4
-avi,La France а Poil 12,http://dlfr3.cdntlsv.com/05906a11b48b92ed0f994a3a056a1b05.mp4
-avi,La France а Poil 2,http://dlfr2.cdntlsv.com/134d0295547459a32a3e546ca1065496.mp4
-avi,La France а Poil 3,http://dlfr3.cdntlsv.com/300ed1fc5e5b83d68c42689a75e3026b.mp4
-avi,La France а Poil 4,http://dlfr3.cdntlsv.com/8508c012c370489d39c2a7c90e76bc77.mp4
-avi,La France а Poil 5,http://dlfr3.cdntlsv.com/067b6ed95858e1a11f10e5765810b3f2.mp4
-avi,La France а Poil 6,http://dlfr3.cdntlsv.com/759127a932bd2af3cc7528eb839d09ff.mp4
-avi,La France а Poil 7,http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4
-avi,La France а Poil 8,http://dlfr2.cdntlsv.com/909ab898d448ae1729319315b18f701a.mp4
-avi,La France а Poil 9,http://dlfr2.cdntlsv.com/4b0c2474c8a1607f810fc953c92f6a13.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_kathy_sybil_RU031417_720p_2600.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_terra_yenna_RU022217_720p_2600.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_caroline_ardolino_RU012017_720p_2600.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_angel_wicky_RU110216_720p_2600.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_angel_wicky_RU110216_720p_2600.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_yasmin_scott_RU061416_720p_2600.mp4
-avi,MOM XXX,http://cdn.momxxx.org/momxxx_mp4/mom_annie_terra_RU022516_720p_4000.mp4
-avi,Christy Mack hace practicas en el ejercito,https://cdn.servitubes.com/videos/4/3/9/4/5/4394549eecd8e8aa5341a37ccefd070eb1e5a049.mp4
-avi,Una cura milagrosa,https://cdn2.servitubes.com/videos/4/b/d/7/7/4bd772f66e7646c939d9e34554ab1c262ae93209.mp4
-avi,Preston y Blue en accion,https://cdn2.servitubes.com/videos/4/3/2/8/a/4328ad617ef937441dbd7481fd32db6c2c7ad545.mp4
-avi,Penetrando a Kelsie Monroe,https://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4
-avi,Anna Bell sabe atender a los clientes,https://cdn2.servitubes.com/videos/b/f/3/9/f/bf39f97b57efc3d8ce3259abae79d1070ac3b896.mp4
-avi,Pego escondendo no armario,https://cdn2.servitubes.com/videos/6/8/d/6/9/68d697f8109924a39ba9a6319935702ccc26eb55.mp4
-avi,Como ser una ganadora dolorida,https://cdn2.servitubes.com/videos/c/d/0/6/7/cd067ad27542e80d1183612d84d0c57fe810189d.mp4
-avi,Pareja entra en calor en invierno,https://cdn2.servitubes.com/videos/4/4/6/9/c/4469cd72eb8ae6b021a8c140e6ab824a9f408790.mp4
-avi,Lecciones de cocina con Madison,https://cdn2.servitubes.com/videos/f/3/0/3/c/f303c83df55269205ca2d0487c55145c7ac27907.mp4
-avi,Mira tu polla,https://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e795e.mp4
-avi,Ladrona de manos pegajosas,https://cdn2.servitubes.com/videos/0/1/e/1/0/01e105ad11ee9f601c3ece428a70dfcbc3be0bde.mp4
-avi,Todo el placer posible,https://cdn2.servitubes.com/videos/6/d/9/e/0/6d9e03bfe19d62bed366da280b566f2350ce9010.mp4
-avi,Rubia amateur,http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
-avi,Sex fetish,http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
-avi,SexArt 1,http://erogen.su/erotic_videos/download/4330.mp4
-avi,SexArt 2,http://erogen.su/erotic_videos/download/4325.mp4
-avi,SexArt 3,http://erogen.su/erotic_videos/download/4340.mp4
-avi,Squirt de teen,http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
-avi,Adult : PureMatur01,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb02/fb02_nicoleaniston2/content/vid01.mp4
-avi,Adult : PureMature02,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_evitapozzi/content/vid01.mp4
-avi,Adult : PureMatur03,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_cheriedeville/content/vid01.mp4
-avi,Adult : PureMatur04,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_zoeyportland/content/vid01.mp4
-avi,Adult : PureMatur05,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_ariellaferrera/content/vid01.mp4
-avi,Adult : PureMatur06,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_brandilove5/content/vid01.mp4
-avi,Adult : PureMatur07,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisaann11/content/vid01.mp4
-avi,Adult : PureMatur08,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_avaadams5/content/vid01.mp4
-avi,Adult : PureMatur09,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_simonesonay2/content/vid01.mp4
-avi,Adult : PureMatur10,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kortneykane2/content/vid01.mp4
-avi,Adult : PureMatur11,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_ambercox2/content/vid01.mp4
-avi,Adult : PureMatur12,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kendralust3/content/vid01.mp4
-avi,Adult : PureMatur13,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_janetmason5/content/vid01.mp4
-avi,Adult : PureMatur14,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_nicoleaniston2/content/vid01.mp4
-avi,Adult : PureMatur15,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_sarahblake/content/vid01.mp4
-avi,Adult : PureMatur16,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_devon/content/vid01.mp4
-avi,Adult : PureMatur17,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_anikkaalbrite/content/vid01.mp4
-avi,Adult : PureMatur18,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_shaylalaveaux/content/vid01.mp4
-avi,Adult : PureMatur19,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_brandilove/content/vid01.mp4
-avi,Adult : PureMatur20,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_vanilladeville/content/vid01.mp4
-avi,Adult : PureMatur21,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_simonesonay/content/vid01.mp4
-avi,Adult : PureMatur22,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_pumaswede3/content/vid01.mp4
-avi,Adult : PureMatur23,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisademarco/content/vid01.mp4
-avi,Adult : PureMatur24,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_avaaddams4/content/vid01.mp4
-avi,Adult : PureMatur25,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_jessicajaymes4/content/vid01.mp4
-avi,Adult : PureMatur26,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_nikkidaniels2/content/vid01.mp4
-avi,Adult : PureMatur27,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_brandilove3/content/vid01.mp4
-avi,Adult : PureMatur28,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kendralust_hollymichaels/content/vid01.mp4
-avi,Adult : PureMatur29,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_briannabrooks/content/vid01.mp4
-avi,Adult : PureMatur30,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_hollymichaels/content/vid01.mp4
-avi,Adult : PureMatur31,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisaann10/content/vid01.mp4
-avi,Adult : PureMatur32,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_dianaprince/content/vid01.mp4
-avi,Adult : PureMatur33,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_rachelroxxx/content/vid01.mp4
-avi,Adult : PureMatur34,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_jennilee2/content/vid01.mp4
-avi,Adult : PureMatur35,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_abbeybrooks2/content/vid01.mp4
-avi,Adult : PureMatur36,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisaann7/content/vid01.mp4
-avi,Adult : PureMatur37,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_jessicajaymes3/content/vid01.mp4
-avi,Adult : PureMatur38,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_jessicajaymes2/content/vid01.mp4
-avi,Adult : PureMatur39,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_anissakate3/content/vid01.mp4
-avi,Adult : PureMatur40,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_pheonixmarie2/content/vid01.mp4
-avi,Adult : PureMatur41,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kortneykane/content/vid01.mp4
-avi,Adult : PureMatur42,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisaann9/content/vid01.mp4
-avi,Adult : PureMatur43,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_tiffanytyler2/content/vid01.mp4
-avi,Adult : PureMatur44,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kendralust2/content/vid01.mp4
-avi,Adult : PureMatur45,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kieraking3/content/vid01.mp4
-avi,Adult : PureMatur46,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_nikkidaniels/content/vid01.mp4
-avi,Adult : PureMatur47,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisaann8/content/vid01.mp4
-avi,Adult : PureMatur48,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_mikilynn/content/vid01.mp4
-avi,Adult : PureMatur49,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_heathervahn/content/vid01.mp4
-avi,Adult : PureMatur50,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_capricavanni2/content/vid01.mp4
-avi,Adult : PureMatur51,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_brandilove2/content/vid01.mp4
-avi,Adult : PureMatur52,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_avaaddams_hollymichaels/content/vid01.mp4
-avi,Adult : PureMatur53,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kendralust/content/vid01.mp4
-avi,Adult : PureMatur54,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_jennilee5/content/vid01.mp4
-avi,Adult : PureMatur55,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_kieraking2/content/vid01.mp4
-avi,Adult : PureMatur56,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_alexisford/content/vid01.mp4
-avi,Adult : PureMatur57,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_britneyamber/content/vid01.mp4
-avi,Adult : PureMatur58,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_anissakate/content/vid01.mp4
-avi,Adult : PureMatur59,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_rileyevans/content/vid01.mp4
-avi,Adult : PureMatur60,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/fb01_lisaann6/content/vid01.mp4
-avi,Adult : PureMatur61,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_alisonstar2/content/vid01.mp4
-avi,Adult : PureMatur62,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_jennilee3/content/vid01.mp4
-avi,Adult : PureMatur63,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_veronicaavluv_ellamilano/content/vid01.mp4
-avi,Adult : PureMatur64,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_pumaswede_victoriaraeblack/content/vid01.mp4
-avi,Adult : PureMatur65,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_dianadoll2/content/vid01.mp4
-avi,Adult : PureMatur66,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_nicoleaniston/content/vid01.mp4
-avi,Adult : PureMatur68,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_lisaann3/content/vid01.mp4
-avi,Adult : PureMatur69,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_tanyatate/content/vid01.mp4
-avi,Adult : PureMatur70,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_juliaann3/content/vid01.mp4
-avi,Adult : PureMatur71,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_avaaddams2/content/vid01.mp4
-avi,Adult : PureMatur72,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_jewelsjade/content/vid01.mp4
-avi,Adult : PureMatur73,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_capricavanni/content/vid01.mp4
-avi,Adult : PureMatur74,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_francescale/content/vid01.mp4
-avi,Adult : PureMatur75,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_veronicaavluv2/content/vid01.mp4
-avi,Adult : PureMatur76,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_juliaann_elainaraye/content/vid01.mp4
-avi,Adult : PureMatur77,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_alisonstar/content/vid01.mp4
-avi,Adult : PureMatur78,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_veronicaavluv/content/vid01.mp4
-avi,Adult : PureMatur79,http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_avaaddams/content/vid01.mp4
-avi,Adult : FANTHD1,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
-avi,Adult : FANTHD2,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
-avi,Adult : FANTHD3,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
-avi,Adult : FANTHD4,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
-avi,Adult : FANTHD5,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
-avi,Adult : FANTHD6,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
-avi,Adult : FANTHD7,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
-avi,Adult : FANTHD7,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
-avi,Casting1,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_rachel/content/vid01.mp4
-avi,Casting2,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sageevans/content/vid01.mp4
-avi,Casting3,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sierraday/content/vid01.mp4
-avi,Casting4,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_jasminerain/content/vid01.mp4
-avi,Casting5,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_roxanne/content/vid01.mp4
-avi,Casting6,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_ashleyadams121014/content/vid01.mp4
-avi,Casting7,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_dillioncarter121214/content/vid01.mp4
-avi,Povd1,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_keishagrey061614/content/vid01.mp4
-avi,Povd2,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sarai091714/content/vid01.mp4
-avi,Povd3,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_veronicaradke/content/vid01.mp4
-avi,Povd4,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte040714/content/vid01.mp4
-avi,Povd5,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sierranevadah080814/content/vid01.mp4
-avi,Povd6,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alicegreen082014/content/vid01.mp4
-avi,Povd7,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alexisadams/content/vid01.mp4
-avi,Povd8,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte121713/content/vid01.mp4
-avi,Povd9,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannanicole051914/content/vid01.mp4
-avi,Passion-HD1,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_kennedynash2/content/vid01.mp4
-avi,Passion-HD2,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb02/fb02_danidaniels/content/vid01.mp4
-avi,Passion-HD3,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_danidaniels2/content/vid01.mp4
-avi,Passion-HD4,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb02/fb02_miamalkova_casanalei/content/vid01.mp4
-avi,Passion-HD5,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb02/fb02_danidaniels_hollymichaels/content/vid01.mp4
-avi,Passion-HD6,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb02/fb02_samantharone081514/content/vid01.mp4
-avi,Passion-HD7,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb02/fb02_danidaniels3a/content/vid01.mp4
-avi,Passion-HD8,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_brookewylde082014/content/vid01.mp4
-avi,Passion-HD9,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_brookewylde081914/content/vid01.mp4
-avi,Passion-HD10,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb02/fb02_miamalkova_casanalei/content/vid01.mp4
-avi,Passion-HD11,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_adrianachechik/content/vid01.mp4
-avi,Passion-HD12,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_angelica/content/vid01.mp4
-avi,Passion-HD13,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_avataylor011514/content/vid01.mp4
-avi,Passion-HD14,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_lilylove031714/content/vid01.mp4
-avi,Passion-HD15,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_kellydiamond041414/content/vid01.mp4
-avi,Passion-HD16,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_alainakristar042514/content/vid01.mp4
-avi,Passion-HD17,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_sabrinabanks052314/content/vid01.mp4
-avi,Passion-HD18,http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_alexisadams/content/vid01.mp4
-avi,Pornpros1,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_augustames031014/content/vid01.mp4
-avi,Pornpros2,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb02/fb02_whitneywestgate022114/content/vid01.mp4
-avi,Pornpros3,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb02/fb02_alexisadams031414/content/vid01.mp4
-avi,Pornpros4,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb02/fb02_emilygrey030214/content/vid01.mp4
-avi,Pornpros5,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb02/fb02_augustames031314/content/vid01.mp4
-avi,Pornpros6,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb02/fb02_brookewylde020314/content/vid01.mp4
-avi,Pornpros7,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_sabrinabanks_giannanicole012614/content/vid01.mp4
-avi,Pornpros8,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_lilylove031714/content/vid01.mp4
-avi,Pornpros9,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_ashleyadams121714/content/vid01.mp4
-avi,Pornpros10,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_elektrarose121214/content/vid01.mp4
-avi,Pornpros11,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb02/fb02_ashleyadams121614/content/vid01.mp4
-avi,Pornpros12,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_ashleyadams121114/content/vid01.mp4
-avi,Pornpros13,http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_dillioncarter120814/content/vid01.mp4
-avi,Exotic1,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_vivicajohnsosn051514/content/vid01.mp4
-avi,Exotic2,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_anafoxxx071014/content/vid01.mp4
-avi,Exotic3,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_janicegriffith071814/content/vid01.mp4
-avi,Exotic4,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_morganlee071114/content/vid01.mp4
-avi,Exotic5,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_sophiafiore061214/content/vid01.mp4
-avi,Exotic6,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_jasminecaro062714/content/vid01.mp4
-avi,Exotic7,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_jadejantzen061714/content/vid01.mp4
-avi,Exotic8,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_devyndivine081514/content/vid01.mp4
-avi,Exotic9,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_juliekay111214/content/vid01.mp4
-avi,Exotic10,http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_cassidybanks112114/content/vid01.mp4
-avi,Movie xxx,http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25649.mp4
-avi,Movie xxx,http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/1270.mp4
-avi,Movie xxx,http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/46411.mp4
-avi,Movie xxx,http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/25373.mp4
-avi,Movie xxx,http://46.105.38.237/absoluporn/64e8284ac9aa65f781e41eedd9bbc44f/29558.mp4
-avi,Tiny 4K - VOD 01,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-avi,Tiny 4K - VOD 02,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-avi,Tiny 4K - VOD 03,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-avi,Tiny 4K - VOD 04,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-avi,Tiny 4K - VOD 05,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-avi,Tiny 4K - VOD 06,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-avi,Tiny 4K - VOD 07,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-avi,Tiny 4K - VOD 08,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-avi,Tiny 4K - VOD 09,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-avi,Tiny 4K - VOD 10,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-avi,Tiny 4K - VOD 11,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-avi,Tiny 4K - VOD 12,http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 13,http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 14,http://v.thebestvideocontentever.com/content/videos/000/053/566/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 15,http://v.thebestvideocontentever.com/content/videos/000/052/707/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 16,http://v.thebestvideocontentever.com/content/videos/000/053/592/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 17,http://v.thebestvideocontentever.com/content/videos/000/052/535/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 18,http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 19,http://v.thebestvideocontentever.com/content/videos/000/046/475/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 20,http://v.thebestvideocontentever.com/content/videos/000/052/741/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 21,http://v.thebestvideocontentever.com/content/videos/000/047/467/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 22,http://v.thebestvideocontentever.com/content/videos/000/047/557/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 23,http://v.thebestvideocontentever.com/content/videos/000/053/705/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 24,http://v.thebestvideocontentever.com/content/videos/000/047/599/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 25,http://v.thebestvideocontentever.com/content/videos/000/047/489/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 26,http://v.thebestvideocontentever.com/content/videos/000/053/617/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 27,http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VODf 28,http://v.thebestvideocontentever.com/content/videos/000/052/555/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 29,http://v.thebestvideocontentever.com/content/videos/000/053/059/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 30,http://v.thebestvideocontentever.com/content/videos/000/053/536/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 31,http://v.thebestvideocontentever.com/content/videos/000/052/742/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 32,http://v.thebestvideocontentever.com/content/videos/000/047/595/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 33,http://v.thebestvideocontentever.com/content/videos/000/052/972/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 34,http://v.thebestvideocontentever.com/content/videos/000/052/585/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 35,http://v.thebestvideocontentever.com/content/videos/000/047/543/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 36,http://v.thebestvideocontentever.com/content/videos/000/053/358/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 37,http://v.thebestvideocontentever.com/content/videos/000/053/443/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 38,http://v.thebestvideocontentever.com/content/videos/000/052/946/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 39,http://v.thebestvideocontentever.com/content/videos/000/046/498/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 40,http://v.thebestvideocontentever.com/content/videos/000/053/006/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 41,http://v.thebestvideocontentever.com/content/videos/000/053/057/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 42,http://v.thebestvideocontentever.com/content/videos/000/053/802/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 43,http://v.thebestvideocontentever.com/content/videos/000/047/528/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 44,http://v.thebestvideocontentever.com/content/videos/000/052/333/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 45,http://v.thebestvideocontentever.com/content/videos/000/053/164/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Tiny 4K - VOD 46,http://v.thebestvideocontentever.com/content/videos/000/047/374/panda/promo/tiny4k_promo_mp4_712_2500.mp4
-avi,Wow Porn - VOD 01,http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-avi,Wow Porn - VOD 02,http://content2.sexforsure.com/2013/07/03/3/Video.mp4
-avi,Wow Porn - VOD 03,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-avi,Wow Porn - VOD 04,http://content2.sexforsure.com/2013/07/03/18/Video.mp4
-avi,Wow Porn - VOD 05,http://content2.sexforsure.com/2013/07/02/3/Video.mp4
-avi,Wow Porn - VOD 06,http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-avi,Wow Porn - VOD 07,http://content2.sexforsure.com/2013/07/03/2/Video.mp4
-avi,Wow Porn - VOD 08,http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-avi,Wow Porn - VOD 09,http://content2.sexforsure.com/2013/07/03/1/Video.mp4
-avi,Wow Porn - VOD 10,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-avi,Wow Porn - VOD 11,http://content2.sexforsure.com/2013/07/03/4/Video.mp4
-avi,Wow Porn - VOD 12,http://content2.sexforsure.com/2013/07/02/8/Video.mp4
-avi,Wow Porn - VOD 13,http://content2.sexforsure.com/2013/07/02/16/Video.mp4
-avi,Wow Porn - VOD 14,http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-avi,Wow Porn - VOD 15,http://content2.sexforsure.com/2013/07/03/11/Video.mp4
-avi,Wow Porn - VOD 16,http://content2.sexforsure.com/2013/07/03/20/Video.mp4
-avi,Wow Porn - VOD 17,http://content2.sexforsure.com/2013/07/03/19/Video.mp4
-avi,Wow Porn - VOD 18,http://content2.sexforsure.com/2013/07/02/14/Video.mp4
-avi,Wow Porn - VOD 19,http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-avi,Wow Porn - VOD 20,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-avi,Wow Porn - VOD 21,http://content2.sexforsure.com/2013/07/03/18/Video.mp4
-avi,Wow Porn - VOD 22,http://content2.sexforsure.com/2013/07/02/3/Video.mp4
-avi,Wow Porn - VOD 23,http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-avi,Wow Porn - VOD 24,http://content2.sexforsure.com/2013/07/03/15/Video.mp4
-avi,Wow Porn - VOD 25,http://content2.sexforsure.com/2013/07/03/17/Video.mp4
-avi,Wow Porn - VOD 26,http://content2.sexforsure.com/2013/07/03/1/Video.mp4
-avi,Wow Porn - VOD 27,http://content2.sexforsure.com/2013/07/03/16/Video.mp4
-avi,Wow Porn - VOD 28,http://content2.sexforsure.com/2013/07/03/4/Video.mp4
-avi,Wow Porn - VOD 29,http://content2.sexforsure.com/2013/07/02/8/Video.mp4
-avi,Wow Porn - VOD 30,http://content2.sexforsure.com/2013/07/02/16/Video.mp4
-avi,Wow Porn - VOD 31,http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-avi,Wow Porn - VOD 32,http://content2.sexforsure.com/2013/07/03/11/Video.mp4
-avi,Wow Porn - VOD 33,http://content2.sexforsure.com/2013/07/03/20/Video.mp4
-avi,Wow Porn - VOD 34,http://content2.sexforsure.com/2013/07/03/19/Video.mp4
-avi,Wow Porn - VOD 35,http://content2.sexforsure.com/2013/07/02/14/Video.mp4
-avi,Wow Porn - VOD 36,http://content2.sexforsure.com/2013/07/02/1/Video.mp4
-avi,Wow Porn - VOD 37,http://content2.sexforsure.com/2013/07/02/2/Video.mp4
-avi,Wow Porn - VOD 38,http://content2.sexforsure.com/2013/07/02/4/Video.mp4
-avi,Wow Porn - VOD 39,http://content2.sexforsure.com/2013/07/02/5/Video.mp4
-avi,Wow Porn - VOD 40,http://content2.sexforsure.com/2013/07/02/6/Video.mp4
-avi,Wow Porn - VOD 41,http://content2.sexforsure.com/2013/07/02/9/Video.mp4
-avi,Wow Porn - VOD 42,http://content2.sexforsure.com/2013/07/02/10/Video.mp4
-avi,Wow Porn - VOD 43,http://content2.sexforsure.com/2013/07/02/11/Video.mp4
-avi,Wow Porn - VOD 44,http://content2.sexforsure.com/2013/07/02/13/Video.mp4
-avi,Wow Porn - VOD 45,http://content2.sexforsure.com/2013/07/02/15/Video.mp4
-avi,Wow Porn - VOD 46,http://content2.sexforsure.com/2013/07/02/17/Video.mp4
-avi,Wow Porn - VOD 47,http://content2.sexforsure.com/2013/07/02/19/Video.mp4
-avi,Wow Porn - VOD 48,http://content2.sexforsure.com/2013/07/02/20/Video.mp4
-avi,Wow Porn - VOD 49,http://content2.sexforsure.com/2013/07/03/5/Video.mp4
-avi,Wow Porn - VOD 50,http://content2.sexforsure.com/2013/07/03/9/Video.mp4
-avi,Wow Porn - VOD 51,http://content2.sexforsure.com/2013/07/03/10/Video.mp4
-avi,Wow Porn - VOD 52,http://content2.sexforsure.com/2013/07/03/12/Video.mp4
-avi,Wow Porn - VOD 53,http://content2.sexforsure.com/2013/07/03/13/Video.mp4
-avi,Wow Porn - VOD 54,http://content2.sexforsure.com/2013/07/03/14/Video.mp4
-ext,3D Porn Action - VOD 01,http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-ext,3D Porn Action - VOD 02,http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
-ext,3D Porn Action - VOD 03,http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-ext,3D Porn Action - VOD 04,http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-ext,3D Porn Action - VOD 05,http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-ext,3D Porn Action - VOD 06,http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-ext,3D Porn Action - VOD 07,http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-ext,3D Porn Action - VOD 08,http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-ext,3D Porn Action - VOD 09,http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-ext,3D Porn Action - VOD 10,http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-ext,3D Porn Action - VOD 11,http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
-ext,3D Porn Action - VOD 12,http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-ext,3D Porn Action - VOD 13,http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-ext,3D Porn Action - VOD 14,http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
-ext,3D Porn Action - VOD 15,http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-ext,3D Porn Action - VOD 16,http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-ext,3D Porn Action - VOD 17,http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
-ext,3D Porn Action - VOD 18,http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
-ext,3D Porn Action - VOD 19,http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
-ext,3D Porn Action - VOD 20,http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-ext,3D Porn Action - VOD 21,http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-ext,3D Porn Action - VOD 22,http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
-ext,3D Porn Action - VOD 23,http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
-ext,3D Porn Action - VOD 24,http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
-ext,3D Porn Action - VOD 25,http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-ext,3D Porn Action - VOD 26,http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-ext,3D Porn Action - VOD 27,http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
-ext,3D Porn Action - VOD 28,http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
-ext,3D Porn Action - VOD 29,http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
-ext,3D Porn Action - VOD 30,http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
-ext,3D Porn Action - VOD 31,http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
-ext,3D Porn Action - VOD 32,http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
-ext,3D Porn Action - VOD 33,http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
-avi,Pizza Porn,http://cdn.videos.pornopizza.it/media/videos/5/6/6/7/1/5667180f10c06.mp4
-ext,Young Girls Tube - VOD 01,http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv
-ext,Young Girls Tube - VOD 02,http://img5.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
-ext,Young Girls Tube - VOD 03,http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
-ext,Young Girls Tube - VOD 04,http://img4.younggirlstube.com/scj/thumbs/galleries/7/042/0_402.flv
-ext,Young Girls Tube - VOD 05,http://img4.younggirlstube.com/scj/thumbs/galleries/7/019/0_476.flv
-ext,Young Girls Tube - VOD 06,http://img3.younggirlstube.com/scj/thumbs/galleries/7/320/0_228.flv
-ext,Young Girls Tube - VOD 07,http://img3.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
-ext,Young Girls Tube - VOD 08,http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
-ext,Young Girls Tube - VOD 09,http://img3.younggirlstube.com/scj/thumbs/galleries/7/127/0_242.flv
-ext,Young Girls Tube - VOD 10,http://img3.younggirlstube.com/scj/thumbs/galleries/7/160/0_945.flv
-ext,Young Girls Tube - VOD 11,http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
-avi,Team Skeet - VOD 01 - Exxtra Small - Rissa Maxxx,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
-avi,Team Skeet - VOD 02 - Adriana Lynn,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_adriana_lynn_12minute.mp4
-avi,Team Skeet - VOD 03 - Allison Banks,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_allison_banks_12minute.mp4
-avi,Team Skeet - VOD 04 - Amanda,http://tube.paperstreetcash.com/8mins/rubateen/rubateen_amanda_8minute.mp4
-avi,Team Skeet - VOD 05 - Anabela,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_anabela_12minute.mp4
-avi,Team Skeet - VOD 06 - Ariadna,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ariadna_12minute.mp4
-avi,Team Skeet - VOD 07 - Ariana + Gabriella,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_ariana_and_gabriella_8minutes.mp4
-avi,Team Skeet - VOD 08 - Chichi Medina,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
-avi,Team Skeet - VOD 09 - Chloe Foster,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chloe_foster_8minutes.mp4
-avi,Team Skeet - VOD 10 - Dakota Skye,http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_dakota_skye_12minute.mp4
-avi,Team Skeet - VOD 11 - Demida,http://tube.paperstreetcash.com/8mins/rubateen/rubateen_demida_8minutes.mp4
-avi,Team Skeet - VOD 12 - Dusya,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_dusya_12minute.mp4
-avi,Team Skeet - VOD 13 - Gerta,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_gerta_12minute.mp4
-avi,Team Skeet - VOD 14 - Irina,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_ilina_12minute.mp4
-avi,Team Skeet - VOD 15 - Jane,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_jane_12minute.mp4
-avi,Team Skeet - VOD 16 - Lacie Channing,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_lacie_channing_8minutes.mp4
-avi,Team Skeet - VOD 17 - Mirabella,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_mirabella_12minute.mp4
-ext,Team Skeet - VOD 18 - Natalia Rossi,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-avi,Team Skeet - VOD 19 - Neona,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_neona_12minute.mp4
-avi,Team Skeet - VOD 20 - Sara Luvv,http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_sara_luvv_8minutes.mp4
-avi,Team Skeet - VOD 21 - Sasha,http://tube.paperstreetcash.com/12mins/rubateen/rubateen_sasha_12minute.mp4
-avi,Team Skeet - VOD 22 - Victoria June,https://media.arabianchicks.com/videos/7/7/6/0/5/77605b19957a07a2a.mp4
-avi,AnySex - VOD 01,http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
-avi,AnySex - VOD 02,http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
-avi,AnySex - VOD 03,http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
-avi,AnySex - VOD 04,http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
-avi,AnySex - VOD 05,http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
-avi,AnySex - VOD 06,http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
-avi,AnySex - VOD 07,http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
-avi,AnySex - VOD 08,http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
-avi,AnySex - VOD 09,http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
-avi,AnySex - VOD 10,http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
-avi,AnySex - VOD 11,http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
-avi,AnySex - VOD 12,http://anysex.com/get_file/1/d2ed04906569520a85cdd25e41629e98/202000/202866/202866.mp4/
-avi,AnySex - VOD 13,http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
-avi,AnySex - VOD 14,http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
-avi,AnySex - VOD 15,http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
-avi,AnySex - VOD 16,http://anysex.com/get_file/1/048139358e3146db335e7fbdff6e5c5d/194000/194919/194919.mp4/
-avi,AnySex - VOD 17,http://anysex.com/get_file/1/e08b64e698f4c6e32c1a97372ac1d15d/197000/197487/197487.mp4/
-avi,AnySex - VOD 18,http://anysex.com/get_file/1/e31fcd5344bf35167014113a2d96ffbb/197000/197489/197489.mp4/
-avi,AnySex - VOD 19,http://anysex.com/get_file/1/9d188e3faef698e339825fc656155772/197000/197484/197484.mp4/
-avi,AnySex - VOD 20,http://anysex.com/get_file/1/f310e31602e9dfc5c5a8b5a1a0198d2b/203000/203224/203224.mp4/
-avi,AnySex - VOD 21,http://anysex.com/get_file/1/41b1131ff919a95fb6b35070a216189f/203000/203171/203171.mp4/
-avi,AnySex - VOD 22,http://anysex.com/get_file/1/dd944af93cbf24415f873364ab965629/204000/204774/204774.mp4/
-avi,AnySex - VOD 23,http://anysex.com/get_file/1/f60a98d58c0116ce00d06cb76ebe525e/204000/204290/204290.mp4/
-avi,AnySex - VOD 24,http://anysex.com/get_file/1/acbacabd4cb2211c9bc721d7bce93670/197000/197554/197554.mp4/
-avi,AnySex - VOD 25,http://anysex.com/get_file/1/b042dbaad0bfc062be1745a7a718fbe6/197000/197560/197560.mp4/
-avi,AnySex - VOD 26,http://anysex.com/get_file/1/5288f016456cfc1283ff9adbe102e8d4/197000/197635/197635.mp4/
-avi,AnySex - VOD 27,http://anysex.com/get_file/1/ab091ded27d5833743fba73d8860d8f0/194000/194932/194932.mp4/
-avi,AnySex - VOD 28,http://anysex.com/get_file/1/750644b812d0460dfc6ca6a9445ce173/197000/197632/197632.mp4/
-avi,AnySex - VOD 29,http://anysex.com/get_file/1/a5aac25b60f13ce6c95acfac28f70f94/197000/197455/197455.mp4/
-avi,AnySex - VOD 30,http://anysex.com/get_file/1/28d916a26ef3fc7ff60714212ad2115d/197000/197689/197689.mp4/
-avi,AnySex - VOD 31,http://anysex.com/get_file/1/dc544f90b53907795a89f54e3c1bb075/197000/197759/197759.mp4/
-avi,AnySex - VOD 32,http://anysex.com/get_file/1/63d9ba70c151f55c34d0229fd4a77937/197000/197675/197675.mp4/
-avi,AnySex - VOD 33,http://anysex.com/get_file/1/885342c9c1ea0f88f11e00773ab606ff/197000/197558/197558.mp4/
-avi,AnySex - VOD 34,http://anysex.com/get_file/1/0516eb3c64e67faaef27f7f399ad9d61/205000/205008/205008.mp4/
-avi,AnySex - VOD 35,http://anysex.com/get_file/1/4d0fdf20259ebd6a8b89f82d43e4d7cb/197000/197818/197818.mp4/
-avi,AnySex - VOD 36,http://anysex.com/get_file/1/bdb420da1b33906ade977edb68f569e2/197000/197651/197651.mp4/
-avi,AnySex - VOD 37,http://anysex.com/get_file/1/1235c95f4616e3cd3c2c1439ea5ab79b/205000/205086/205086.mp4/
-avi,AnySex - VOD 38,http://anysex.com/get_file/1/e49dbc842a2ba698d3d2a9048e87f782/194000/194938/194938.mp4/
-avi,AnySex - VOD 39,http://anysex.com/get_file/1/d0ca96a0685cd9c3808a00b8e6b2b3f2/205000/205240/205240.mp4/
-avi,AnySex - VOD 40,http://anysex.com/get_file/1/2e3cde380a13325552c7e086dc08b65f/197000/197982/197982.mp4/
-avi,AnySex - VOD 41,http://anysex.com/get_file/1/e342bd6ca9c238328a746729169bf76d/202000/202824/202824.mp4/
-avi,AnySex - VOD 42,http://anysex.com/get_file/1/fc382fdc073fe57bf6e8dc701a5222f5/202000/202815/202815.mp4/
-avi,AnySex - VOD 43,http://anysex.com/get_file/1/ced7a18195a08f91799809fcfbefd243/197000/197907/197907.mp4/
-avi,AnySex - VOD 44,http://anysex.com/get_file/1/cd8b8a352de360a9a974ede0d82e9947/197000/197925/197925.mp4/
-avi,AnySex - VOD 45,http://anysex.com/get_file/1/f9a3bd63cc5a142a887330352666971b/204000/204036/204036.mp4/
-avi,AnySex - VOD 46,http://anysex.com/get_file/1/7bc6f2646b35105d1fdbf8b86d0e2074/197000/197330/197330.mp4/
-avi,AnySex - VOD 47,http://anysex.com/get_file/1/ea0dacb6ba238f0c2fd01eae0e3d78bc/174000/174741/174741.mp4/
-avi,AnySex - VOD 48,http://anysex.com/get_file/1/93c0cfa12077129af9ff427b230822e7/174000/174673/174673.mp4/
-avi,AnySex - VOD 49,http://anysex.com/get_file/1/7b09a5ebd3ff9c955b8896c106cb0540/199000/199755/199755.mp4/
-avi,AnySex - VOD 50,http://anysex.com/get_file/1/f802fe87bbd5036133a84e08c5d2bffd/162000/162590/162590.mp4/
-avi,AnySex - VOD 51,http://anysex.com/get_file/1/c5d3f84e727d06b25c5b61f12148340b/24000/24633/24633.mp4/
-avi,AnySex - VOD 52,http://anysex.com/get_file/1/e199e616adc70c16744c72116b495ab5/143000/143016/143016.mp4/
-avi,AnySex - VOD 53,http://anysex.com/get_file/1/85aa8f150e7a98dcfc24045d0238c3f4/143000/143003/143003.mp4/
-avi,AnySex - VOD 54,http://anysex.com/get_file/1/271d95f50aabd3718a7be49ca1a2b2d7/171000/171436/171436.mp4/
-avi,AnySex - VOD 55,http://anysex.com/get_file/1/e0316c7e430801cac92253e7ade1d67c/171000/171473/171473.mp4/
-avi,AnySex - VOD 56,http://anysex.com/get_file/1/a7b4a55258fd7d15572229a7f214f399/171000/171460/171460.mp4/
-avi,AnySex - VOD 57,http://anysex.com/get_file/1/961629519d49176158c6e9a5eab7f742/197000/197625/197625.mp4/
-avi,AnySex - VOD 58,http://anysex.com/get_file/1/42cf2addfba8ecb82827bad0a0f0fe2f/197000/197672/197672.mp4/
-avi,AnySex - VOD 59,http://anysex.com/get_file/1/faceac3b94ff226bdeb61b3937b72f00/197000/197945/197945.mp4/
-avi,AnySex - VOD 60,http://anysex.com/get_file/1/2b0ea705000a2b0f35a63f12f0425a4c/197000/197004/197004.mp4/
-avi,AnySex - VOD 61,http://anysex.com/get_file/1/3849af25e06ccb10e1fb6b23f16a615b/197000/197939/197939.mp4/
-avi,AnySex - VOD 62,http://anysex.com/get_file/1/e9354f5d1d42f3e5773c0fdd95ef495e/44000/44548/44548.mp4/
-avi,AnySex - VOD 63,http://anysex.com/get_file/1/3ebe4a2993e0dbf891e9558a5455f770/197000/197933/197933.mp4/
-avi,AnySex - VOD 64,http://anysex.com/get_file/1/1e85444ae844e62672c7ef56e16a7e25/199000/199793/199793.mp4/
-avi,AnySex - VOD 65,http://anysex.com/get_file/1/246ab83c3ffa1adaddc8f16e9c8342d0/199000/199839/199839.mp4/
-avi,AnySex - VOD 66,http://anysex.com/get_file/1/e52515f2156303eeebefff200a925534/201000/201451/201451.mp4/
-avi,AnySex - VOD 67,http://anysex.com/get_file/1/06917326b75c66564164714f5dfd56f3/197000/197485/197485.mp4/
-ext,Brazzers - VOD 001,http://static.brazzers.com/scenes/3351/180sec.flv
-ext,Brazzers - VOD 002,http://static.brazzers.com/scenes/3352/180sec.flv
-ext,Brazzers - VOD 003,http://static.brazzers.com/scenes/3353/180sec.flv
-ext,Brazzers - VOD 004,http://static.brazzers.com/scenes/3354/180sec.flv
-ext,Brazzers - VOD 005,http://static.brazzers.com/scenes/3355/180sec.flv
-ext,Brazzers - VOD 006,http://static.brazzers.com/scenes/3356/180sec.flv
-ext,Brazzers - VOD 007,http://static.brazzers.com/scenes/3357/180sec.flv
-ext,Brazzers - VOD 008,http://static.brazzers.com/scenes/3358/180sec.flv
-ext,Brazzers - VOD 009,http://static.brazzers.com/scenes/3359/180sec.flv
-ext,Brazzers - VOD 010,http://static.brazzers.com/scenes/3360/180sec.flv
-ext,Brazzers - VOD 011,http://static.brazzers.com/scenes/3361/180sec.flv
-ext,Brazzers - VOD 012,http://static.brazzers.com/scenes/3362/180sec.flv
-ext,Brazzers - VOD 013,http://static.brazzers.com/scenes/3489/180sec.flv
-ext,Brazzers - VOD 014,http://static.brazzers.com/scenes/3488/180sec.flv
-ext,Brazzers - VOD 015,http://static.brazzers.com/scenes/3365/180sec.flv
-ext,Brazzers - VOD 016,http://static.brazzers.com/scenes/3366/180sec.flv
-ext,Brazzers - VOD 017,http://static.brazzers.com/scenes/3367/180sec.flv
-ext,Brazzers - VOD 018,http://static.brazzers.com/scenes/3368/180sec.flv
-ext,Brazzers - VOD 019,http://static.brazzers.com/scenes/3369/180sec.flv
-ext,Brazzers - VOD 020,http://static.brazzers.com/scenes/3487/180sec.flv
-ext,Brazzers - VOD 021,http://static.brazzers.com/scenes/3371/180sec.flv
-ext,Brazzers - VOD 022,http://static.brazzers.com/scenes/3372/180sec.flv
-ext,Brazzers - VOD 023,http://static.brazzers.com/scenes/3373/180sec.flv
-ext,Brazzers - VOD 024,http://static.brazzers.com/scenes/3374/180sec.flv
-ext,Brazzers - VOD 025,http://static.brazzers.com/scenes/3375/180sec.flv
-ext,Brazzers - VOD 026,http://static.brazzers.com/scenes/3376/180sec.flv
-ext,Brazzers - VOD 027,http://static.brazzers.com/scenes/3377/180sec.flv
-ext,Brazzers - VOD 028,http://static.brazzers.com/scenes/3378/180sec.flv
-ext,Brazzers - VOD 029,http://static.brazzers.com/scenes/3379/180sec.flv
-ext,Brazzers - VOD 030,http://static.brazzers.com/scenes/3380/180sec.flv
-ext,Brazzers - VOD 031,http://static.brazzers.com/scenes/3381/180sec.flv
-ext,Brazzers - VOD 032,http://static.brazzers.com/scenes/3382/180sec.flv
-ext,Brazzers - VOD 033,http://static.brazzers.com/scenes/3383/180sec.flv
-ext,Brazzers - VOD 034,http://static.brazzers.com/scenes/3384/180sec.flv
-ext,Brazzers - VOD 035,http://static.brazzers.com/scenes/3385/180sec.flv
-ext,Brazzers - VOD 036,http://static.brazzers.com/scenes/3386/180sec.flv
-ext,Brazzers - VOD 037,http://static.brazzers.com/scenes/3387/180sec.flv
-ext,Brazzers - VOD 038,http://static.brazzers.com/scenes/3388/180sec.flv
-ext,Brazzers - VOD 039,http://static.brazzers.com/scenes/3485/180sec.flv
-ext,Brazzers - VOD 040,http://static.brazzers.com/scenes/3389/180sec.flv
-ext,Brazzers - VOD 041,http://static.brazzers.com/scenes/3390/180sec.flv
-ext,Brazzers - VOD 042,http://static.brazzers.com/scenes/3391/180sec.flv
-ext,Brazzers - VOD 043,http://static.brazzers.com/scenes/3392/180sec.flv
-ext,Brazzers - VOD 044,http://static.brazzers.com/scenes/3393/180sec.flv
-ext,Brazzers - VOD 045,http://static.brazzers.com/scenes/3394/180sec.flv
-ext,Brazzers - VOD 046,http://static.brazzers.com/scenes/3395/180sec.flv
-ext,Brazzers - VOD 047,http://static.brazzers.com/scenes/3396/180sec.flv
-ext,Brazzers - VOD 048,http://static.brazzers.com/scenes/3397/180sec.flv
-ext,Brazzers - VOD 049,http://static.brazzers.com/scenes/3398/180sec.flv
-ext,Brazzers - VOD 050,http://static.brazzers.com/scenes/3483/180sec.flv
-ext,Brazzers - VOD 051,http://static.brazzers.com/scenes/3400/180sec.flv
-ext,Brazzers - VOD 052,http://static.brazzers.com/scenes/3401/180sec.flv
-ext,Brazzers - VOD 053,http://static.brazzers.com/scenes/3402/180sec.flv
-ext,Brazzers - VOD 054,http://static.brazzers.com/scenes/3482/180sec.flv
-ext,Brazzers - VOD 055,http://static.brazzers.com/scenes/3404/180sec.flv
-ext,Brazzers - VOD 056,http://static.brazzers.com/scenes/3405/180sec.flv
-ext,Brazzers - VOD 057,http://static.brazzers.com/scenes/3406/180sec.flv
-ext,Brazzers - VOD 058,http://static.brazzers.com/scenes/3407/180sec.flv
-ext,Brazzers - VOD 059,http://static.brazzers.com/scenes/3408/180sec.flv
-ext,Brazzers - VOD 060,http://static.brazzers.com/scenes/3409/180sec.flv
-ext,Brazzers - VOD 061,http://static.brazzers.com/scenes/3410/180sec.flv
-ext,Brazzers - VOD 062,http://static.brazzers.com/scenes/3411/180sec.flv
-ext,Brazzers - VOD 063,http://static.brazzers.com/scenes/3412/180sec.flv
-ext,Brazzers - VOD 064,http://static.brazzers.com/scenes/3413/180sec.flv
-ext,Brazzers - VOD 065,http://static.brazzers.com/scenes/3414/180sec.flv
-ext,Brazzers - VOD 066,http://static.brazzers.com/scenes/3415/180sec.flv
-ext,Brazzers - VOD 067,http://static.brazzers.com/scenes/3416/180sec.flv
-ext,Brazzers - VOD 068,http://static.brazzers.com/scenes/3417/180sec.flv
-ext,Brazzers - VOD 069,http://static.brazzers.com/scenes/3418/180sec.flv
-ext,Brazzers - VOD 070,http://static.brazzers.com/scenes/3419/180sec.flv
-ext,Brazzers - VOD 071,http://static.brazzers.com/scenes/3420/180sec.flv
-ext,Brazzers - VOD 072,http://static.brazzers.com/scenes/3421/180sec.flv
-ext,Brazzers - VOD 073,http://static.brazzers.com/scenes/3422/180sec.flv
-ext,Brazzers - VOD 074,http://static.brazzers.com/scenes/3423/180sec.flv
-ext,Brazzers - VOD 075,http://static.brazzers.com/scenes/3424/180sec.flv
-ext,Brazzers - VOD 076,http://static.brazzers.com/scenes/3425/180sec.flv
-ext,Brazzers - VOD 077,http://static.brazzers.com/scenes/3426/180sec.flv
-ext,Brazzers - VOD 078,http://static.brazzers.com/scenes/3427/180sec.flv
-ext,Brazzers - VOD 079,http://static.brazzers.com/scenes/3428/180sec.flv
-ext,Brazzers - VOD 080,http://static.brazzers.com/scenes/3429/180sec.flv
-ext,Brazzers - VOD 081,http://static.brazzers.com/scenes/3430/180sec.flv
-ext,Brazzers - VOD 082,http://static.brazzers.com/scenes/3431/180sec.flv
-ext,Brazzers - VOD 083,http://static.brazzers.com/scenes/3432/180sec.flv
-ext,Brazzers - VOD 084,http://static.brazzers.com/scenes/3433/180sec.flv
-ext,Brazzers - VOD 085,http://static.brazzers.com/scenes/3434/180sec.flv
-ext,Brazzers - VOD 086,http://static.brazzers.com/scenes/3435/180sec.flv
-ext,Brazzers - VOD 087,http://static.brazzers.com/scenes/3436/180sec.flv
-ext,Brazzers - VOD 088,http://static.brazzers.com/scenes/3437/180sec.flv
-ext,Brazzers - VOD 089,http://static.brazzers.com/scenes/3438/180sec.flv
-ext,Brazzers - VOD 090,http://static.brazzers.com/scenes/3439/180sec.flv
-ext,Brazzers - VOD 091,http://static.brazzers.com/scenes/3440/180sec.flv
-ext,Brazzers - VOD 092,http://static.brazzers.com/scenes/3441/180sec.flv
-ext,Brazzers - VOD 093,http://static.brazzers.com/scenes/3442/180sec.flv
-ext,Brazzers - VOD 094,http://static.brazzers.com/scenes/3443/180sec.flv
-ext,Brazzers - VOD 095,http://static.brazzers.com/scenes/3444/180sec.flv
-ext,Brazzers - VOD 096,http://static.brazzers.com/scenes/3445/180sec.flv
-ext,Brazzers - VOD 097,http://static.brazzers.com/scenes/3446/180sec.flv
-ext,Brazzers - VOD 098,http://static.brazzers.com/scenes/3447/180sec.flv
-ext,Brazzers - VOD 099,http://static.brazzers.com/scenes/3448/180sec.flv
-ext,Brazzers - VOD 100,http://static.brazzers.com/scenes/3449/180sec.flv
-ext,Brazzers - VOD 101,http://static.brazzers.com/scenes/3450/180sec.flv
-ext,Brazzers - VOD 102,http://static.brazzers.com/scenes/3451/180sec.flv
-ext,Brazzers - VOD 103,http://static.brazzers.com/scenes/3481/180sec.flv
-ext,Brazzers - VOD 104,http://static.brazzers.com/scenes/3453/180sec.flv
-ext,Brazzers - VOD 105,http://static.brazzers.com/scenes/3454/180sec.flv
-ext,Brazzers - VOD 106,http://static.brazzers.com/scenes/3455/180sec.flv
-ext,Brazzers - VOD 107,http://static.brazzers.com/scenes/3480/180sec.flv
-ext,Brazzers - VOD 108,http://static.brazzers.com/scenes/3479/180sec.flv
-ext,Brazzers - VOD 109,http://static.brazzers.com/scenes/3458/180sec.flv
-ext,Brazzers - VOD 110,http://static.brazzers.com/scenes/3459/180sec.flv
-ext,Brazzers - VOD 111,http://static.brazzers.com/scenes/3460/180sec.flv
-ext,Brazzers - VOD 112,http://static.brazzers.com/scenes/3461/180sec.flv
-ext,Brazzers - VOD 113,http://static.brazzers.com/scenes/3462/180sec.flv
-ext,Brazzers - VOD 114,http://static.brazzers.com/scenes/3463/180sec.flv
-ext,Brazzers - VOD 115,http://static.brazzers.com/scenes/3478/180sec.flv
-ext,Brazzers - VOD 116,http://static.brazzers.com/scenes/3465/180sec.flv
-ext,Brazzers - VOD 117,http://static.brazzers.com/scenes/3350/180sec.flv
-ext,Brazzers - VOD 118,http://static.brazzers.com/scenes/3291/180sec.flv
-ext,Brazzers - VOD 119,http://static.brazzers.com/scenes/3292/180sec.flv
-ext,Brazzers - VOD 120,http://static.brazzers.com/scenes/3293/180sec.flv
-ext,Brazzers - VOD 121,http://static.brazzers.com/scenes/3294/180sec.flv
-ext,Brazzers - VOD 122,http://static.brazzers.com/scenes/3295/180sec.flv
-ext,Brazzers - VOD 123,http://static.brazzers.com/scenes/3296/180sec.flv
-ext,Brazzers - VOD 124,http://static.brazzers.com/scenes/3297/180sec.flv
-ext,Brazzers - VOD 125,http://static.brazzers.com/scenes/3298/180sec.flv
-ext,Brazzers - VOD 126,http://static.brazzers.com/scenes/3477/180sec.flv
-ext,Brazzers - VOD 127,http://static.brazzers.com/scenes/3300/180sec.flv
-ext,Brazzers - VOD 128,http://static.brazzers.com/scenes/3301/180sec.flv
-ext,Brazzers - VOD 129,http://static.brazzers.com/scenes/3302/180sec.flv
-ext,Brazzers - VOD 130,http://static.brazzers.com/scenes/3303/180sec.flv
-ext,Brazzers - VOD 131,http://static.brazzers.com/scenes/3304/180sec.flv
-ext,Brazzers - VOD 132,http://static.brazzers.com/scenes/3305/180sec.flv
-ext,Brazzers - VOD 133,http://static.brazzers.com/scenes/3306/180sec.flv
-ext,Brazzers - VOD 134,http://static.brazzers.com/scenes/3307/180sec.flv
-ext,Brazzers - VOD 135,http://static.brazzers.com/scenes/3308/180sec.flv
-ext,Brazzers - VOD 136,http://static.brazzers.com/scenes/3309/180sec.flv
-ext,Brazzers - VOD 137,http://static.brazzers.com/scenes/3310/180sec.flv
-ext,Brazzers - VOD 138,http://static.brazzers.com/scenes/3311/180sec.flv
-ext,Brazzers - VOD 139,http://static.brazzers.com/scenes/3312/180sec.flv
-ext,Brazzers - VOD 140,http://static.brazzers.com/scenes/3313/180sec.flv
-ext,Brazzers - VOD 141,http://static.brazzers.com/scenes/3314/180sec.flv
-ext,Brazzers - VOD 142,http://static.brazzers.com/scenes/3315/180sec.flv
-ext,Brazzers - VOD 143,http://static.brazzers.com/scenes/3316/180sec.flv
-ext,Brazzers - VOD 144,http://static.brazzers.com/scenes/3317/180sec.flv
-ext,Brazzers - VOD 145,http://static.brazzers.com/scenes/3318/180sec.flv
-ext,Brazzers - VOD 146,http://static.brazzers.com/scenes/3475/180sec.flv
-ext,Brazzers - VOD 147,http://static.brazzers.com/scenes/3474/180sec.flv
-ext,Brazzers - VOD 148,http://static.brazzers.com/scenes/3321/180sec.flv
-ext,Brazzers - VOD 149,http://static.brazzers.com/scenes/3471/180sec.flv
-ext,Brazzers - VOD 150,http://static.brazzers.com/scenes/3323/180sec.flv
-ext,Brazzers - VOD 151,http://static.brazzers.com/scenes/3324/180sec.flv
-ext,Brazzers - VOD 152,http://static.brazzers.com/scenes/3325/180sec.flv
-ext,Brazzers - VOD 153,http://static.brazzers.com/scenes/3326/180sec.flv
-ext,Brazzers - VOD 154,http://static.brazzers.com/scenes/3327/180sec.flv
-ext,Brazzers - VOD 155,http://static.brazzers.com/scenes/3328/180sec.flv
-ext,Brazzers - VOD 156,http://static.brazzers.com/scenes/3469/180sec.flv
-ext,Brazzers - VOD 157,http://static.brazzers.com/scenes/3330/180sec.flv
-ext,Brazzers - VOD 158,http://static.brazzers.com/scenes/3331/180sec.flv
-ext,Brazzers - VOD 159,http://static.brazzers.com/scenes/3332/180sec.flv
-ext,Brazzers - VOD 160,http://static.brazzers.com/scenes/3333/180sec.flv
-ext,Brazzers - VOD 161,http://static.brazzers.com/scenes/3334/180sec.flv
-ext,Brazzers - VOD 162,http://static.brazzers.com/scenes/3335/180sec.flv
-ext,Brazzers - VOD 163,http://static.brazzers.com/scenes/3336/180sec.flv
-ext,Brazzers - VOD 164,http://static.brazzers.com/scenes/3337/180sec.flv
-ext,Brazzers - VOD 165,http://static.brazzers.com/scenes/3338/180sec.flv
-ext,Brazzers - VOD 166,http://static.brazzers.com/scenes/3339/180sec.flv
-ext,Brazzers - VOD 167,http://static.brazzers.com/scenes/3340/180sec.flv
-ext,Brazzers - VOD 168,http://static.brazzers.com/scenes/3468/180sec.flv
-ext,Brazzers - VOD 169,http://static.brazzers.com/scenes/3342/180sec.flv
-ext,Brazzers - VOD 170,http://static.brazzers.com/scenes/3343/180sec.flv
-ext,Brazzers - VOD 171,http://static.brazzers.com/scenes/3344/180sec.flv
-ext,Brazzers - VOD 172,http://static.brazzers.com/scenes/3345/180sec.flv
-ext,Brazzers - VOD 173,http://static.brazzers.com/scenes/3466/180sec.flv
-ext,Brazzers - VOD 174,http://static.brazzers.com/scenes/3347/180sec.flv
-ext,Brazzers - VOD 175,http://static.brazzers.com/scenes/3348/180sec.flv
-ext,Brazzers - VOD 176,http://static.brazzers.com/scenes/3349/180sec.flv
-ext,Brazzers - VOD 177,http://static.brazzers.com/scenes/3490/180sec.flv
-ext,Brazzers - VOD 178,http://static.brazzers.com/scenes/3491/180sec.flv
-ext,Brazzers - VOD 179,http://static.brazzers.com/scenes/3492/180sec.flv
-ext,Brazzers - VOD 180,http://static.brazzers.com/scenes/3493/180sec.flv
-ext,Brazzers - VOD 181,http://static.brazzers.com/scenes/3494/180sec.flv
-ext,Brazzers - VOD 182,http://static.brazzers.com/scenes/3495/180sec.flv
-ext,Brazzers - VOD 183,http://static.brazzers.com/scenes/3496/180sec.flv
-ext,Brazzers - VOD 184,http://static.brazzers.com/scenes/3497/180sec.flv
-ext,Brazzers - VOD 185,http://static.brazzers.com/scenes/3498/180sec.flv
-ext,Brazzers - VOD 186,http://static.brazzers.com/scenes/3499/180sec.flv
-ext,Brazzers - VOD 187,http://static.brazzers.com/scenes/3500/180sec.flv
-ext,Brazzers - VOD 188,http://static.brazzers.com/scenes/3501/180sec.flv
-ext,Brazzers - VOD 189,http://static.brazzers.com/scenes/3503/180sec.flv
-ext,Brazzers - VOD 190,http://static.brazzers.com/scenes/3504/180sec.flv
-ext,Brazzers - VOD 191,http://static.brazzers.com/scenes/3505/180sec.flv
-ext,Brazzers - VOD 192,http://static.brazzers.com/scenes/3507/180sec.flv
-ext,Brazzers - VOD 193,http://static.brazzers.com/scenes/3508/180sec.flv
-ext,Brazzers - VOD 194,http://static.brazzers.com/scenes/3509/180sec.flv
-ext,Brazzers - VOD 195,http://static.brazzers.com/scenes/3510/180sec.flv
-ext,Brazzers - VOD 196,http://static.brazzers.com/scenes/3511/180sec.flv
-ext,Brazzers - VOD 197,http://static.brazzers.com/scenes/3512/180sec.flv
-ext,Brazzers - VOD 198,http://static.brazzers.com/scenes/3513/180sec.flv
-ext,Brazzers - VOD 199,http://static.brazzers.com/scenes/3514/180sec.flv
-ext,Brazzers - VOD 200,http://static.brazzers.com/scenes/3515/180sec.flv
-ext,Brazzers - VOD 201,http://static.brazzers.com/scenes/3516/180sec.flv
-ext,Brazzers - VOD 202,http://static.brazzers.com/scenes/3517/180sec.flv
-ext,Brazzers - VOD 203,http://static.brazzers.com/scenes/3518/180sec.flv
-ext,Brazzers - VOD 204,http://static.brazzers.com/scenes/3520/180sec.flv
-ext,Brazzers - VOD 205,http://static.brazzers.com/scenes/3521/180sec.flv
-ext,Brazzers - VOD 206,http://static.brazzers.com/scenes/3522/180sec.flv
-ext,Brazzers - VOD 207,http://static.brazzers.com/scenes/3526/180sec.flv
-ext,Brazzers - VOD 208,http://static.brazzers.com/scenes/3527/180sec.flv
-ext,Brazzers - VOD 209,http://static.brazzers.com/scenes/3528/180sec.flv
-ext,Brazzers - VOD 210,http://static.brazzers.com/scenes/3529/180sec.flv
-ext,Brazzers - VOD 211,http://static.brazzers.com/scenes/3530/180sec.flv
-ext,Brazzers - VOD 212,http://static.brazzers.com/scenes/3531/180sec.flv
-ext,Brazzers - VOD 213,http://static.brazzers.com/scenes/3534/180sec.flv
-ext,Brazzers - VOD 214,http://static.brazzers.com/scenes/3535/180sec.flv
-ext,Brazzers - VOD 215,http://static.brazzers.com/scenes/3536/180sec.flv
-ext,Brazzers - VOD 216,http://static.brazzers.com/scenes/3537/180sec.flv
-ext,Brazzers - VOD 217,http://static.brazzers.com/scenes/3538/180sec.flv
-ext,Brazzers - VOD 218,http://static.brazzers.com/scenes/3539/180sec.flv
-ext,Brazzers - VOD 219,http://static.brazzers.com/scenes/3540/180sec.flv
-ext,Brazzers - VOD 220,http://static.brazzers.com/scenes/3541/180sec.flv
-ext,Brazzers - VOD 221,http://static.brazzers.com/scenes/3542/180sec.flv
-ext,Brazzers - VOD 222,http://static.brazzers.com/scenes/3543/180sec.flv
-ext,Brazzers - VOD 223,http://static.brazzers.com/scenes/3544/180sec.flv
-ext,Brazzers - VOD 224,http://static.brazzers.com/scenes/3545/180sec.flv
-ext,Brazzers - VOD 225,http://static.brazzers.com/scenes/3546/180sec.flv
-ext,Brazzers - VOD 227,http://static.brazzers.com/scenes/3547/180sec.flv
-ext,Brazzers - VOD 228,http://static.brazzers.com/scenes/3548/180sec.flv
-ext,Brazzers - VOD 229,http://static.brazzers.com/scenes/3549/180sec.flv
-ext,Brazzers - VOD 230,http://static.brazzers.com/scenes/3550/180sec.flv
-ext,Brazzers - VOD 231,http://static.brazzers.com/scenes/3551/180sec.flv
-ext,Brazzers - VOD 232,http://static.brazzers.com/scenes/3552/180sec.flv
-ext,Brazzers - VOD 233,http://static.brazzers.com/scenes/3553/180sec.flv
-ext,Brazzers - VOD 234,http://static.brazzers.com/scenes/3554/180sec.flv
-ext,Brazzers - VOD 235,http://static.brazzers.com/scenes/3555/180sec.flv
-ext,Brazzers - VOD 236,http://static.brazzers.com/scenes/3556/180sec.flv
-ext,Brazzers - VOD 237,http://static.brazzers.com/scenes/3557/180sec.flv
-ext,Brazzers - VOD 238,http://static.brazzers.com/scenes/3558/180sec.flv
-ext,Brazzers - VOD 239,http://static.brazzers.com/scenes/3559/180sec.flv
-ext,Brazzers - VOD 240,http://static.brazzers.com/scenes/3560/180sec.flv
-ext,Brazzers - VOD 241,http://static.brazzers.com/scenes/3561/180sec.flv
-ext,Brazzers - VOD 242,http://static.brazzers.com/scenes/3562/180sec.flv
-ext,Brazzers - VOD 243,http://static.brazzers.com/scenes/3563/180sec.flv
-ext,Brazzers - VOD 244,http://static.brazzers.com/scenes/3564/180sec.flv
-ext,Brazzers - VOD 245,http://static.brazzers.com/scenes/3565/180sec.flv
-ext,Brazzers - VOD 246,http://static.brazzers.com/scenes/3566/180sec.flv
-ext,Brazzers - VOD 247,http://static.brazzers.com/scenes/3567/180sec.flv
-ext,Brazzers - VOD 248,http://static.brazzers.com/scenes/3568/180sec.flv
-ext,Brazzers - VOD 249,http://static.brazzers.com/scenes/3569/180sec.flv
-ext,Brazzers - VOD 250,http://static.brazzers.com/scenes/3570/180sec.flv
-ext,Brazzers - VOD 251,http://static.brazzers.com/scenes/3571/180sec.flv
-ext,Brazzers - VOD 252,http://static.brazzers.com/scenes/3572/180sec.flv
-ext,Brazzers - VOD 253,http://static.brazzers.com/scenes/3573/180sec.flv
-ext,Brazzers - VOD 254,http://static.brazzers.com/scenes/3575/180sec.flv
-ext,Brazzers - VOD 255,http://static.brazzers.com/scenes/3576/180sec.flv
-ext,Brazzers - VOD 256,http://static.brazzers.com/scenes/3577/180sec.flv
-ext,Brazzers - VOD 257,http://static.brazzers.com/scenes/3586/180sec.flv
-ext,Brazzers - VOD 258,http://static.brazzers.com/scenes/3588/180sec.flv
-ext,Brazzers - VOD 259,http://static.brazzers.com/scenes/3589/180sec.flv
-ext,Brazzers - VOD 260,http://static.brazzers.com/scenes/3590/180sec.flv
-ext,Brazzers - VOD 261,http://static.brazzers.com/scenes/3591/180sec.flv
-ext,Brazzers - VOD 262,http://static.brazzers.com/scenes/3592/180sec.flv
-ext,Brazzers - VOD 263,http://static.brazzers.com/scenes/3593/180sec.flv
-ext,Brazzers - VOD 264,http://static.brazzers.com/scenes/3594/180sec.flv
-ext,Brazzers - VOD 265,http://static.brazzers.com/scenes/3595/180sec.flv
-ext,Brazzers - VOD 266,http://static.brazzers.com/scenes/3596/180sec.flv
-ext,Brazzers - VOD 267,http://static.brazzers.com/scenes/3597/180sec.flv
-ext,Brazzers - VOD 268,http://static.brazzers.com/scenes/3598/180sec.flv
-ext,Brazzers - VOD 269,http://static.brazzers.com/scenes/3599/180sec.flv
-ext,Brazzers - VOD 270,http://static.brazzers.com/scenes/3600/180sec.flv
-ext,Brazzers - VOD 271,http://static.brazzers.com/scenes/3601/180sec.flv
-ext,Brazzers - VOD 272,http://static.brazzers.com/scenes/3602/180sec.flv
-ext,Brazzers - VOD 273,http://static.brazzers.com/scenes/3603/180sec.flv
-ext,Brazzers - VOD 274,http://static.brazzers.com/scenes/3604/180sec.flv
-ext,Brazzers - VOD 275,http://static.brazzers.com/scenes/3605/180sec.flv
-ext,Brazzers - VOD 276,http://static.brazzers.com/scenes/3606/180sec.flv
-ext,Brazzers - VOD 277,http://static.brazzers.com/scenes/3607/180sec.flv
-ext,Brazzers - VOD 278,http://static.brazzers.com/scenes/3608/180sec.flv
-ext,Brazzers - VOD 279,http://static.brazzers.com/scenes/3609/180sec.flv
-ext,Brazzers - VOD 280,http://static.brazzers.com/scenes/3610/180sec.flv
-ext,Brazzers - VOD 281,http://static.brazzers.com/scenes/3611/180sec.flv
-ext,Brazzers - VOD 282,http://static.brazzers.com/scenes/3612/180sec.flv
-ext,Brazzers - VOD 283,http://static.brazzers.com/scenes/3613/180sec.flv
-ext,Brazzers - VOD 284,http://static.brazzers.com/scenes/3614/180sec.flv
-ext,Brazzers - VOD 285,http://static.brazzers.com/scenes/3615/180sec.flv
-ext,Brazzers - VOD 286,http://static.brazzers.com/scenes/3616/180sec.flv
-ext,Brazzers - VOD 287,http://static.brazzers.com/scenes/3617/180sec.flv
-ext,Brazzers - VOD 288,http://static.brazzers.com/scenes/3619/180sec.flv
-ext,Brazzers - VOD 289,http://static.brazzers.com/scenes/3620/180sec.flv
-ext,Brazzers - VOD 290,http://static.brazzers.com/scenes/3621/180sec.flv
-ext,Brazzers - VOD 291,http://static.brazzers.com/scenes/3622/180sec.flv
-ext,Brazzers - VOD 292,http://static.brazzers.com/scenes/3623/180sec.flv
-ext,Brazzers - VOD 293,http://static.brazzers.com/scenes/3625/180sec.flv
-ext,Brazzers - VOD 294,http://static.brazzers.com/scenes/3626/180sec.flv
-ext,Brazzers - VOD 295,http://static.brazzers.com/scenes/3627/180sec.flv
-ext,Brazzers - VOD 296,http://static.brazzers.com/scenes/3628/180sec.flv
-ext,Brazzers - VOD 297,http://static.brazzers.com/scenes/3629/180sec.flv
-ext,Brazzers - VOD 298,http://static.brazzers.com/scenes/3630/180sec.flv
-ext,Brazzers - VOD 299,http://static.brazzers.com/scenes/3631/180sec.flv
-ext,Brazzers - VOD 300,http://static.brazzers.com/scenes/3632/180sec.flv
-avi,Porn-Stream - VOD 01,http://stream2.fastcdn.me/flv/490.mp4
-avi,Porn-Stream - VOD 02,http://stream2.fastcdn.me/flv/487.mp4
-avi,Porn-Stream - VOD 03,http://stream2.fastcdn.me/flv/484.mp4
-avi,Porn-Stream - VOD 04,http://stream2.fastcdn.me/flv/481.mp4
-avi,Porn-Stream - VOD 05,http://stream2.fastcdn.me/flv/459.mp4
-avi,Porn-Stream - VOD 06,http://stream2.fastcdn.me/flv/456.mp4
-avi,Porn-Stream - VOD 07,http://stream2.fastcdn.me/flv/451.mp4
-avi,Porn-Stream - VOD 08,http://stream2.fastcdn.me/flv/422.mp4
-avi,Porn-Stream - VOD 09,http://stream2.fastcdn.me/flv/414.mp4
-avi,Porn-Stream - VOD 10,http://stream2.fastcdn.me/flv/416.mp4
-avi,Porn-Stream - VOD 11,http://stream2.fastcdn.me/flv/408.mp4
-avi,Porn-Stream - VOD 12,http://stream2.fastcdn.me/flv/409.mp4
-avi,Porn-Stream - VOD 13,http://stream2.fastcdn.me/flv/391.mp4
-avi,Porn-Stream - VOD 14,http://stream2.fastcdn.me/flv/389.mp4
-avi,Porn-Stream - VOD 15,http://stream2.fastcdn.me/flv/377.mp4
-avi,Porn-Stream - VOD 16,http://stream2.fastcdn.me/flv/375.mp4
-avi,Porn-Stream - VOD 17,http://stream2.fastcdn.me/flv/370.mp4
-avi,Porn-Stream - VOD 18,http://stream2.fastcdn.me/flv/371.mp4
-avi,Porn-Stream - VOD 19,http://stream2.fastcdn.me/flv/363.mp4
-avi,Porn-Stream - VOD 20,http://stream2.fastcdn.me/flv/359.mp4
-avi,Porn-Stream - VOD 21,http://stream2.fastcdn.me/flv/356.mp4
-avi,Porn-Stream - VOD 22,http://stream2.fastcdn.me/flv/347.mp4
-avi,Porn-Stream - VOD 23,http://stream2.fastcdn.me/flv/367.mp4
-avi,Porn-Stream - VOD 24,http://stream2.fastcdn.me/flv/346.mp4
-avi,Porn-Stream - VOD 25,http://stream2.fastcdn.me/flv/343.mp4
-avi,Porn-Stream - VOD 26,http://stream2.fastcdn.me/flv/337.mp4
-avi,Porn-Stream - VOD 27,http://stream2.fastcdn.me/flv/336.mp4
-avi,Porn-Stream - VOD 28,http://stream2.fastcdn.me/flv/333.mp4
-avi,Porn-Stream - VOD 29,http://stream2.fastcdn.me/flv/326.mp4
-avi,Porn-Stream - VOD 30,http://stream2.fastcdn.me/flv/322.mp4
-avi,Porn-Stream - VOD 31,http://stream2.fastcdn.me/flv/318.mp4
-avi,Porn-Stream - VOD 32,http://stream2.fastcdn.me/flv/316.mp4
-avi,Porn-Stream - VOD 33,http://stream2.fastcdn.me/flv/308.mp4
-avi,Porn-Stream - VOD 34,http://stream2.fastcdn.me/flv/311.mp4
-avi,Porn-Stream - VOD 35,http://stream2.fastcdn.me/flv/310.mp4
-avi,Porn-Stream - VOD 36,http://stream2.fastcdn.me/flv/301.mp4
-avi,Porn-Stream - VOD 37,http://stream2.fastcdn.me/flv/303.mp4
-avi,Porn-Stream - VOD 38,http://stream2.fastcdn.me/flv/299.mp4
-avi,Porn-Stream - VOD 39,http://stream2.fastcdn.me/flv/293.mp4
-avi,Porn-Stream - VOD 40,http://stream2.fastcdn.me/flv/291.mp4
-avi,Porn-Stream - VOD 41,http://stream2.fastcdn.me/flv/280.mp4
-avi,Porn-Stream - VOD 42,http://stream2.fastcdn.me/flv/283.mp4
-avi,Porn-Stream - VOD 43,http://stream2.fastcdn.me/flv/282.mp4
-avi,Porn-Stream - VOD 44,http://stream2.fastcdn.me/flv/281.mp4
-avi,Porn-Stream - VOD 45,http://stream2.fastcdn.me/flv/279.mp4
-avi,Porn-Stream - VOD 46,http://stream2.fastcdn.me/flv/275.mp4
-avi,Porn-Stream - VOD 47,http://stream2.fastcdn.me/flv/273.mp4
-avi,Porn-Stream - VOD 48,http://stream2.fastcdn.me/flv/269.mp4
-avi,Porn-Stream - VOD 49,http://stream2.fastcdn.me/flv/268.mp4
-avi,Porn-Stream - VOD 50,http://stream2.fastcdn.me/flv/271.mp4
-avi,Porn-Stream - VOD 51,http://stream2.fastcdn.me/flv/267.mp4
-avi,Porn-Stream - VOD 52,http://stream2.fastcdn.me/flv/266.mp4
-avi,Porn-Stream - VOD 53,http://stream2.fastcdn.me/flv/265.mp4
-avi,Porn-Stream - VOD 54,http://stream2.fastcdn.me/flv/264.mp4
-avi,Porn-Stream - VOD 55,http://stream2.fastcdn.me/flv/262.mp4
-avi,Porn-Stream - VOD 56,http://stream2.fastcdn.me/flv/261.mp4
-avi,Porn-Stream - VOD 57,http://stream2.fastcdn.me/flv/259.mp4
-avi,Porn-Stream - VOD 58,http://stream2.fastcdn.me/flv/260.mp4
-avi,Porn-Stream - VOD 59,http://stream2.fastcdn.me/flv/256.mp4
-avi,Porn-Stream - VOD 60,http://stream2.fastcdn.me/flv/254.mp4
-avi,Porn-Stream - VOD 61,http://stream2.fastcdn.me/flv/251.mp4
-avi,Porn-Stream - VOD 62,http://stream2.fastcdn.me/flv/249.mp4
-avi,Porn-Stream - VOD 63,http://stream2.fastcdn.me/flv/248.mp4
-avi,Porn-Stream - VOD 64,http://stream2.fastcdn.me/flv/227.mp4
-avi,Porn-Stream - VOD 65,http://stream2.fastcdn.me/flv/214.mp4
-avi,Porn-Stream - VOD 66,http://stream2.fastcdn.me/flv/216.mp4
-avi,Porn-Stream - VOD 67,http://stream2.fastcdn.me/flv/210.mp4
-avi,Porn-Stream - VOD 68,http://stream2.fastcdn.me/flv/200.mp4
-avi,Porn-Stream - VOD 69,http://stream2.fastcdn.me/flv/199.mp4
-avi,Porn-Stream - VOD 70,http://stream2.fastcdn.me/flv/197.mp4
-avi,Porn-Stream - VOD 71,http://stream2.fastcdn.me/flv/196.mp4
-avi,Porn-Stream - VOD 72,http://stream2.fastcdn.me/flv/195.mp4
-avi,Porn-Stream - VOD 73,http://stream2.fastcdn.me/flv/193.mp4
-avi,Porn-Stream - VOD 74,http://134.119.206.69:25461/m/2524050.mp4
-avi,Porn-Stream - VOD 75,http://134.119.206.69:25461/m/3095757.mp4
-avi,Porn-Stream - VOD 76,http://134.119.206.69:25461/m/7344650.mp4
-avi,Porn-Stream - VOD 77,http://134.119.206.69:25461/m/7928064.mp4
-avi,Porn-Stream - VOD 78,http://134.119.206.69:25461/m/1442819.mp4
-avi,Porn-Stream - VOD 79,http://134.119.206.69:25461/m/2661109.mp4
-avi,Porn-Stream - VOD 80,http://134.119.206.69:25461/m/9281934.mp4
-avi,Porn-Stream - VOD 81,http://134.119.206.69:25461/m/3865778.mp4
-avi,Porn-Stream - VOD 82,http://134.119.206.69:25461/m/9666219.mp4
-ext,Other - Seventeen Video 01,http://galleries.payserve.com/1/43131/55380/5mins_sv.flv
-ext,Other - Double Penetration Latinas 01,http://ic.bf24b800.0f4d7a.1.c3503.d.rncdn3.com/0/65/65468/tubeclips/DPL/custom/DPL_65468_750.flv
-avi,Other - Girls + Studs 01,http://cdn2.servitubes.com/videos/d/a/f/a/d/dafad50cac8d089173cda5f183474c3e887e0fda.mp4
-avi,Other - Dane Jones - My Sweet Spot,http://cdn.servitubes.com/videos/2/3/e/6/b/23e6bdb1f1136158df6a20b60af4e40b0544c924.mp4
-avi,Other - Lust Cinema - Sex Fetish,http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4
-avi,Other - Nubiles Porn - Ricky,http://cdn.servitubes.com/videos/e/e/6/1/f/ee61f46e421e18382ff152b4cdc74c413236429a.mp4
-avi,Other - Public Pick Ups 01,http://cdn.servitubes.com/videos/0/2/9/3/c/0293cf9012c23e92d7d68e7d599824008e498f04.mp4
-ext,Asian XXX - VOD 01,http://69.46.75.107/files/videos/140747456300c03.flv
-ext,Asian XXX - VOD 02,http://69.46.75.107/files/videos/1410962219b8929.flv
-ext,Asian XXX - VOD 03,http://69.46.75.107/files/videos/141188120614378.flv
-ext,Asian XXX - VOD 04,http://69.46.75.107/files/videos/141344498070660.flv
-avi,Tubo Italiano XXX - VOD 01,http://media.tuboitaliano.xxx:81/videos/5/5/7/2/f/5572f86a809c0.mp4
-avi,Tubo Italiano XXX - VOD 02,http://media.tuboitaliano.xxx:81/videos/5/5/6/c/0/556c07cb18cc0.mp4
-avi,Tubo Italiano XXX - VOD 03,http://media.tuboitaliano.xxx:81/videos/5/6/1/4/0/561408bfc3dc1.mp4
-avi,Tubo Italiano XXX - VOD 04,http://media.tuboitaliano.xxx:81/videos/5/6/1/7/b/5617b94dac6a4.mp4
-avi,Tubo Italiano XXX - VOD 05,http://media.tuboitaliano.xxx:81/videos/5/6/1/d/2/561d234b4d3ad.mp4
-avi,Tubo Italiano XXX - VOD 06,http://media.tuboitaliano.xxx:81/videos/5/6/4/8/9/5648923984ced.mp4
-avi,Tubo Italiano XXX - VOD 07,http://media.tuboitaliano.xxx:81/videos/5/6/5/1/a/5651aa1a80ecf.mp4
-avi,Tubo Italiano XXX - VOD 08,http://media.tuboitaliano.xxx:81/videos/5/5/6/a/2/556a2465e5c2b.mp4
-avi,Tubo Italiano XXX - VOD 09,http://media.tuboitaliano.xxx:81/videos/5/5/6/a/c/556acaf32668d.mp4
-avi,Tubo Italiano XXX - VOD 10,http://media.tuboitaliano.xxx:81/videos/5/5/8/9/b/5589bd59a6e6e.mp4
-avi,Tubo Italiano XXX - VOD 11,http://media.tuboitaliano.xxx:81/videos/5/5/6/a/4/556a44ef99130.mp4
-avi,Tubo Italiano XXX - VOD 12,http://media.tuboitaliano.xxx:81/videos/5/6/5/5/9/56559e9aa119e.mp4
-avi,Tubo Italiano XXX - VOD 13,http://media.tuboitaliano.xxx:81/videos/5/5/9/4/1/5594130834415.mp4
-avi,Tubo Italiano XXX - VOD 14,http://media.tuboitaliano.xxx:81/videos/5/5/9/7/f/5597f049e0408.mp4
-avi,Tubo Italiano XXX - VOD 15,http://media.tuboitaliano.xxx:81/videos/5/5/8/6/a/5586a7d6be257.mp4
-avi,Tubo Italiano XXX - VOD 16,http://media.tuboitaliano.xxx:81/videos/5/5/6/c/0/556c0bba3fa7f.mp4
-avi,Tubo Italiano XXX - VOD 17,http://media.tuboitaliano.xxx:81/videos/5/5/6/9/d/5569db292d247.mp4
-avi,Tubo Italiano XXX - VOD 18,http://media.tuboitaliano.xxx:81/videos/5/5/f/9/e/55f9ec921fa7d.mp4
-avi,Tubo Italiano XXX - VOD 19,http://media.tuboitaliano.xxx:81/videos/5/5/f/d/3/55fd394c34f8f.mp4
-avi,Tubo Italiano XXX - VOD 20,http://media.tuboitaliano.xxx:81/videos/5/6/0/2/d/5602db24c78cd.mp4
-avi,Tubo Italiano XXX - VOD 21,http://media.tuboitaliano.xxx:81/videos/5/6/0/b/0/560b06193ab2c.mp4
-avi,Tubo Italiano XXX - VOD 22,http://media.tuboitaliano.xxx:81/videos/5/6/0/e/f/560ef318ba615.mp4
-avi,Tubo Italiano XXX - VOD 23,http://media.tuboitaliano.xxx:81/videos/5/6/1/0/e/5610e9f88d07e.mp4
-avi,Tubo Italiano XXX - VOD 24,http://media.tuboitaliano.xxx:81/videos/5/6/3/7/5/56375d0c81fdb.mp4
-avi,Tubo Italiano XXX - VOD 25,http://media.tuboitaliano.xxx:81/videos/5/6/2/0/2/562024ae52ae4.mp4
-avi,Tubo Italiano XXX - VOD 26,http://media.tuboitaliano.xxx:81/videos/5/6/2/f/d/562fd943cc83c.mp4
-avi,Tubo Italiano XXX - VOD 27,http://media.tuboitaliano.xxx:81/videos/5/5/8/6/9/55869d0ed868d.mp4
-avi,Tubo Italiano XXX - VOD 28,http://media.tuboitaliano.xxx:81/videos/5/6/2/b/d/562bd7b5262d5.mp4
-avi,Tubo Italiano XXX - VOD 29,http://media.tuboitaliano.xxx:81/videos/5/6/2/7/7/562777081b8e7.mp4
-avi,Tubo Italiano XXX - VOD 30,http://media.tuboitaliano.xxx:81/videos/5/6/3/a/3/563a391e49e4e.mp4
-avi,Tubo Italiano XXX - VOD 31,http://media.tuboitaliano.xxx:81/videos/5/6/2/e/d/562ed8ef7b6cd.mp4
-avi,Tubo Italiano XXX - VOD 32,http://tuboitaliano.xxx/media/videos/5/8/b/f/4/58bf485e5dc05.mp4
-avi,Tubo Italiano XXX - VOD 33,http://tuboitaliano.xxx/media/videos/5/8/8/d/c/588dc4e1d8598.mp4
-avi,Tubo Italiano XXX - VOD 34,http://tuboitaliano.xxx/media/videos/5/8/5/b/7/585b7a2f543b1.mp4
-avi,Tubo Italiano XXX - VOD 35,http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290f6edbfc6.mp4
-avi,Tubo Italiano XXX - VOD 36,http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290e9438383.mp4
-avi,Tubo Italiano XXX - VOD 37,http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828f666c2f13.mp4
-avi,Tubo Italiano XXX - VOD 38,http://tuboitaliano.xxx/media/videos/5/8/2/9/0/58290feaab245.mp4
-avi,Tubo Italiano XXX - VOD 39,http://tuboitaliano.xxx/media/videos/5/8/2/8/f/5828fd5ade95a.mp4
-avi,Tubo Italiano XXX - VOD 40,http://tuboitaliano.xxx/media/videos/5/8/2/9/3/582932dcadf9b.mp4
-avi,Tubo Italiano XXX - VOD 41,http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580739b000c99.mp4
-avi,Tubo Italiano XXX - VOD 42,http://tuboitaliano.xxx/media/videos/5/8/0/7/1/58071ec1bf30f.mp4
-avi,Tubo Italiano XXX - VOD 43,http://tuboitaliano.xxx/media/videos/5/8/0/7/4/5807409032586.mp4
-avi,Tubo Italiano XXX - VOD 44,http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074ae7ee35d.mp4
-avi,Tubo Italiano XXX - VOD 45,http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074798c60b0.mp4
-avi,Tubo Italiano XXX - VOD 46,http://tuboitaliano.xxx/media/videos/5/8/0/7/5/58075436d8120.mp4
-avi,Tubo Italiano XXX - VOD 47,http://tuboitaliano.xxx/media/videos/5/8/0/7/4/58074c2a81ce7.mp4
-avi,Tubo Italiano XXX - VOD 48,http://tuboitaliano.xxx/media/videos/5/8/0/7/3/580736353dbd2.mp4
-avi,Tubo Italiano XXX - VOD 49,http://tuboitaliano.xxx/media/videos/5/8/0/7/6/5807644f5bfd7.mp4
-avi,Tubo Italiano XXX - VOD 50,http://tuboitaliano.xxx/media/videos/5/7/d/9/c/57d9c2ebd1a53.mp4
-avi,Tubo Italiano XXX - VOD 51,http://tuboitaliano.xxx/media/videos/5/7/d/9/b/57d9bcb808ef3.mp4
-avi,Tubo Italiano XXX - VOD 52,http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c0370e4861b.mp4
-avi,Tubo Italiano XXX - VOD 53,http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02c2401a4c.mp4
-avi,Tubo Italiano XXX - VOD 54,http://tuboitaliano.xxx/media/videos/5/7/c/0/2/57c02cce80fc4.mp4
-avi,Tubo Italiano XXX - VOD 55,http://tuboitaliano.xxx/media/videos/5/7/c/0/3/57c033f489cab.mp4
-avi,Tubo Italiano XXX - VOD 56,http://tuboitaliano.xxx/media/videos/5/7/b/3/4/57b34cf66ec63.mp4
-avi,Tubo Italiano XXX - VOD 57,http://tuboitaliano.xxx/media/videos/5/7/7/2/b/5772bdff5a62a.mp4
-avi,Tubo Italiano XXX - VOD 58,http://tuboitaliano.xxx/media/videos/5/7/7/2/d/5772d8bca2374.mp4
-avi,Tubo Italiano XXX - VOD 59,http://tuboitaliano.xxx/media/videos/5/7/7/2/e/5772ed455ac0d.mp4
-avi,Tubo Italiano XXX - VOD 60,http://tuboitaliano.xxx/media/videos/5/7/7/2/8/5772812602d65.mp4
-avi,Tubo Italiano XXX - VOD 61,http://tuboitaliano.xxx/media/videos/5/7/3/9/f/5739fd498a027.mp4
-avi,Tubo Italiano XXX - VOD 62,http://tuboitaliano.xxx/media/videos/5/7/2/3/6/5723658c0d208.mp4
-avi,Tubo Italiano XXX - VOD 63,http://tuboitaliano.xxx/media/videos/5/7/0/1/6/57016793cc276.mp4
-avi,Tubo Italiano XXX - VOD 64,http://tuboitaliano.xxx/media/videos/5/7/0/1/7/570173d9de973.mp4
-avi,Tubo Italiano XXX - VOD 66,http://tuboitaliano.xxx/media/videos/5/6/8/e/b/568eb95e59f89.mp4
-avi,Tubo Italiano XXX - VOD 66,http://tuboitaliano.xxx/media/videos/5/6/7/a/c/567ace92dd29e.mp4
-avi,Tubo Italiano XXX - VOD 67,http://tuboitaliano.xxx/media/videos/5/7/7/3/3/57733b810f22f.mp4
-avi,Tubo Italiano XXX - VOD 68,http://tuboitaliano.xxx/media/videos/5/8/0/7/5/5807551809490.mp4
-avi,Tubo Italiano XXX - VOD 69,http://tuboitaliano.xxx/media/videos/5/8/0/7/2/58072eb09f328.mp4
-avi,Tubo Italiano XXX - VOD 70,http://tuboitaliano.xxx/media/videos/5/8/0/7/5/580751c28f7e0.mp4
-avi,BFFS - VOD 01,https://media.arabianchicks.com/videos/7/7/6/0/5/77605b198f44b7789.mp4
-avi,Бесподобный профессиональный минет,http://cs1.fuckbox.org/vid/2123.mp4
-avi,Время потеребить киску,http://cs1.fuckbox.org/vid/2035.mp4
-avi,Девушка разговаривает по телефону во время секса,http://cs1.fuckbox.org/vid/2109.mp4
-avi,Дейнерис Таргариен трахают в ротик,http://cs1.fuckbox.org/vid/2113.mp4
-avi,Засовывает розовый резиновый член в киску,http://cs1.fuckbox.org/vid/2114.mp4
-avi,Игра в твистер закончилась лесбийской групповушкой,http://cs1.fuckbox.org/vid/2106.mp4
-avi,Красивое порно кокетливой шатенки,http://cs1.fuckbox.org/vid/2117.mp4
-avi,Красивый нежный секс с двумя милыми девушками,http://cs1.fuckbox.org/vid/2093.mp4
-avi,Лесби снова в деле,http://cs1.fuckbox.org/vid/2059.mp4
-avi,Мечты домработницы,http://cs1.fuckbox.org/vid/2056.mp4
-avi,Милашка оделась в костюм зайки и отдалась парню,http://cs1.fuckbox.org/vid/2097.mp4
-avi,Милая Adria Rae,http://cs1.fuckbox.org/vid/2032.mp4
-avi,Нежные оральные ласки молодой парочки,http://cs1.fuckbox.org/vid/2105.mp4
-avi,Отсос повару под барной стойкой,http://cs1.fuckbox.org/vid/2042.mp4
-avi,Пародия на сцену допроса в фильме Основной Инстинкт,http://cs1.fuckbox.org/vid/2116.mp4
-avi,Порно Ролик 1,http://erogen.su/erotic_videos/download/4020.mp4
-avi,Порно Ролик 2,http://erogen.su/erotic_videos/download/4021.mp4
-avi,Порно Ролик 3,http://erogen.su/erotic_videos/download/4022.mp4
-avi,Порно Ролик 4,http://erogen.su/erotic_videos/download/4024.mp4
-avi,Порно Ролик 5,http://erogen.su/erotic_videos/download/4025.mp4
-avi,Порно Ролик 6,http://erogen.su/erotic_videos/download/4026.mp4
-avi,Порно Ролик 7,http://erogen.su/erotic_videos/download/4027.mp4
-avi,Порно Ролик 8,http://erogen.su/erotic_videos/download/4028.mp4
-avi,Порно Ролик 9,http://erogen.su/erotic_videos/download/4029.mp4
-avi,Порно Ролик 10,http://erogen.su/erotic_videos/download/4030.mp4
-avi,Порно Ролик 11,http://erogen.su/erotic_videos/download/4031.mp4
-avi,Порно Ролик 12,http://erogen.su/erotic_videos/download/4032.mp4
-avi,Порно Ролик 13,http://erogen.su/erotic_videos/download/4033.mp4
-avi,Порно Ролик 14,http://erogen.su/erotic_videos/download/4034.mp4
-avi,Порно Ролик 15,http://erogen.su/erotic_videos/download/4035.mp4
-avi,Порно Ролик 16,http://erogen.su/erotic_videos/download/4036.mp4
-avi,Порно Ролик 17,http://erogen.su/erotic_videos/download/4037.mp4
-avi,Порно Ролик 18,http://erogen.su/erotic_videos/download/4038.mp4
-avi,Порно Ролик 19,http://erogen.su/erotic_videos/download/4039.mp4
-avi,Порно Ролик 20,http://erogen.su/erotic_videos/download/4040.mp4
-avi,Порно Ролик 21,http://erogen.su/erotic_videos/download/4041.mp4
-avi,Порно Ролик 22,http://erogen.su/erotic_videos/download/4042.mp4
-avi,Порно Ролик 23,http://erogen.su/erotic_videos/download/4043.mp4
-avi,Порно Ролик 24,http://erogen.su/erotic_videos/download/4044.mp4
-avi,Порно Ролик 25,http://erogen.su/erotic_videos/download/4045.mp4
-avi,Порно Ролик 26,http://erogen.su/erotic_videos/download/4046.mp4
-avi,Порно Ролик 27,http://erogen.su/erotic_videos/download/4047.mp4
-avi,Порно Ролик 28,http://erogen.su/erotic_videos/download/4048.mp4
-avi,Порно Ролик 29,http://erogen.su/erotic_videos/download/4049.mp4
-avi,Порно Ролик 30,http://erogen.su/erotic_videos/download/4050.mp4
-avi,Порно Ролик 31,http://erogen.su/erotic_videos/download/4051.mp4
-avi,Порно Ролик 32,http://erogen.su/erotic_videos/download/4052.mp4
-avi,Порно Ролик 33,http://erogen.su/erotic_videos/download/4053.mp4
-avi,Порно Ролик 34,http://erogen.su/erotic_videos/download/4054.mp4
-avi,Порно Ролик 35,http://erogen.su/erotic_videos/download/4055.mp4
-avi,Порно Ролик 36,http://erogen.su/erotic_videos/download/4056.mp4
-avi,Порно Ролик 37,http://erogen.su/erotic_videos/download/4057.mp4
-avi,Порно Ролик 38,http://erogen.su/erotic_videos/download/4058.mp4
-avi,Порно Ролик 39,http://erogen.su/erotic_videos/download/4060.mp4
-avi,Порно Ролик 40,http://erogen.su/erotic_videos/download/4061.mp4
-avi,Порно Ролик 41,http://erogen.su/erotic_videos/download/4062.mp4
-avi,Порно актрисы с тату устроили групповуху,http://cs1.fuckbox.org/vid/2088.mp4
-avi,Порно видео девушка дрочит,http://cs1.fuckbox.org/vid/2084.mp4
-avi,Порно двух лесбиянок с офицером,http://cs1.fuckbox.org/vid/2075.mp4
-avi,Порно на кухне девушка отсасывает и дрочит,http://cs1.fuckbox.org/vid/2083.mp4
-avi,Порно три девушки и парень,http://cs1.fuckbox.org/vid/2082.mp4
-avi,Русские студенты устроили порно вечеринку в Хеллоуин,http://cs1.fuckbox.org/vid/2086.mp4
-avi,Секс на радиоволне,http://cs1.fuckbox.org/vid/2054.mp4
-avi,Секс с домохозяйкой,http://cs1.fuckbox.org/vid/2052.mp4
-avi,Секс собеседование,http://cs1.fuckbox.org/vid/2045.mp4
-avi,Страстный утренний секс молодой пары,http://cs1.fuckbox.org/vid/2125.mp4
-avi,Трахнул девушку в белой блузке и клетчатой юбке,http://cs1.fuckbox.org/vid/2108.mp4
-avi,Утренняя мастурбация молодой блондинки,http://cs1.fuckbox.org/vid/2100.mp4
-avi,Фанатка Звездных войн совратила геймера Divinity 2,http://cs1.fuckbox.org/vid/2094.mp4
-avi,Шоколадка отсасывает белый член,http://cs1.fuckbox.org/vid/2095.mp4
-avi,обливая его маслом,http://cs1.fuckbox.org/vid/2090.mp4
-avi,Adult video 1,http://pro.darknun.com/720/2014/08-01/9407.mp4
-avi,Adult video 10,http://pro.darknun.com/720/2015/03-04/173044.mp4
-avi,Adult video 100,http://pro.darknun.com/720/2017/11-29/184654.mp4
-avi,Adult video 101,http://pro.darknun.com/720/2017/11-29/184657.mp4
-avi,Adult video 102,http://pro.darknun.com/720/2017/11-29/184663.mp4
-avi,Adult video 103,http://pro.darknun.com/720/2017/12-12/184922.mp4
-avi,Adult video 104,http://pro.darknun.com/720/2017/12-14/184975.mp4
-avi,Adult video 105,http://pro.darknun.com/720/2017/12-29/185280.mp4
-avi,Adult video 106,http://pro.darknun.com/720/2017/12-29/185292.mp4
-avi,Adult video 107,http://pro.darknun.com/720/2018/01-04/185402.mp4
-avi,Adult video 108,http://pro.darknun.com/720/2018/01-12/185584.mp4
-avi,Adult video 109,http://pro.darknun.com/720/2018/01-15/185623.mp4
-avi,Adult video 11,http://pro.darknun.com/720/2015/03-27/173229.mp4
-avi,Adult video 110,http://pro.darknun.com/720/2018/01-17/185667.mp4
-avi,Adult video 111,http://pro.darknun.com/720/2018/01-20/185737.mp4
-avi,Adult video 112,http://pro.darknun.com/720/2018/01-20/185738.mp4
-avi,Adult video 12,http://pro.darknun.com/720/2015/04-01/173263.mp4
-avi,Adult video 13,http://pro.darknun.com/720/2015/04-02/173266.mp4
-avi,Adult video 14,http://pro.darknun.com/720/2015/04-04/173288.mp4
-avi,Adult video 15,http://pro.darknun.com/720/2015/04-29/173424.mp4
-avi,Adult video 16,http://pro.darknun.com/720/2015/05-27/173575.mp4
-avi,Adult video 17,http://pro.darknun.com/720/2015/05-28/173580.mp4
-avi,Adult video 18,http://pro.darknun.com/720/2015/06-12/173722.mp4
-avi,Adult video 19,http://pro.darknun.com/720/2015/06-30/173966.mp4
-avi,Adult video 2,http://pro.darknun.com/720/2014/08-01/9446.mp4
-avi,Adult video 20,http://pro.darknun.com/720/2015/07-01/173999.mp4
-avi,Adult video 21,http://pro.darknun.com/720/2015/07-07/174084.mp4
-avi,Adult video 22,http://pro.darknun.com/720/2015/07-08/174093.mp4
-avi,Adult video 23,http://pro.darknun.com/720/2015/07-13/174160.mp4
-avi,Adult video 24,http://pro.darknun.com/720/2015/07-31/174442.mp4
-avi,Adult video 25,http://pro.darknun.com/720/2015/08-04/174500.mp4
-avi,Adult video 26,http://pro.darknun.com/720/2015/08-07/174540.mp4
-avi,Adult video 27,http://pro.darknun.com/720/2015/08-19/174646.mp4
-avi,Adult video 28,http://pro.darknun.com/720/2015/09-01/174749.mp4
-avi,Adult video 29,http://pro.darknun.com/720/2015/09-10/174832.mp4
-avi,Adult video 3,http://pro.darknun.com/720/2014/10-06/171350.mp4
-avi,Adult video 30,http://pro.darknun.com/720/2015/09-12/174856.mp4
-avi,Adult video 31,http://pro.darknun.com/720/2015/09-14/174864.mp4
-avi,Adult video 32,http://pro.darknun.com/720/2015/09-24/174975.mp4
-avi,Adult video 33,http://pro.darknun.com/720/2015/09-29/175031.mp4
-avi,Adult video 34,http://pro.darknun.com/720/2015/10-07/175116.mp4
-avi,Adult video 35,http://pro.darknun.com/720/2015/10-21/175275.mp4
-avi,Adult video 36,http://pro.darknun.com/720/2015/10-24/175317.mp4
-avi,Adult video 37,http://pro.darknun.com/720/2015/11-19/175616.mp4
-avi,Adult video 38,http://pro.darknun.com/720/2015/11-30/175746.mp4
-avi,Adult video 39,http://pro.darknun.com/720/2015/12-02/175776.mp4
-avi,Adult video 4,http://pro.darknun.com/720/2014/12-07/172083.mp4
-avi,Adult video 40,http://pro.darknun.com/720/2015/12-04/175808.mp4
-avi,Adult video 41,http://pro.darknun.com/720/2015/12-05/175828.mp4
-avi,Adult video 42,http://pro.darknun.com/720/2015/12-05/175831.mp4
-avi,Adult video 43,http://pro.darknun.com/720/2015/12-09/175867.mp4
-avi,Adult video 44,http://pro.darknun.com/720/2015/12-11/175883.mp4
-avi,Adult video 45,http://pro.darknun.com/720/2015/12-12/175899.mp4
-avi,Adult video 46,http://pro.darknun.com/720/2015/12-25/176065.mp4
-avi,Adult video 47,http://pro.darknun.com/720/2016/01-12/176266.mp4
-avi,Adult video 48,http://pro.darknun.com/720/2016/01-13/176272.mp4
-avi,Adult video 49,http://pro.darknun.com/720/2016/01-13/176276.mp4
-avi,Adult video 5,http://pro.darknun.com/720/2014/12-14/172186.mp4
-avi,Adult video 50,http://pro.darknun.com/720/2016/02-03/176531.mp4
-avi,Adult video 51,http://pro.darknun.com/720/2016/02-05/176566.mp4
-avi,Adult video 52,http://pro.darknun.com/720/2016/02-12/176660.mp4
-avi,Adult video 53,http://pro.darknun.com/720/2016/02-15/176684.mp4
-avi,Adult video 54,http://pro.darknun.com/720/2016/02-19/176751.mp4
-avi,Adult video 55,http://pro.darknun.com/720/2016/03-31/177241.mp4
-avi,Adult video 56,http://pro.darknun.com/720/2016/03-31/177246.mp4
-avi,Adult video 57,http://pro.darknun.com/720/2016/04-05/177299.mp4
-avi,Adult video 58,http://pro.darknun.com/720/2016/04-06/177319.mp4
-avi,Adult video 59,http://pro.darknun.com/720/2016/04-07/177321.mp4
-avi,Adult video 6,http://pro.darknun.com/720/2014/12-22/172281.mp4
-avi,Adult video 60,http://pro.darknun.com/720/2016/06-04/178002.mp4
-avi,Adult video 61,http://pro.darknun.com/720/2017/03-03/178373.mp4
-avi,Adult video 62,http://pro.darknun.com/720/2017/03-15/178603.mp4
-avi,Adult video 63,http://pro.darknun.com/720/2017/04-09/179041.mp4
-avi,Adult video 64,http://pro.darknun.com/720/2017/04-12/179149.mp4
-avi,Adult video 65,http://pro.darknun.com/720/2017/04-19/179393.mp4
-avi,Adult video 66,http://pro.darknun.com/720/2017/04-24/179576.mp4
-avi,Adult video 67,http://pro.darknun.com/720/2017/04-24/179596.mp4
-avi,Adult video 68,http://pro.darknun.com/720/2017/04-27/179704.mp4
-avi,Adult video 69,http://pro.darknun.com/720/2017/05-08/179984.mp4
-avi,Adult video 7,http://pro.darknun.com/720/2014/12-22/172285.mp4
-avi,Adult video 70,http://pro.darknun.com/720/2017/05-08/179986.mp4
-avi,Adult video 71,http://pro.darknun.com/720/2017/05-11/180097.mp4
-avi,Adult video 72,http://pro.darknun.com/720/2017/05-22/180393.mp4
-avi,Adult video 73,http://pro.darknun.com/720/2017/05-23/180413.mp4
-avi,Adult video 74,http://pro.darknun.com/720/2017/06-05/180755.mp4
-avi,Adult video 75,http://pro.darknun.com/720/2017/06-26/181295.mp4
-avi,Adult video 76,http://pro.darknun.com/720/2017/07-01/181456.mp4
-avi,Adult video 77,http://pro.darknun.com/720/2017/07-01/181457.mp4
-avi,Adult video 78,http://pro.darknun.com/720/2017/07-01/181466.mp4
-avi,Adult video 79,http://pro.darknun.com/720/2017/07-03/181490.mp4
-avi,Adult video 8,http://pro.darknun.com/720/2015/01-05/172474.mp4
-avi,Adult video 80,http://pro.darknun.com/720/2017/07-04/181530.mp4
-avi,Adult video 81,http://pro.darknun.com/720/2017/07-05/181544.mp4
-avi,Adult video 82,http://pro.darknun.com/720/2017/07-05/181563.mp4
-avi,Adult video 83,http://pro.darknun.com/720/2017/07-08/181656.mp4
-avi,Adult video 84,http://pro.darknun.com/720/2017/07-08/181657.mp4
-avi,Adult video 85,http://pro.darknun.com/720/2017/07-13/181782.mp4
-avi,Adult video 86,http://pro.darknun.com/720/2017/07-14/181794.mp4
-avi,Adult video 87,http://pro.darknun.com/720/2017/07-14/181799.mp4
-avi,Adult video 88,http://pro.darknun.com/720/2017/07-14/181803.mp4
-avi,Adult video 89,http://pro.darknun.com/720/2017/07-14/181805.mp4
-avi,Adult video 9,http://pro.darknun.com/720/2015/03-03/173033.mp4
-avi,Adult video 90,http://pro.darknun.com/720/2017/07-20/181969.mp4
-avi,Adult video 91,http://pro.darknun.com/720/2017/07-29/182177.mp4
-avi,Adult video 92,http://pro.darknun.com/720/2017/08-07/182371.mp4
-avi,Adult video 93,http://pro.darknun.com/720/2017/08-09/182415.mp4
-avi,Adult video 94,http://pro.darknun.com/720/2017/08-28/182785.mp4
-avi,Adult video 95,http://pro.darknun.com/720/2017/09-01/182889.mp4
-avi,Adult video 96,http://pro.darknun.com/720/2017/09-08/183044.mp4
-avi,Adult video 97,http://pro.darknun.com/720/2017/11-11/184298.mp4
-avi,Adult video 98,http://pro.darknun.com/720/2017/11-23/184546.mp4
-avi,Adult video 99,http://pro.darknun.com/720/2017/11-28/184626.mp4
-avi,Horny girl,http://cdn.justporno.sex/video_hd/0/413.mp4
-avi,18 years old Evilyn,http://cdn.justporno.sex/video_hd/0/3781.mp4
-avi,Good throating and fucking,http://cdn.justporno.sex/video_hd/1709/17099.mp4
-avi,Horny 18 year,http://cdn.justporno.sex/video_hd/0/3883.mp4
-avi,Two 18 years,http://cdn.justporno.sex/video_hd/1761/17615.mp4
-avi,Cute Euro babe,http://cdn.justporno.sex/video_hd/1629/16292.mp4
-avi,Gros culs faire,http://cdn.justporno.sex/video_hd/0/6548.mp4
-avi,Suйdois jeune couple,http://cdn.justporno.sex/video_hd/1332/13323.mp4
-avi,Horny Hottie,http://cdn.justporno.sex/video_hd/1199/11992.mp4
-avi,Deux filles Euro,http://cdn.justporno.sex/video_hd/0/1696.mp4
-avi,Deux Euro,http://cdn.justporno.sex/video_hd/0/6137.mp4
-avi,Blonde Verinika & Silvia,http://cdn.justporno.sex/video_hd/1518/15184.mp4
-avi,Filles du collиge,http://cdn.justporno.sex/video_hd/0/5781.mp4
-avi,Horny Horny filles,http://cdn.justporno.sex/video_hd/0/3450.mp4
-avi,Dani Daniels,http://cdn.justporno.sex/video_hd/0/6494.mp4
-avi,Hot Stars,http://cdn.justporno.sex/video_hd/0/6532.mp4
-avi,Lizz fait,http://cdn.justporno.sex/video_hd/0/5834.mp4
-avi,La meilleure faзon,http://cdn.justporno.sex/video_hd/1314/13144.mp4
-avi,Trio Amour,http://cdn.justporno.sex/video_hd/0/2339.mp4
-avi,Trio coulйe,http://cdn.justporno.sex/video_hd/0/9655.mp4
-avi,MILF trio fille,http://cdn.justporno.sex/video_hd/0/3471.mp4
-avi,As Panteras - Incesto 7,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Angel Lima fazendo dupla penetraÃ§Ã£o,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Ninfeta brasileira fodendo com vizinho,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Putinha sentando forte no pau grande do namorado,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Novinha amadora gostosa dando a xoxota,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Amigas no hotel trepando,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,MorenaÃ§a rabuda fodendo no cassete grosso,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Chupando a boceta grande,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,PÃ¢mela Pantera fodendo toda lambuzada de Ã³leo,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Giovana Bombom fodendo cheia de tesÃ£o,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Manu Fox fodendo na cozinha,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,tio comendo o cu da sobrinha apÃ³s o banho,http://edgecast-video.xvideos.com/videos/mp4/f/e/3/xvideos.com_fe3c67881f2d8f262418b9c714a5ee63.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,rabudas levando pica grande do gringo tarado,http://hlme0kwqhv.singularcdn.net.br/dl/videos/videort577222.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,gostosas fazendo boquete,http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24060297.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Empregada gostosona fodendo com o filho tarado do patrÃ£o,http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoph568db638ce681.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,metendo com o negÃ£o pauzudo,http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24761409.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Brasileira novinha de bunda grande trepando com negro safado,http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoxh2730127.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Putinha peituda dando pra dois mulatos de cacete grande,http://hlme0kwqhv.singularcdn.net.br/dl/videos/video23235823.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Comendo a mÃ£e e a filha,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Dois paus no mesmo cu,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Sexo quente com uma morena safada,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,fodendo na banheira,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Loirinha safada no motel,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Loirinha safada no motel,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Loirinha brasileira no seu primeiro porno,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Pegou na praia e levou para o motel,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Marido aquecendo para o negrÃ£o comer,http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Loira Charmosa,http://media.pornocarioca.com/videos/mp4/6865/6865.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,IngÃªnua Mas Adora Foder,http://media.pornocarioca.com/videos/mp4/7085/7085.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Escola da Safadeza,http://media.pornocarioca.com/videos/mp4/7206/7206.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Do Cuzinho Pra Boca,http://media.pornocarioca.com/videos/mp4/6689/6689.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,SÃ³ Rabuda Deliciosa,http://media.pornocarioca.com/videos/mp4/6609/6609.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Ousadia em Locais Pouco Discretos,http://media.pornocarioca.com/videos/mp4/6515/6515.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Primeira Vez no PornÃ´,http://media.pornocarioca.com/videos/mp4/6404/6404.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Viviane AraÃºjo a Stripper,http://media.pornocarioca.com/videos/mp4/6316/6316.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Quinta do Conde,http://media.pornocarioca.com/videos/mp4/6222/6222.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Loira Gostosa Transando Com Gringos,http://media.pornocarioca.com/videos/mp4/6137/6137.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Desejos Sexuais,http://media.pornocarioca.com/videos/mp4/6009/6009.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,A Carioca Monique,http://media.pornocarioca.com/videos/mp4/5963/5963.mp4?LISTABYPEDROJUNIORTUTORIAIS
-avi,Porn Movies,http://iptvnation.com/porn/video.mp4
-avi,Porn Movies FHD,http://iptvnation.com/porn/video1080p.mp4
+group,-*-* VIDEO CLUB *-*-
+ext,*-*-* VIDEO CLUB *-*-*,http://zappingiptv.info:8080/live/sana/sana/8440.ts
+avi,3 Metros Acima Do C,http://zappingiptv.info:8080/movie/sana/sana/15338.mp4
+avi,A Ghost Story,http://zappingiptv.info:8080/movie/sana/sana/15340.mp4
+avi,A Hologram For The King,http://zappingiptv.info:8080/movie/sana/sana/15360.mp4
+avi,A Kind Of Murder,http://zappingiptv.info:8080/movie/sana/sana/15359.mp4
+avi,A M,http://zappingiptv.info:8080/movie/sana/sana/15358.mp4
+avi,A Menina Da R,http://zappingiptv.info:8080/movie/sana/sana/15357.avi
+avi,A Million Ways To Die In The West,http://zappingiptv.info:8080/movie/sana/sana/15356.mp4
+avi,A Monster Calls,http://zappingiptv.info:8080/movie/sana/sana/15351.mp4
+avi,A Question Of Faith,http://zappingiptv.info:8080/movie/sana/sana/15383.mp4
+avi,A Taxi Driver,http://zappingiptv.info:8080/movie/sana/sana/15430.mp4
+avi,A Todos Os Rapazes Que Amei,http://zappingiptv.info:8080/movie/sana/sana/15384.mp4
+avi,A Very Harold & Kumar Christmas,http://zappingiptv.info:8080/movie/sana/sana/15431.mp4
+avi,Absolutely Fabulous: The Movie,http://zappingiptv.info:8080/movie/sana/sana/15432.mp4
+avi,Accident Man,http://zappingiptv.info:8080/movie/sana/sana/15456.mp4
+avi,Acrimony,http://zappingiptv.info:8080/movie/sana/sana/15467.mp4
+avi,Acts Of Vengeance,http://zappingiptv.info:8080/movie/sana/sana/15466.mp4
+avi,Acts Of Violence,http://zappingiptv.info:8080/movie/sana/sana/15465.mp4
+avi,Addicted To Fresno,http://zappingiptv.info:8080/movie/sana/sana/15433.mp4
+avi,Adele,http://zappingiptv.info:8080/movie/sana/sana/15464.mp4
+avi,Adrift,http://zappingiptv.info:8080/movie/sana/sana/15434.mp4
+avi,After Porn Ends 2,http://zappingiptv.info:8080/movie/sana/sana/15436.mp4
+avi,Afterimage,http://zappingiptv.info:8080/movie/sana/sana/15440.mp4
+avi,Aftermath,http://zappingiptv.info:8080/movie/sana/sana/15441.mp4
+avi,Ali Wong: Hard Knock Wife,http://zappingiptv.info:8080/movie/sana/sana/15442.mp4
+avi,Alien: Covenant,http://zappingiptv.info:8080/movie/sana/sana/15454.mp4
+avi,All About The Money,http://zappingiptv.info:8080/movie/sana/sana/15443.mp4
+avi,All Eyez On Me,http://zappingiptv.info:8080/movie/sana/sana/15444.mp4
+avi,All I See Is You,http://zappingiptv.info:8080/movie/sana/sana/15445.mp4
+avi,All Nighter,http://zappingiptv.info:8080/movie/sana/sana/15446.mp4
+avi,All The Money In The World,http://zappingiptv.info:8080/movie/sana/sana/15462.mp4
+avi,Allegiant,http://zappingiptv.info:8080/movie/sana/sana/15453.mp4
+avi,Allied,http://zappingiptv.info:8080/movie/sana/sana/15447.mp4
+avi,Almost Adults,http://zappingiptv.info:8080/movie/sana/sana/15339.mp4
+avi,Almost Friends,http://zappingiptv.info:8080/movie/sana/sana/15461.mp4
+avi,AlphaGo,http://zappingiptv.info:8080/movie/sana/sana/15438.mp4
+avi,Altitude,http://zappingiptv.info:8080/movie/sana/sana/15437.mp4
+avi,Always Shine,http://zappingiptv.info:8080/movie/sana/sana/15435.mp4
+avi,Amateur,http://zappingiptv.info:8080/movie/sana/sana/15460.mp4
+avi,American Animals,http://zappingiptv.info:8080/movie/sana/sana/15459.mp4
+avi,American Assassin,http://zappingiptv.info:8080/movie/sana/sana/15458.mp4
+avi,Another Forever,http://zappingiptv.info:8080/movie/sana/sana/15387.mp4
+avi,Anthropoid,http://zappingiptv.info:8080/movie/sana/sana/15367.mp4
+avi,Aqui H,http://zappingiptv.info:8080/movie/sana/sana/15368.mp4
+avi,Arizona,http://zappingiptv.info:8080/movie/sana/sana/15369.mp4
+avi,Army Of One,http://zappingiptv.info:8080/movie/sana/sana/15370.mp4
+avi,ARQ,http://zappingiptv.info:8080/movie/sana/sana/15449.mp4
+avi,Arrival,http://zappingiptv.info:8080/movie/sana/sana/15371.mp4
+avi,Arrowhead,http://zappingiptv.info:8080/movie/sana/sana/15372.mp4
+avi,Arsenal,http://zappingiptv.info:8080/movie/sana/sana/15376.mp4
+avi,Assassin's Creed,http://zappingiptv.info:8080/movie/sana/sana/15377.mp4
+avi,At War For Love,http://zappingiptv.info:8080/movie/sana/sana/15378.mp4
+avi,Atomic Blonde,http://zappingiptv.info:8080/movie/sana/sana/15468.mp4
+avi,Atomica,http://zappingiptv.info:8080/movie/sana/sana/15379.mp4
+avi,Avatar,http://zappingiptv.info:8080/movie/sana/sana/15380.mp4
+avi,Avengers: Age Of Ultron,http://zappingiptv.info:8080/movie/sana/sana/15457.mp4
+avi,Avengers: Infinity War,http://zappingiptv.info:8080/movie/sana/sana/15448.mkv
+avi,Avicii: True Stories,http://zappingiptv.info:8080/movie/sana/sana/15381.mp4
+avi,Awakening The Zodiac,http://zappingiptv.info:8080/movie/sana/sana/15382.mp4
+avi,AWOL,http://zappingiptv.info:8080/movie/sana/sana/15452.mp4
+avi,Ayla: The Daughter Of War,http://zappingiptv.info:8080/movie/sana/sana/15455.mp4
+avi,Bad Samaritan,http://zappingiptv.info:8080/movie/sana/sana/15450.mp4
+avi,Batalha Do Pac,http://zappingiptv.info:8080/movie/sana/sana/15451.mp4
+avi,Baywatch,http://zappingiptv.info:8080/movie/sana/sana/15439.mp4
+avi,Be Afraid,http://zappingiptv.info:8080/movie/sana/sana/15366.mp4
+avi,Beach Rats,http://zappingiptv.info:8080/movie/sana/sana/15365.mp4
+avi,Beast,http://zappingiptv.info:8080/movie/sana/sana/15364.mp4
+avi,Beast Of Burden,http://zappingiptv.info:8080/movie/sana/sana/15363.mp4
+avi,Beatriz At Dinner,http://zappingiptv.info:8080/movie/sana/sana/15362.mp4
+avi,Becoming Bond,http://zappingiptv.info:8080/movie/sana/sana/15361.mp4
+avi,Bedeviled,http://zappingiptv.info:8080/movie/sana/sana/15355.mp4
+avi,Before I Fall,http://zappingiptv.info:8080/movie/sana/sana/15354.mp4
+avi,Beirut,http://zappingiptv.info:8080/movie/sana/sana/15353.mp4
+avi,Below Her Mouth,http://zappingiptv.info:8080/movie/sana/sana/15352.mp4
+avi,Ben-Hur,http://zappingiptv.info:8080/movie/sana/sana/15350.mp4
+avi,Benji,http://zappingiptv.info:8080/movie/sana/sana/15349.mp4
+avi,Bent,http://zappingiptv.info:8080/movie/sana/sana/15388.mp4
+avi,Berlin Syndrome,http://zappingiptv.info:8080/movie/sana/sana/15348.mp4
+avi,Besetment,http://zappingiptv.info:8080/movie/sana/sana/15347.mp4
+avi,Betting On Zero,http://zappingiptv.info:8080/movie/sana/sana/15346.mp4
+avi,Beware The Slenderman,http://zappingiptv.info:8080/movie/sana/sana/15345.mp4
+avi,Beyond Skyline,http://zappingiptv.info:8080/movie/sana/sana/15344.mp4
+avi,Billionaire Boys Club,http://zappingiptv.info:8080/movie/sana/sana/15343.mp4
+avi,Birth Of The Dragon,http://zappingiptv.info:8080/movie/sana/sana/15342.mp4
+avi,Breaking In,http://zappingiptv.info:8080/movie/sana/sana/15389.mp4
+avi,Calibre,http://zappingiptv.info:8080/movie/sana/sana/15390.mp4
+avi,Columbus,http://zappingiptv.info:8080/movie/sana/sana/15391.mp4
+avi,Com_Paix,http://zappingiptv.info:8080/movie/sana/sana/15392.mp4
+avi,Corbin Nash,http://zappingiptv.info:8080/movie/sana/sana/15393.mp4
+avi,Damascus Cover,http://zappingiptv.info:8080/movie/sana/sana/15394.mp4
+avi,Darc,http://zappingiptv.info:8080/movie/sana/sana/15395.mp4
+avi,Dark River,http://zappingiptv.info:8080/movie/sana/sana/15396.mp4
+avi,Deadpool 2,http://zappingiptv.info:8080/movie/sana/sana/15397.mp4
+avi,Death Note,http://zappingiptv.info:8080/movie/sana/sana/15398.mp4
+avi,Delirium,http://zappingiptv.info:8080/movie/sana/sana/15399.mp4
+avi,Desolation,http://zappingiptv.info:8080/movie/sana/sana/15400.mp4
+avi,Disobedience,http://zappingiptv.info:8080/movie/sana/sana/15401.mp4
+avi,Doutor Estranho,http://zappingiptv.info:8080/movie/sana/sana/15402.mp4
+avi,Down A Dark Hall,http://zappingiptv.info:8080/movie/sana/sana/15403.mp4
+avi,Expandir The Package,http://zappingiptv.info:8080/movie/sana/sana/15404.mp4
+avi,Extinction,http://zappingiptv.info:8080/movie/sana/sana/15405.mp4
+avi,Father Of The Year,http://zappingiptv.info:8080/movie/sana/sana/15406.mp4
+avi,Feral,http://zappingiptv.info:8080/movie/sana/sana/15336.mp4
+avi,First We Take Brooklyn,http://zappingiptv.info:8080/movie/sana/sana/15407.mp4
+avi,Flower,http://zappingiptv.info:8080/movie/sana/sana/15408.mp4
+avi,Ghostland,http://zappingiptv.info:8080/movie/sana/sana/15410.mp4
+avi,Gotti - Um Verdadeiro Padrinho Americano,http://zappingiptv.info:8080/movie/sana/sana/15409.mp4
+avi,Gringo,http://zappingiptv.info:8080/movie/sana/sana/15411.mp4
+avi,Harry Potter And The Philosopher's Stone,http://zappingiptv.info:8080/movie/sana/sana/15412.mp4
+avi,Heredit,http://zappingiptv.info:8080/movie/sana/sana/15413.mp4
+avi,Higher Power,http://zappingiptv.info:8080/movie/sana/sana/15414.mp4
+avi,Hot Summer Nights,http://zappingiptv.info:8080/movie/sana/sana/15416.mp4
+avi,How It Ends,http://zappingiptv.info:8080/movie/sana/sana/15415.mp4
+avi,I Can Only Imagine,http://zappingiptv.info:8080/movie/sana/sana/15417.mp4
+avi,Ideal Home,http://zappingiptv.info:8080/movie/sana/sana/15418.mp4
+avi,In Search Of Fellini,http://zappingiptv.info:8080/movie/sana/sana/15419.mp4
+avi,Island Zero,http://zappingiptv.info:8080/movie/sana/sana/15420.mp4
+avi,Jogador N,http://zappingiptv.info:8080/movie/sana/sana/15421.mp4
+avi,Journey's End,http://zappingiptv.info:8080/movie/sana/sana/15422.mp4
+avi,King Of Peking,http://zappingiptv.info:8080/movie/sana/sana/15423.mp4
+avi,Legend Of The Demon Cat,http://zappingiptv.info:8080/movie/sana/sana/15424.mp4
+avi,Like Father,http://zappingiptv.info:8080/movie/sana/sana/15425.mp4
+avi,Lion - A Longa Estrada Para Casa,http://zappingiptv.info:8080/movie/sana/sana/15426.mp4
+avi,Little Pink House,http://zappingiptv.info:8080/movie/sana/sana/15427.mp4
+avi,Maria Madalena,http://zappingiptv.info:8080/movie/sana/sana/15429.mp4
+avi,Mundo Jur,http://zappingiptv.info:8080/movie/sana/sana/15428.avi
+avi,Ocean's 8,http://zappingiptv.info:8080/movie/sana/sana/15463.mp4
+avi,Operation Red Sea,http://zappingiptv.info:8080/movie/sana/sana/15386.mp4
+avi,Pantera Negra,http://zappingiptv.info:8080/movie/sana/sana/15385.mp4
+avi,Party Bus To Hell,http://zappingiptv.info:8080/movie/sana/sana/15375.mp4
+avi,Pela Borda Fora,http://zappingiptv.info:8080/movie/sana/sana/15374.mp4
+avi,Plano De Fuga 2: Hades,http://zappingiptv.info:8080/movie/sana/sana/15373.mp4
+avi,Prece Ao Nascer Do Dia,http://zappingiptv.info:8080/movie/sana/sana/15341.mp4
+avi,Tengo Ganas De Ti (Portugu,http://zappingiptv.info:8080/movie/sana/sana/15337.mp4
 
-group,Adult Series
-avi,Fuckin Nerds 1 Part 1,http://v1.paradisehill.cc/video/080117-0038-192_part1.mp4
-avi,Fuckin Nerds 1 Part 2,http://v1.paradisehill.cc/video/080117-0038-192_part2.mp4
-avi,Fuckin Nerds 1 Part 3,http://v1.paradisehill.cc/video/080117-0038-192_part3.mp4
-avi,Fuckin Nerds 1 Part 4,http://v1.paradisehill.cc/video/080117-0038-192_part4.mp4
-avi,Fuckin Nerds 2 Part 1,http://v1.paradisehill.cc/video/080117-0038-193_part1.mp4
-avi,Fuckin Nerds 2 Part 2,http://v1.paradisehill.cc/video/080117-0038-193_part2.mp4
-avi,Fuckin Nerds 2 Part 3,http://v1.paradisehill.cc/video/080117-0038-193_part3.mp4
-avi,Fuckin Nerds 2 Part 4,http://v1.paradisehill.cc/video/080117-0038-193_part4.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 1,http://v1.paradisehill.cc/video/160617-1206-278_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 2,http://v1.paradisehill.cc/video/160617-1206-278_part2.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 3,http://v1.paradisehill.cc/video/160617-1206-279_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 4,http://v1.paradisehill.cc/video/160617-1206-280_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 5,http://v1.paradisehill.cc/video/160617-1206-280_part2.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 6,http://v1.paradisehill.cc/video/160617-1206-281_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 7,http://v1.paradisehill.cc/video/160617-1206-282_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 8,http://v1.paradisehill.cc/video/160617-1206-282_part2.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 9,http://v1.paradisehill.cc/video/160617-1206-283_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 10,http://v1.paradisehill.cc/video/160617-1206-283_part2.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 11,http://v1.paradisehill.cc/video/160617-1206-284_part1.mp4
-avi,TS FACTOR ALL STARS... JUST GIRLS PART 12,http://v1.paradisehill.cc/video/160617-1206-284_part2.mp4
-avi,Arab Street Hookers 7 Part 1,http://v1.paradisehill.cc/video/5a481565d77e2_Arab-Street-Hookers-7_part1.mp4
-avi,Arab Street Hookers 7 Part 2,http://v1.paradisehill.cc/video/5a481565d77e2_Arab-Street-Hookers-7_part2.mp4
-avi,Arab Street Hookers 7 Part 3,http://v1.paradisehill.cc/video/5a481565d77e2_Arab-Street-Hookers-7_part3.mp4
-avi,Arab Street Hookers 7 Part 4,http://v1.paradisehill.cc/video/5a481565d77e2_Arab-Street-Hookers-7_part4.mp4
-avi,Big Dick Glory Holes Part 1,http://v1.paradisehill.cc/video/big_dick_gloryholes-cd1.mp4
-avi,Big Dick Glory Holes Part 2,http://v1.paradisehill.cc/video/big_dick_gloryholes-cd2.mp4
-avi,Nerdy Girls Part 1,http://v1.paradisehill.cc/video/020616-0321-201_part1.mp4
-avi,Nerdy Girls Part 2,http://v1.paradisehill.cc/video/020616-0321-201_part2.mp4
-avi,Nerdy Girls Part 3,http://v1.paradisehill.cc/video/020616-0321-202_part1.mp4
-avi,Nerdy Girls Part 4,http://v1.paradisehill.cc/video/020616-0321-202_part2.mp4
-avi,Nerdy Girls 2 Part 1,http://v1.paradisehill.cc/video/020616-0321-204_part1.mp4
-avi,Nerdy Girls 2 Part 2,http://v1.paradisehill.cc/video/020616-0321-205_part1.mp4
-avi,Nerdy Girls 2 Part 3,http://v1.paradisehill.cc/video/020616-0321-206_part1.mp4
-avi,Nerdy Girls 2 Part 4,http://v1.paradisehill.cc/video/020616-0321-203_part1.mp4
-avi,Swallowed Part 1,http://v1.paradisehill.cc/video/070917-1246-60_part1.mp4
-avi,Swallowed Part 2,http://v1.paradisehill.cc/video/070917-1246-61_part1.mp4
-avi,Swallowed Part 3,http://v1.paradisehill.cc/video/070917-1246-62_part1.mp4
-avi,Swallowed Part 4,http://v1.paradisehill.cc/video/070917-1246-62_part2.mp4
-avi,Swallowed Part 5,http://v1.paradisehill.cc/video/070917-1246-63_part1.mp4
-avi,Swallowed Part 6,http://v1.paradisehill.cc/video/070917-1246-63_part2.mp4
-avi,Swallowed Part 7,http://v1.paradisehill.cc/video/070917-1246-64_part1.mp4
-avi,My TS HeartThrob Part 1,http://v1.paradisehill.cc/video/280617-2049-23_part1.mp4
-avi,My TS HeartThrob Part 2,http://v1.paradisehill.cc/video/280617-2049-24_part1.mp4
-avi,My TS HeartThrob Part 3,http://v1.paradisehill.cc/video/280617-2049-25_part1.mp4
-avi,My TS HeartThrob Part 4,http://v1.paradisehill.cc/video/280617-2049-26_part1.mp4
-avi,My TS HeartThrob Part 5,http://v1.paradisehill.cc/video/280617-2049-27_part1.mp4
-avi,Big Dick Glory Holes 2 Part 1,http://v1.paradisehill.cc/video/big_dick_gloryholes_2-cd1.mp4
-avi,Big Dick Glory Holes 2 Part 2,http://v1.paradisehill.cc/video/big_dick_gloryholes_2-cd2.mp4
-avi,Arabic Girls to Spread 2 Part 1,http://v1.paradisehill.cc/video/031117-2243-18_part1.mp4
-avi,Arabic Girls to Spread 2 Part 2,http://v1.paradisehill.cc/video/031117-2243-18_part2.mp4
-avi,Arabic Girls to Spread 2 Part 3,http://v1.paradisehill.cc/video/031117-2243-18_part3.mp4
-avi,Cougars Crave Young Cock! Part 1,http://v1.paradisehill.cc/video/cougars_crave_young_cock_cd1.mp4
-avi,Cougars Crave Young Cock! Part 2,http://v1.paradisehill.cc/video/cougars_crave_young_cock_cd2.mp4
-avi,[ARABSEXPOSED] SOPHIA LEONE (TOOK A SEXY REFUGEE HOME),https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc0854xc15168-1080p.mp4
-avi,[ARABSEXPOSED] JIMENA LAGO (MEET NEW SEXY ARAB GIRLFRIEND AND MY BOSS FUCK HER GOOD FOR YOU TO SEE),https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc294axc15171-1080p.mp4
-avi,[ARABSEXPOSED] NIKKI KAY (DESERT ROSE AKA PROSTITUTE),https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc288fxc15170-1080p.mp4
-avi,[ARABSEXPOSED] PENELOPE CUM (21 YEAR OLD REFUGEE IN MY HOTEL ROOM FOR SEX),https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc0a3cxc15169-1080p.mp4
-avi,[ARABSEXPOSED] JULIA ROCA (THE HOTTEST ARAB PORN IN THE WORLD),https://media.arabianchicks.com/videos/5/7/9/a/5/579a543da37dcxc15167-1080p.mp4
-avi,[ARABSEXPOSED] VICTORIA VALENCIA (DESPERATE ARAB WOMAN FUCKS FOR MONEY),https://media.arabianchicks.com/videos/5/7/9/a/5/579a543dc29f3xc15326-1080p.mp4
-avi,[ARABSEXPOSED] LUCIA (NO MONEY NO PROBLEM),https://media.arabianchicks.com/videos/5/7/a/c/3/57ac3a5ca666bxc153399-1080p.mp4
-avi,[ARABSEXPOSED] ZOE DOLL (WE’RE NOT HIRING BUT WE HAVE A JOB FOR YOU),https://media.arabianchicks.com/videos/5/7/d/e/6/57de6f25ebada.mp4
-avi,[ARABSEXPOSED] APOLONIA (ANYTHING TO HELP THE POOR),https://media.arabianchicks.com/videos/5/7/f/f/f/57fff8af7cab5.mp4
-avi,[ARABSEXPOSED] CAROLINA ABRIL (HUNGRY WOMAN GETS FOOD AND FUCK),https://media.arabianchicks.com/videos/5/8/5/0/2/585022804a04f.mp4
-avi,[Tour Of Booty] Desert Pussy,https://media.arabianchicks.com/videos/5/9/d/d/f/59ddffcea29a3.mp4
-avi,[Tour Of Booty] Pipe Dreams!,https://media.arabianchicks.com/videos/5/b/1/1/5/5b1156da28f56-tourofbooty-vid2.mp4
-avi,[Tour Of Booty] Afgan whorehouses exist!!!,https://media.arabianchicks.com/videos/5/9/d/d/f/59de068d115f2.mp4
-avi,[Tour Of Booty] Home Away From Home Away From Home,https://media.arabianchicks.com/videos/5/b/1/e/7/5b1e7cb5d0e7d-tourofbooty-vid4.mp4
-avi,[Tour Of Booty] Sneaking in the Base!!!,https://media.arabianchicks.com/videos/5/9/d/d/f/59de0e39ea9e0.mp4
-avi,[Tour Of Booty] The Booty Drop point 23km outside base,https://media.arabianchicks.com/videos/5/b/1/1/5/5b1156da280af-tourofbooty-vid1.mp4
-avi,[Tour Of Booty] Aamir's Delivery,https://media.arabianchicks.com/videos/5/b/2/8/2/5b282867e1193-tourofbootty-vid-5.mp4
-avi,[Tour Of Booty] Operation Pussy Run!,https://media.arabianchicks.com/videos/5/b/1/1/5/5b1156da29cdf-tourofbooty-vid3.mp4
-avi,[Tour Of Booty] Local Working Girl,https://media.arabianchicks.com/videos/5/9/f/f/7/59ff7cac45f9d-tc14535-1080p.mp4
-ext,[Tour Of Booty] On the hunt!,https://www.porntrex.com/get_file/8/1e09986ff4a9c86659abf180a02f7ea80dd2625587/359000/359422/359422_1080p.mp4/?rnd=1528295224784
-avi,My Sexy Kittens 14 Part 1,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part1.mp4
-avi,My Sexy Kittens 14 Part 2,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part2.mp4
-avi,My Sexy Kittens 14 Part 3,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part3.mp4
-avi,My Sexy Kittens 14 Part 4,https://v1.paradisehill.cc/video/5a48156599baa_My-Sexy-Kittens-14_part4.mp4
-avi,My Sexy Kittens 29 Part 1,https://v1.paradisehill.cc/video/5a48156599d26_My-Sexy-Kittens-29_part1.mp4
-avi,My Sexy Kittens 29 Part 2,https://v1.paradisehill.cc/video/5a48156599d26_My-Sexy-Kittens-29_part2.mp4
-avi,My Sexy Kittens 29 Part 3,https://v1.paradisehill.cc/video/5a48156599d26_My-Sexy-Kittens-29_part3.mp4
-avi,My Sexy Kittens 45 Part 1,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part1.mp4
-avi,My Sexy Kittens 45 Part 2,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part2.mp4
-avi,My Sexy Kittens 45 Part 3,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part3.mp4
-avi,My Sexy Kittens 45 Part 4,https://v1.paradisehill.cc/video/5a481565ab853_Seventeen-My-Sexy-Kittens-45_part4.mp4
+group,-*-* VOD INFANTIL *-*-
+ext,*-*-* VOD INFANTIL *-*-*,http://zappingiptv.info:8080/live/sana/sana/15523.ts
+avi,7,http://zappingiptv.info:8080/movie/sana/sana/15549.mp4
+avi,A Bela Adormecida,http://zappingiptv.info:8080/movie/sana/sana/15525.mkv
+ext,A Fuga Das Galinhas,http://zappingiptv.info:8080/movie/sana/sana/15526.null
+ext,A Guarda Do Le,http://zappingiptv.info:8080/movie/sana/sana/15561.null
+avi,A Idade Do Gelo: O Big Bang,http://zappingiptv.info:8080/movie/sana/sana/15605.mp4
+avi,A Lenda Do Drag,http://zappingiptv.info:8080/movie/sana/sana/15604.mp4
+avi,A Minha Irm,http://zappingiptv.info:8080/movie/sana/sana/15585.mp4
+avi,A Minha Vida De Courgette,http://zappingiptv.info:8080/movie/sana/sana/15603.mp4
+avi,A Revolta Dos Perus,http://zappingiptv.info:8080/movie/sana/sana/15533.mp4
+ext,A Viagem De Arlo,http://zappingiptv.info:8080/movie/sana/sana/15562.null
+avi,A Vida Secreta Dos Nossos Bichos,http://zappingiptv.info:8080/movie/sana/sana/15602.mp4
+avi,Abelha Maia - O Filme,http://zappingiptv.info:8080/movie/sana/sana/15544.mp4
+avi,Alice Do Outro Lado Do Espelho,http://zappingiptv.info:8080/movie/sana/sana/15601.mp4
+avi,Alpha & Omega 3: Os Grandes Jogos,http://zappingiptv.info:8080/movie/sana/sana/15554.mp4
+avi,Alpha And Omega 4: The Legend Of The Saw Tooth Cave,http://zappingiptv.info:8080/movie/sana/sana/15558.mp4
+avi,Alpha And Omega 5: Family Vacation,http://zappingiptv.info:8080/movie/sana/sana/15581.mp4
+avi,Angry Birds: O Filme,http://zappingiptv.info:8080/movie/sana/sana/15600.mp4
+avi,As Aventuras De Peabody E Sherman,http://zappingiptv.info:8080/movie/sana/sana/15543.mp4
+avi,As Aventuras De Tadeo,http://zappingiptv.info:8080/movie/sana/sana/15528.mp4
+avi,Ast,http://zappingiptv.info:8080/movie/sana/sana/15553.mp4
+avi,Avi,http://zappingiptv.info:8080/movie/sana/sana/15542.mp4
+avi,Bailarina,http://zappingiptv.info:8080/movie/sana/sana/15598.mp4
+avi,Barbie E As Suas Irm,http://zappingiptv.info:8080/movie/sana/sana/15574.mp4
+avi,Barbie E O Portal Secreto,http://zappingiptv.info:8080/movie/sana/sana/15541.mp4
+ext,Barbie E Suas Irm,http://zappingiptv.info:8080/movie/sana/sana/15563.null
+avi,Barbie: A Sereia Das P,http://zappingiptv.info:8080/movie/sana/sana/15532.mp4
+avi,Barbie: Agentes Secretas,http://zappingiptv.info:8080/movie/sana/sana/15597.mp4
+avi,Barbie: Aventura Nas Estrelas,http://zappingiptv.info:8080/movie/sana/sana/15599.mp4
+avi,Barbie: Butterfly E A Fada Princesa,http://zappingiptv.info:8080/movie/sana/sana/15531.mp4
+avi,Big Hero 6 - Os Novos Her,http://zappingiptv.info:8080/movie/sana/sana/15550.mp4
+avi,Bling - Super-Her,http://zappingiptv.info:8080/movie/sana/sana/15596.mp4
+avi,Cantar!,http://zappingiptv.info:8080/movie/sana/sana/15590.mp4
+avi,Carteiro Paulo - O Filme,http://zappingiptv.info:8080/movie/sana/sana/15540.mp4
+avi,Cegonhas,http://zappingiptv.info:8080/movie/sana/sana/15589.mp4
+ext,Cinderela,http://zappingiptv.info:8080/movie/sana/sana/15564.null
+avi,Como Treinares O Teu Drag,http://zappingiptv.info:8080/movie/sana/sana/15539.mp4
+avi,Divertida-Mente,http://zappingiptv.info:8080/movie/sana/sana/15556.mp4
+avi,Dofus - Book I: Julith,http://zappingiptv.info:8080/movie/sana/sana/15595.mp4
+avi,Doraemon: Nobita's Secret Gadget Museum,http://zappingiptv.info:8080/movie/sana/sana/15530.mp4
+avi,Estranha Magia,http://zappingiptv.info:8080/movie/sana/sana/15582.mp4
+ext,Festa Frozen - O Reino Do Gelo,http://zappingiptv.info:8080/movie/sana/sana/15565.null
+avi,Gato De Botas: Preso Num Conto,http://zappingiptv.info:8080/movie/sana/sana/15610.mp4
+avi,Heidi,http://zappingiptv.info:8080/movie/sana/sana/15583.mp4
+avi,Hotel Transylvania 2,http://zappingiptv.info:8080/movie/sana/sana/15557.mp4
+ext,Idade Do Gelo 2 - Descongelados,http://zappingiptv.info:8080/movie/sana/sana/15527.null
+avi,Kubo E As Duas Cordas,http://zappingiptv.info:8080/movie/sana/sana/15594.mp4
+avi,LEGO Marvel Super Heroes: Avengers Reassembled!,http://zappingiptv.info:8080/movie/sana/sana/15575.mp4
+ext,M,http://zappingiptv.info:8080/movie/sana/sana/15559.null
+avi,Marretas Procuram-se,http://zappingiptv.info:8080/movie/sana/sana/15538.mp4
+avi,Max Adventures: Magilika,http://zappingiptv.info:8080/movie/sana/sana/15545.mp4
+avi,Min,http://zappingiptv.info:8080/movie/sana/sana/15576.mp4
+avi,Minions: Competition,http://zappingiptv.info:8080/movie/sana/sana/15580.mp4
+avi,Minions: Cro Minion,http://zappingiptv.info:8080/movie/sana/sana/15579.mp4
+avi,Monster High: A Assustadora Barreira De Coral,http://zappingiptv.info:8080/movie/sana/sana/15593.mp4
+avi,Monster High: Uma Fus,http://zappingiptv.info:8080/movie/sana/sana/15551.mp4
+avi,Muito,http://zappingiptv.info:8080/movie/sana/sana/15555.mp4
+avi,My Little Pony: Equestria Girls - A Lenda De Everfree,http://zappingiptv.info:8080/movie/sana/sana/15570.mp4
+avi,My Little Pony: Equestria Girls - Rainbow Rocks,http://zappingiptv.info:8080/movie/sana/sana/15535.mp4
+avi,Norm - O Her,http://zappingiptv.info:8080/movie/sana/sana/15592.mp4
+avi,O Filme,http://zappingiptv.info:8080/movie/sana/sana/15584.mp4
+avi,O Gangue Do Parque 2,http://zappingiptv.info:8080/movie/sana/sana/15612.mp4
+avi,O Her,http://zappingiptv.info:8080/movie/sana/sana/15591.mp4
+avi,O Livro Da Selva,http://zappingiptv.info:8080/movie/sana/sana/15588.mp4
+avi,O Menino E O Mundo,http://zappingiptv.info:8080/movie/sana/sana/15577.mp4
+avi,O Panda Do Kung Fu 3,http://zappingiptv.info:8080/movie/sana/sana/15587.mp4
+avi,O Pequeno Vampiro,http://zappingiptv.info:8080/movie/sana/sana/15611.mp4
+ext,O Principezinho,http://zappingiptv.info:8080/movie/sana/sana/15560.null
+ext,Os Descendentes,http://zappingiptv.info:8080/movie/sana/sana/15568.null
+avi,Os Monstros Das Caixas,http://zappingiptv.info:8080/movie/sana/sana/15548.mp4
+avi,Ozzy,http://zappingiptv.info:8080/movie/sana/sana/15573.mp4
+avi,Paddington,http://zappingiptv.info:8080/movie/sana/sana/15536.mp4
+ext,Pan: Viagem,http://zappingiptv.info:8080/movie/sana/sana/15567.null
+avi,Pok,http://zappingiptv.info:8080/movie/sana/sana/15552.mp4
+avi,Robinson Cruso,http://zappingiptv.info:8080/movie/sana/sana/15572.mp4
+avi,Rock Dog: No Faro Do Sucesso,http://zappingiptv.info:8080/movie/sana/sana/15571.mp4
+avi,Russell O C,http://zappingiptv.info:8080/movie/sana/sana/15578.mp4
+avi,Sininho E A Lenda Do Monstro Do Nunca,http://zappingiptv.info:8080/movie/sana/sana/15537.mp4
+avi,Sininho: Fadas E Piratas,http://zappingiptv.info:8080/movie/sana/sana/15534.mp4
+avi,Snoopy E Charlie Brown: Peanuts - O Filme,http://zappingiptv.info:8080/movie/sana/sana/15547.mp4
+avi,SpongeBob: Esponja Fora De,http://zappingiptv.info:8080/movie/sana/sana/15546.mp4
+avi,Tinker Bell: Hora Do Bolo No Ref,http://zappingiptv.info:8080/movie/sana/sana/15529.mp4
+avi,Trolls,http://zappingiptv.info:8080/movie/sana/sana/15609.mp4
+avi,Um Lobo Em Pele De Cordeiro,http://zappingiptv.info:8080/movie/sana/sana/15608.mp4
+avi,Uma Aventura No Jur,http://zappingiptv.info:8080/movie/sana/sana/15566.mp4
+ext,Upsss! L,http://zappingiptv.info:8080/movie/sana/sana/15569.null
+avi,Vaiana,http://zappingiptv.info:8080/movie/sana/sana/15607.mp4
+avi,Zootr,http://zappingiptv.info:8080/movie/sana/sana/15586.mp4
+
+group,-*-* ADULTOS *-*-
+ext,*-*-* ADULTOS *-*-*,http://zappingiptv.info:8080/live/sana/sana/7890.ts
+ext,XXX Hustler TV XXX,http://zappingiptv.info:8080/live/sana/sana/5431.ts
+ext,XXX Sextreme HD XXX,http://zappingiptv.info:8080/live/sana/sana/5432.ts
+ext,XXX RedLight HD XXX,http://zappingiptv.info:8080/live/sana/sana/798.ts
+ext,XXX Playboy XXX,http://zappingiptv.info:8080/live/sana/sana/577.ts
+ext,XXX Dorcel XXX,http://zappingiptv.info:8080/live/sana/sana/835.ts
+ext,XXX Venus XXX,http://zappingiptv.info:8080/live/sana/sana/576.ts
+ext,XXX Evil Angel XXX,http://zappingiptv.info:8080/live/sana/sana/8716.ts
+
+group,-*-* FILMES & SERIES *-*-
+ext,*-*-* FILMES & SERIES *-*-*,http://zappingiptv.info:8080/live/sana/sana/7885.ts
+ext,TVC 1 LB,http://zappingiptv.info:8080/live/sana/sana/3432.ts
+tvc1.pt,TVC 1,http://zappingiptv.info:8080/live/sana/sana/1023.ts
+tvc1.pt,TVC 1 HD,http://zappingiptv.info:8080/live/sana/sana/1028.ts
+ext,TVC 2 LB,http://zappingiptv.info:8080/live/sana/sana/3431.ts
+tvc2,TVC 2,http://zappingiptv.info:8080/live/sana/sana/636.ts
+tvc2.pt,TVC 2 HD,http://zappingiptv.info:8080/live/sana/sana/702.ts
+ext,TVC 3 LB,http://zappingiptv.info:8080/live/sana/sana/3430.ts
+tvc3.pt,TVC 3,http://zappingiptv.info:8080/live/sana/sana/635.ts
+tvc3.pt,TVC 3 HD,http://zappingiptv.info:8080/live/sana/sana/703.ts
+ext,TVC 4 LB,http://zappingiptv.info:8080/live/sana/sana/3429.ts
+tvc4.pt,TVC 4,http://zappingiptv.info:8080/live/sana/sana/634.ts
+tvc4.pt,TVC 4 HD,http://zappingiptv.info:8080/live/sana/sana/704.ts
+ext,TV Series LB,http://zappingiptv.info:8080/live/sana/sana/16135.ts
+TVSeries.pt,TV Series,http://zappingiptv.info:8080/live/sana/sana/633.ts
+TVSeries.pt,TV Series HD,http://zappingiptv.info:8080/live/sana/sana/711.ts
+ext,Hollywood LB,http://zappingiptv.info:8080/live/sana/sana/16143.ts
+hollywood.pt,Hollywood,http://zappingiptv.info:8080/live/sana/sana/7836.ts
+hollywood.pt,Hollywood HD,http://zappingiptv.info:8080/live/sana/sana/705.ts
+ext,Cinemundo LB,http://zappingiptv.info:8080/live/sana/sana/16142.ts
+Cinemundo.pt,Cinemundo,http://zappingiptv.info:8080/live/sana/sana/631.ts
+FoodNetwork.eu,Food Network,http://zappingiptv.info:8080/live/sana/sana/629.ts
+ext,Fox LB,http://zappingiptv.info:8080/live/sana/sana/16133.ts
+FX.uk,Fox HD,http://zappingiptv.info:8080/live/sana/sana/628.ts
+ext,FoxComedy LB,http://zappingiptv.info:8080/live/sana/sana/16131.ts
+FoxComedy.ar,FoxComedy,http://zappingiptv.info:8080/live/sana/sana/624.ts
+ext,FoxCrime LB,http://zappingiptv.info:8080/live/sana/sana/16132.ts
+fox-crime,FoxCrime,http://zappingiptv.info:8080/live/sana/sana/9896.ts
+ext,FoxCrime HD,http://zappingiptv.info:8080/live/sana/sana/626.ts
+ext,FoxLife LB,http://zappingiptv.info:8080/live/sana/sana/16134.ts
+fox-life,FoxLife HD,http://zappingiptv.info:8080/live/sana/sana/627.ts
+ext,FoxMovies LB,http://zappingiptv.info:8080/live/sana/sana/16141.ts
+FOXmovies.svn,FoxMovies,http://zappingiptv.info:8080/live/sana/sana/625.ts
+ext,FoxMovies HD,http://zappingiptv.info:8080/live/sana/sana/3510.ts
+ext,AXN LB,http://zappingiptv.info:8080/live/sana/sana/16136.ts
+AXN.bg,AXN,http://zappingiptv.info:8080/live/sana/sana/623.ts
+AXN.it,AXN HD,http://zappingiptv.info:8080/live/sana/sana/706.ts
+AXN.it,AXN Full HD,http://zappingiptv.info:8080/live/sana/sana/9345.ts
+ext,AXN Black LB,http://zappingiptv.info:8080/live/sana/sana/16137.ts
+AXNBlack.pt,AXN Black,http://zappingiptv.info:8080/live/sana/sana/621.ts
+AXNBlack.pt,AXN Black HD,http://zappingiptv.info:8080/live/sana/sana/708.ts
+ext,AXN White LB,http://zappingiptv.info:8080/live/sana/sana/16138.ts
+AXNWhite.pt,AXN White,http://zappingiptv.info:8080/live/sana/sana/622.ts
+AXNWhite.es,AXN White HD,http://zappingiptv.info:8080/live/sana/sana/707.ts
+ext,SyFy LB,http://zappingiptv.info:8080/live/sana/sana/16139.ts
+SCIFI.uk,SyFy,http://zappingiptv.info:8080/live/sana/sana/620.ts
+ext,AMC LB,http://zappingiptv.info:8080/live/sana/sana/16140.ts
+AMC.uk,AMC,http://zappingiptv.info:8080/live/sana/sana/618.ts
+AMC.uk,AMC HD,http://zappingiptv.info:8080/live/sana/sana/10089.ts
+
+group,-*-* DOCUMENTARIOS *-*-
+ext,*-*-* DOCUMENTARIOS *-*-*,http://zappingiptv.info:8080/live/sana/sana/7888.ts
+E.uk,E! Entertainment,http://zappingiptv.info:8080/live/sana/sana/619.ts
+Discovery.uk,Discovery Channel,http://zappingiptv.info:8080/live/sana/sana/616.ts
+discov_showcase-hd,Discovery Showcase,http://zappingiptv.info:8080/live/sana/sana/613.ts
+NationalGeographic.uk,National Geographic HD,http://zappingiptv.info:8080/live/sana/sana/615.ts
+NatGeoWild.uk,National Geographic Wild,http://zappingiptv.info:8080/live/sana/sana/614.ts
+TLC.uk,TLC,http://zappingiptv.info:8080/live/sana/sana/612.ts
+CacaVision.pt,Caçavision,http://zappingiptv.info:8080/live/sana/sana/611.ts
+CBSReality.uk,CBS Reality,http://zappingiptv.info:8080/live/sana/sana/609.ts
+AyE.mx,A&E,http://zappingiptv.info:8080/live/sana/sana/608.ts
+History.uk,Historia,http://zappingiptv.info:8080/live/sana/sana/607.ts
+odisseia.pt,Odisseia,http://zappingiptv.info:8080/live/sana/sana/606.ts
+ext,Crime Investigacao,http://zappingiptv.info:8080/live/sana/sana/10199.ts
+24Kitchen.pt,24 Kitchen HD,http://zappingiptv.info:8080/live/sana/sana/605.ts
+Hot.pt,XXX Hot XXX,http://zappingiptv.info:8080/live/sana/sana/575.ts
