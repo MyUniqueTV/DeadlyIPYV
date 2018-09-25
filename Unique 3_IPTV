@@ -1,11 +1,219 @@
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2180.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2202.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2156.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2154.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2153.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2152.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2215.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2193.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2158.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2157.ts
-http://daddyiptv.com:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2147.ts
+group,UK
+ext,Al Jazeera English (Opt-1),http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+ext,Al Jazeera English (Opt-2),http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
+ext,Al Jazeera English (Opt-3),http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8?fluxustv.m3u8
+animal_rus,Animal Planet,http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+ARISENews.uk,Arise News,http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+AXN.cz,AXN,http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
+ext,BBC World News (Opt-1),http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
+ext,BBC World News (Opt-2),http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+beINSPORTS.us,beIN Sports,http://72.76.39.230:8000/play/a00z/index.m3u8
+Bloomberg.nws,Bloomberg TV UK,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+BoxHits.uk,Box Hits,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+BoxNation.uk,BoxNation,http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
+BTSport1.uk,BT Sport 1,http://185.53.163.205:2700
+BTSport2.uk,BT Sport 2,http://185.53.163.205:2506
+BTSport3.uk,BT Sport 3,http://185.53.163.205:2701
+BTSportESPN.uk,BT Sport ESPN,http://185.53.163.205:2507
+CapitalTV.uk,Capital TV,http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+ext,CGTN English (Opt-1),http://live.cgtn.com/500/prog_index.m3u8
+ext,CGTN English (Opt-2),http://live.cgtn.com/1000/prog_index.m3u8
+CNBCWorld.us,CNBC World,http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+CreateCraft.uk,Create and Craft,https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+discov_sci,Discovery Science,http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
+ext,Discovery World (Opt-1),http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+ext,Discovery World (Opt-2),http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
+dwelle-en,DW English,http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+english-club,English Club TV,http://ott-cdn.ucom.am/s37/index.m3u8
+euro,Euronews,http://61.58.60.230:9000/live/129.m3u8?fluxustv.m3u8
+extreme-sports,Extreme Sports Channel,http://persik.by/stream/1418/252987/10309.m3u8
+ext,Flow Sports,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+ext,France 24 English (Opt-1),http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ext,France 24 English (Opt-2),http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8?fluxustv.m3u8
+Gemporia.us,Gemporia,https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
+HeartTV.uk,Heart,http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+impact,ITV,http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+ITV2.uk,ITV 2,http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
+ext,Jewellery Maker,http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
+ext,KIX (Asia),http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8
+ext,Kool London Radio,http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+ext,Landscape TV,http://130.88.20.237:1235/monitor.flv
+LondonLive.uk,London Live,http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+ext,NHK World (Opt-1),http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+ext,NHK World (Opt-2),http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
+RussiaToday.uk,RT UK,https://secure-streams.akamaized.net/rt-uk/index.m3u8
+QVC.uk,QVC,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+ext,QVC UK +1,http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+QVCBeauty.uk,QVC Beauty,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+QVCStyle.uk,QVC Style,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+QVCExtra.uk,QVC Extra,http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+ext,Sky News (Opt-1),http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+ext,Sky News (Opt-2),http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+ext,TLC HD World (Opt-1),http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
+ext,TLC HD World (Opt-2),http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
+ext,TLC HD World (Opt-3),http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
+TravelXP.eu,Travel XP,http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
+TRTWorld.uk,TRT World,http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+group,IRELAND
+TG4.ie,TG4,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+RTENewsNow.ie,RTE News Now,http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+RTE1.ie,RTE 1,http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+RTE2.ie,RTE 2,http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+RTEjr.uk,RTE Jr.,https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+
+group,AUSTRALIA
+ext,2UE Sydney,http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+ext,3AW Melbourne,http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+ext,4BC Brisbane,http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+ext,9Gem (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,9Go! (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,9Life! (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,ABC (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,ABC 2 (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,ABC Me (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,ABC News (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,ABC News 24,http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+bloomberg,Bloomberg TV,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+ext,Channel 9 (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ExpoChannel.tr,Expo Channel,http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+ext,Food Network (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,NITV (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,SBS (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+ext,TEN (Geo),http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.028compatible%3B+FMSc%2F1.0%29
+ext,WestTV,http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
+
+group,NEW ZEALAND
+ext,CTV 8,http://live.936.nz:1935/live/ts.stream_360p/playlist.m3u8
+ext,Parliament TV (Opt-1),http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+ext,Parliament TV (Opt-2),http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+ext,Three,http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+ext,TVNZ 1 [Geo],https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
+ext,TVNZ 2 (Opt-1),https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+ext,TVNZ 2 (Opt-2),https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
+ext,TVSN,http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+ext,Wairarapa TV,http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+
+group,JAMAICA
+ext,Catch,http://161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8?fluxustv.m3u8
+ext,Catch 2,http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
+ext,CVM,http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBQU29OvUayFIJiGOZCgrkdXWwDIzxrtAl9mGmmC64HpEOM4Ge8KI-27SGqX_DJHyg==/a_n1eeiwgzyg0g.m3u8
+ext,Jamaica News Network,https://tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8?fluxustv.m3u8
+ext,Mello TV,https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+ext,TVJ Sports Network,http://uvodscp-lh.akamaihd.net//i//rjrtvjsndirect_1@506693//master.m3u8?fluxustv.m3u8
+
+group,USA LOCAL
+ext,NBC News 13 (Albany),http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+ext,WBRZ-TV (Baton Rouge),http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+ext,NBC 11 News (Bay Area),http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+ext,PIX 11 News (New York),https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
+ext,News 12 (The Bronx),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+ext,News 12 (Brooklyn),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+ext,News 12 (Long Island - Traffic),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+ext,News 12 (Long Island - News),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+ext,News 12 (Connecticut),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+ext,News 12 (Connecticut - Traffic),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+ext,News 12 (New York City - Traffic),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+ext,News 12 (New Jersey - Traffic),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+ext,News 12 (New Jersey),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+ext,News 12 (Hudson Valley),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+ext,News 12 (Westchester),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+ext,WCCB News (Charlotte),http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+ext,NBC 5 News (Chicago),http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+ext,NBC 5 News (Chicago),http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8?fluxustv.m3u8
+ext,WGN 9 News (Chicago),http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+ext,CBS 5 News (Colorado),http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+ext,WVIT 30 News (Hartford),http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+ext,News 12 (Hudson Valley),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+ext,CBS 4 News (Indianapolis),http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+ext,WHO 13 Weather (Iowa),http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
+ext,News 12 (Long Island),http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+ext,KCAL 9 News (Los Angeles),http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+ext,Boston 25 News (Massachusetts),http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+ext,News Center 7 (Ohio),http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
+ext,NBC 10 News (Philadelphia),http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+ext,Telemundo 62 (Philadelphia),http://wwsilive-lh.akamaihd.net/i/WWSI_LIVE1@183620/master.m3u8
+ext,Channel 11 News WPXI (Pittsburgh),http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+ext,KOB 4 News (Santa Fe),https://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8
+ext,ABC 7 News (Sarasota),http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+ext,King5 News (Seattle),http://king-lh.akamaihd.net/i/KING_Shows_1@77350/master.m3u8
+ext,KIRO 7 News (Seattle),http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+ext,KOMO 4 News (Seattle),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+ext,Fox 5 News (Washington DC),https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+ext,NBC 4 News (Washington DC),https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+ext,KRGV 5 (Weslaco),http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+group,PAKISTAN
+ext,7 News,http://cdn2.mjunoon.tv:25461/live/CDN/MJUNOON/10.m3u8
+news24,24 News,http://streamer12.dstreamone.com/ch24/channel24/playlist.m3u8
+ext,92 News (Opt-1),http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+ext,92 News (Opt-2),http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+ext,Aitmad TV,http://streamer12.dstreamone.com/live/aitmadtv/playlist.m3u8
+ARYDigital.uk,ARY Digital,http://149.202.205.24:1935/DIGITAL/myStream/playlist.m3u8
+ARYNews.uk,ARY News,http://158.69.228.195:1935/newsmobile/myStream/playlist.m3u8
+ext,Dawn News,http://199.167.151.237:1935/live/sp15_23.stream/gmswf.m3u8
+ext,Dunya News (Opt-1),http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+ext,Dunya News (Opt-2),http://stream1.qtelmedia.com:1936/live/duniyanewsweb/playlist.m3u8
+ext,Dunya News (Opt-3),http://199.167.151.237:1935/live/sp15_7.stream/gmswf.m3u8
+ext,Eye 95 TV (US),http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+GEONews.uk,Geo News,http://stream.jeem.tv/geo/geonews/playlist.m3u8
+ext,Hum TV,https://live.tune.tv/humtv/hum-tv/chunklist_w.m3u8
+HUMMasala.uk,Hum Masala,https://live.tune.tv/humasala/hum-asala/chunklist_w.m3u8
+ext,Jwand TV,http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
+ext,Lahore News,http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+ext,PTV News,http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+ext,PTV Sports,http://185.142.239.164:3135/Ptv/Sports/index.m3u8
+ext,Samaa (Opt-1),http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
+ext,Samaa (Opt-2),http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr.stream/playlist.m3u8
+Tez.in,Tez,http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+group,IRAN
+ext,Andisheh TV,http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+ext,Apadana TV,http://stream.aeducationaltv.org/watch/playlist.m3u8
+bbc-world,BBC,http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+ext,Caltex Music,http://vid1.caltexmusic.com/hls/caltextv.m3u8
+ext,CineFilm Farsi,http://176.9.48.184:1935/cinefilmhd/CineFilm/playlist.m3u8
+ext,Dreamland TV,http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
+ext,High Vision TV,http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
+ext,HTV Network,http://35.182.9.220:1935/HTVNetwork/myStream/playlist.m3u8
+ext,HTV Sport,http://35.182.9.220:1935/HTVSports/myStream/playlist.m3u8
+ext,HTV Fashion,http://35.182.9.220:1935/HTVFashion/myStream/playlist.m3u8
+ext,HTV Toon,http://35.182.9.220:1935/HTVToon/myStream/playlist.m3u8
+ext,iFilm (Opt-1),http://efusion1-i.akamaihd.net/hls/live/252882/ifilmfa/playlist.m3u8
+ext,iFilm (Opt-2),https://live.cdn.asset.aparat.com/astv1/edge/ifilm_high/index.m3u8
+ext,Iran TV Israel,http://54.86.164.91:1935/edge/80_11_live/playlist.m3u8
+ext,IraneFarda TV,http://66.160.192.249:8080/iranefarda/high/112416/TVBOXHD.COM/tracks-v1a1/index.m3u8
+ext,IRIB 1 (Opt-1),https://live.cdn.asset.aparat.com/astv1/edge/tv1_high/index.m3u8
+ext,IRIB 1 (Opt-2),http://cdn1.live.irib.ir:1935/e-tv/tv1-1mb.stream/playlist.m3u8
+ext,IRIB 2 (Opt-1),https://live.cdn.asset.aparat.com/astv1/edge/tv2_high/index.m3u8
+ext,IRIB 2 (Opt-2),http://cdn1.live.irib.ir:1935/e-tv/tv2-1mb.stream/playlist.m3u8
+ext,IRIB 2 (Opt-3),http://live.cdn.asset.aparat.com/astv1/edge/tv2_high/index.m3u8?wmsAuthSign=a811f24c5562b7a8aaf342e4fac92edd
+ext,IRIB 3 (Opt-1),http://77.238.121.150/live-53/smil:53_tv3.smil/playlist.m3u8
+ext,IRIB 3 (Opt-2),http://77.238.121.151/live-53/smil:53_tv3.smil/playlist.m3u8
+ext,IRIB 4,https://live.cdn.asset.aparat.com/astv1/edge/tv4_high/index.m3u8
+ext,IRIB 5,https://live.cdn.asset.aparat.com/astv1/edge/tv5_high/index.m3u8
+ext,IRIB Baran TV,http://cdn1.live.irib.ir:1935/e-tv/baran-300k.stream/playlist.m3u8
+ext,IRIB Tamasha,http://cdn1.live.irib.ir:1935/e-tv/tamasha-300k.stream/playlist.m3u8
+ext,IRIB Varzesh (Opt-1),http://cdn1.live.irib.ir:1935/e-tv3/varzesh-300k.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDE2IDExOjA5OjU4IEFNJmhhc2hfdmFsdWU9dWhMWVcxK3BuZXliWW1JWnNtekd3dz09JnZhbGlkbWludXRlcz0xMA==
+ext,IRIB Varzesh (Opt-2),http://cdn1.live.irib.ir:1935/e-tv/varzesh-1mb.stream/playlist.m3u8
+ext,IRINN (Opt-1),https://live.cdn.asset.aparat.com/astv1/edge/irinn_high/index.m3u8
+ext,IRINN (Opt-2),http://cdn1.live.irib.ir:1935/e-tv/irinn-300k.stream/playlist.m3u8
+ext,Kanal Yek TV,http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+ext,Khane Film,http://82.165.98.215:1935/iriptv1/12.stream/index.m3u8
+ext,Manoto,https://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master.m3u8
+ext,Melli TV Channel,http://208.75.229.50:1935/mellitv/myStream.sdp/playlist.m3u8
+ext,Mihan TV,http://104.236.167.95/live/playlist.m3u8
+ext,Omid-e-Iran OITN,http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u8
+ext,Parnian TV (Canada),http://wowzaprodhd62-lh.akamaihd.net/i/54957e59_1@108378/master.m3u8
+ext,Pars TV,http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+ext,PBC Tapesh TV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
+ext,Persian Bazaar TV,http://stream.persiantv1.com/live/pbtv/index.m3u8
+ext,Radio Asal Israel,http://66.160.192.250:8080/asaltv/live/index.m3u8
+ext,Radio Farda,http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+ext,Radio Javan,http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
+ext,Rangarang TV,http://iptv.rangarang.us/live/playlist.m3u8
+ext,Simaye Azadi (EU),https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+ext,Tin TV,http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
+VOA.cl,VoA,http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+
+group,AFGHANISTAN
+ext,Ariana TV,http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
