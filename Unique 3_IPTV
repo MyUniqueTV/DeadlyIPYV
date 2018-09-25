@@ -1,4 +1,5 @@
-group,UK
+#EXTM3U
+#EXTINF:group,UK
 ext,Al Jazeera English (Opt-1),http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 ext,Al Jazeera English (Opt-2),http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
 ext,Al Jazeera English (Opt-3),http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8?fluxustv.m3u8
